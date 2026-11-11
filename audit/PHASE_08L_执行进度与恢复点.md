@@ -2,14 +2,14 @@
 
 日期：2026-11-11（UTC+8）
 
-**DRAFT：A提交前快照，尚未标记任何远程检查点COMPLETE；不代表外部验收。**
+**CHECKPOINT_A_COMPLETE。A已真实提交、推送并逐文件核对远程；B/C尚未完成，不代表外部验收。**
 
 ## 1. 版本与配置
 
 - 分支：`literature/phase08l-new13-audit`。
 - Phase 07基准：`658d2ebe38a99594e48ebeb0901403df7718cf67`。
 - PDF固定来源main：`f7f6d93b004378fd5252a5ec906fc470a99a2976`。
-- 写入本快照前最新已核验推送Commit SHA：`658d2ebe38a99594e48ebeb0901403df7718cf67`（Phase 07）。
+- 写入本快照前最新已核验推送Commit SHA：`4f814c720c2128ebbed4810c46794d75611729b5`（检查点A成果）。
 - 完整恢复指令已收到，五份正式交付路径已确定，原先缺配置阻塞解除。
 - 刚开始曾使用临时本地分支名literature/phase08l-evidence-review，未提交/推送；现已安全重命名为指定分支，未丢弃成果。
 
@@ -25,7 +25,7 @@ git show origin/literature/phase08l-new13-audit:audit/PHASE_08L_执行进度与�
 
 |检查点|状态|已完成|下一动作|
 |---|---|---|---|
-|A|IN_PROGRESS|固定基准、13 PDF变动核查与安全提取、2版本逐页比较、保护文件校验|提交推送并核对远程后才标CHECKPOINT_A_COMPLETE|
+|A|COMPLETE|固定基准、13 PDF变动核查与安全提取、2版本逐页比较、保护文件校验|成果SHA 4f814c720c2128ebbed4810c46794d75611729b5 已推送且14路径远程字节一致|
 |B|NOT_STARTED|仅有技术可读性检查，无本轮新增文献学术核读完成|A保存后分类、逐篇原文/图表核读、证据卡、替换引文回归|
 |C|NOT_STARTED|已有10篇/13911叙述汉字为Phase 07事实，未作新规划|B后核身份、20篇位置/20000字可行性及五文件QA|
 
@@ -76,7 +76,7 @@ git show origin/literature/phase08l-new13-audit:audit/PHASE_08L_执行进度与�
 |literature/PHASE_08L_20篇引文达标规划.md|NOT_STARTED|
 |literature/PHASE_08L_统一文献索引.csv|NOT_STARTED|
 |audit/PHASE_08L_增量文献与四章引用审核.md|NOT_STARTED|
-|本进度文件|DRAFT / IN_PROGRESS，A推送待核|
+|本进度文件|A完成状态同步，B/C继续记录|
 
 - 20篇是未来正文实际引用目标，不将20候选冒称已引用；本轮只规划，不改四章。
 - 前四章13911叙述汉字，距20000差6089，不承诺靠文献数即可达标。
@@ -84,7 +84,7 @@ git show origin/literature/phase08l-new13-audit:audit/PHASE_08L_执行进度与�
 
 ## 6. 下次第一项任务与保存规则
 
-下一动作：安全提交A的13 PDF及本进度文件，推送指定分支并核对远程SHA/文件字节；成功后更新本文件为CHECKPOINT_A_COMPLETE并保存同步版本。随后继续B，从LE29—LE39原文题录与相关性分层开始，不重做A。
+下一动作：继续B，从LE29—LE39原文题录与相关性分层开始，保存逐篇证据及页码；A已完成，不重新整合或重跑版本比较。
 
 每完成实质阅读单元即在授权证据卡/矩阵及本进度中写入实际页码、图表、完成/待核范围；DRAFT不作最终证据。B、C均在真实提交/推送/远程核对后才标COMPLETE。保护范围在每次提交前核对；额度、上下文或工具受限时不启动新阅读，优先提交推送现有成果和具体恢复动作。禁止覆盖用户未提交修改、强推、重置历史或合并main。
 

@@ -26,7 +26,7 @@ git show origin/literature/phase08l-new13-audit:audit/PHASE_08L_执行进度与�
 |检查点|状态|已完成|下一动作|
 |---|---|---|---|
 |A|COMPLETE|固定基准、13 PDF变动核查与安全提取、2版本逐页比较、保护文件校验|成果SHA 4f814c720c2128ebbed4810c46794d75611729b5 已推送且14路径远程字节一致|
-|B|NOT_STARTED|仅有技术可读性检查，无本轮新增文献学术核读完成|A保存后分类、逐篇原文/图表核读、证据卡、替换引文回归|
+|B|IN_PROGRESS|新增指定范围证据已逐篇保存，见第7节|继续剩余文献及LE19/20引用回归|
 |C|NOT_STARTED|已有10篇/13911叙述汉字为Phase 07事实，未作新规划|B后核身份、20篇位置/20000字可行性及五文件QA|
 
 ## 3. A已完成与文件保护
@@ -44,12 +44,12 @@ git show origin/literature/phase08l-new13-audit:audit/PHASE_08L_执行进度与�
 
 |ID/变动|原路径|字节数/页数|整合后main SHA-256|学术阅读状态|
 |---|---|---|---|---|
-|LE29 / A|不同浓度海藻酸钠处理对杏果实保鲜效果的影响_任艺彬.pdf|655360 / 4|`57f2931f9e81f9d718e2ddf201e032e2f77de8cc612440c462adf57b241ac7f7`|NOT_STARTED；未按题名认定结论|
-|LE30 / A|外源海藻糖对草莓保鲜效果的影响_郝乾坤.pdf|1248068 / 4|`e91697be28d8db92ea2c9bf48b0ab300e329ef17e1c5930fad9906529142df9c`|NOT_STARTED；未按题名认定结论|
-|LE31 / A|大豆分离蛋白_海藻酸钠复合膜的制备及其果蔬保鲜应用研究_杨昕妍.pdf|3672216 / 69|`c1dd8d2735dc331075a16ced32bdb008488d440642bd99b8578ca3952c79a258`|NOT_STARTED；未按题名认定结论|
-|LE32 / A|天然保鲜剂对草莓贮藏期间品质的影响_张莉会.pdf|2081742 / 5|`d3c9a9ac5d9c7ad005ce394904c08e3716265b163be63593fa1acb4d5470c6f0`|NOT_STARTED；未按题名认定结论|
-|LE33 / A|新型果蔬可食用复合保鲜膜的制备及其保鲜性能研究_鲁云风.pdf|303558 / 7|`af33bc402eb5ed5f46fb9f94117a031269f32a8a9b5479f48ccdf24a97263fb2`|NOT_STARTED；未按题名认定结论|
-|LE34 / A|桃胶可食性涂膜对草莓保鲜效果的影响_于晴晴.pdf|1924544 / 6|`abe822c723e5f28c2c74ba3a0e8dc913fa2866a7232174ae046c4c1287fefca0`|NOT_STARTED；未按题名认定结论|
+|LE29 / A|不同浓度海藻酸钠处理对杏果实保鲜效果的影响_任艺彬.pdf|655360 / 4|`57f2931f9e81f9d718e2ddf201e032e2f77de8cc612440c462adf57b241ac7f7`|COMPLETE_SCOPE，详见第7节|
+|LE30 / A|外源海藻糖对草莓保鲜效果的影响_郝乾坤.pdf|1248068 / 4|`e91697be28d8db92ea2c9bf48b0ab300e329ef17e1c5930fad9906529142df9c`|COMPLETE_SCOPE，详见第7节|
+|LE31 / A|大豆分离蛋白_海藻酸钠复合膜的制备及其果蔬保鲜应用研究_杨昕妍.pdf|3672216 / 69|`c1dd8d2735dc331075a16ced32bdb008488d440642bd99b8578ca3952c79a258`|COMPLETE_SCOPE，详见第7节|
+|LE32 / A|天然保鲜剂对草莓贮藏期间品质的影响_张莉会.pdf|2081742 / 5|`d3c9a9ac5d9c7ad005ce394904c08e3716265b163be63593fa1acb4d5470c6f0`|COMPLETE_SCOPE，详见第7节|
+|LE33 / A|新型果蔬可食用复合保鲜膜的制备及其保鲜性能研究_鲁云风.pdf|303558 / 7|`af33bc402eb5ed5f46fb9f94117a031269f32a8a9b5479f48ccdf24a97263fb2`|COMPLETE_SCOPE，详见第7节|
+|LE34 / A|桃胶可食性涂膜对草莓保鲜效果的影响_于晴晴.pdf|1924544 / 6|`abe822c723e5f28c2c74ba3a0e8dc913fa2866a7232174ae046c4c1287fefca0`|COMPLETE_SCOPE，详见第7节|
 |LE35 / A|海藻酸钠-壳聚糖-茶末复合膜的制备及其对葡萄的保鲜效果_陈顺心.pdf|1475150 / 9|`9f9ea417fe63ab1eb22717d50ce473ebc35ac839f845cdf4427a9b28c7fd5429`|NOT_STARTED；未按题名认定结论|
 |LE36 / A|海藻酸钠_ε-聚赖氨酸层层自组装可食膜对蓝莓保鲜效果的研究_鲍若晗.pdf|2841930 / 10|`b86e6f0a3ddbc18fa53f78e3cf92392a0026d997c056d4bd1e8f19f31f137ed6`|NOT_STARTED；未按题名认定结论|
 |LE37 / A|海藻酸钠复合涂膜制备及芒果保鲜效果评价_王维.pdf|2410488 / 64|`31a204dd515eeaafd71fdb3c1a19c22d4e0f4e5f142b05285cf31df2e027049b`|NOT_STARTED；未按题名认定结论|
@@ -63,7 +63,7 @@ git show origin/literature/phase08l-new13-audit:audit/PHASE_08L_执行进度与�
 |LE19|`07e8969a8dfbfb153ed2c30ed25f6d7562c0783833996274c313422b95907c24`|9/9页文本/尺寸/渲染一致；旧证据卡历史不改写|
 |LE20|`b071ee75d131b94d86450166dbde8172cc587fde9e68866c8c950255d1f2d5c7`|71/71页文本/尺寸/渲染一致；旧证据卡历史不改写|
 
-- 新增已读文献ID：无；已核验新增学术结果页：无。LE29—LE39全部NOT_STARTED。
+- 已完成的新增指定核读与图表范围：见第7节；不把提取全文文本等同全文精读。
 - 替换技术比较覆盖LE19 p1—9、LE20 p1—71，但这不是重新全文学术精读。
 - 引用回归待核：LE19第四章[10]；LE20第一/四章[9]。同页可见内容一致没有修复LE19失重式问题，也没有给LE20增加可靠文本层。
 
@@ -71,8 +71,8 @@ git show origin/literature/phase08l-new13-audit:audit/PHASE_08L_执行进度与�
 
 |交付|状态|
 |---|---|
-|literature/PHASE_08L_新增文献分类与核验.md|NOT_STARTED|
-|literature/PHASE_08L_新增文献证据卡.md|NOT_STARTED|
+|literature/PHASE_08L_新增文献分类与核验.md|DRAFT / IN_PROGRESS|
+|literature/PHASE_08L_新增文献证据卡.md|DRAFT / IN_PROGRESS|
 |literature/PHASE_08L_20篇引文达标规划.md|NOT_STARTED|
 |literature/PHASE_08L_统一文献索引.csv|NOT_STARTED|
 |audit/PHASE_08L_增量文献与四章引用审核.md|NOT_STARTED|
@@ -91,3 +91,16 @@ git show origin/literature/phase08l-new13-audit:audit/PHASE_08L_执行进度与�
 Skills：本轮已实际重新读取cloud-environment-runtime及university-paper-writing SKILL.md，环境已刷新确认；普通Python/PyMuPDF检查不冒称专用Skill。B中按大学论文证据和引用规范开展实际核读。
 
 本阶段不授权Phase 09，不修改四章、数据、旧证据资料，不生成结论或整篇Word。检查点完成不代表外部人工审核通过。
+
+## 7. B逐篇已保存证据
+
+|ID|状态|已读范围|实际目视页|下步|
+|---|---|---|---|---|
+|LE29|COMPLETE_SCOPE|p1题录；p2方法/分级定义；p3图2–4结果；p4讨论/尾页抽核|3|复用已核范围，不重读；保留卡内限制|
+|LE30|COMPLETE_SCOPE|p1题录；p2方法/相对失重式；p3图2–5；p4讨论/TSS文字|3|复用已核范围，不重读；保留卡内限制|
+|LE31|COMPLETE_SCOPE|p1–2身份/2024；p5摘要定位；p23材料体系；p42–45方法；p46–49草莓结果|46,47,48|复用已核范围，不重读；保留卡内限制|
+|LE32|COMPLETE_SCOPE|p1题录；p2方法；p3图1–3/结果；p4–5仅结论/题录尾页定向|3|复用已核范围，不重读；保留卡内限制|
+|LE33|COMPLETE_SCOPE|p1题录/原料；p2方法；p3–5图2–5、表2；p7英文题录尾页|3,4,5|复用已核范围，不重读；保留卡内限制|
+|LE34|COMPLETE_SCOPE|p1题录/DOI；p2处理/20℃；p3测量方法；p4图1–4；p5图8|4,5|复用已核范围，不重读；保留卡内限制|
+
+尚未完成：LE35、LE36、LE37、LE38、LE39。下一项：LE35方法、结果与图表核验。C尚未开始。

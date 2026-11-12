@@ -1,0 +1,709 @@
+{
+  "base": "d90dfb801f7ff81789308a2e957d95201153967f",
+  "old95_base": "6c32c9d7058bd0431a037e7711faae935f460c6e",
+  "paths": 100,
+  "old95_paths": 95,
+  "all_unchanged": true,
+  "records": [
+    {
+      "path": "4EA7E7811F4D44AB8B3892557FC72A52.pdf",
+      "sha256_at_base": "525d5c9c5395ae73c9041326b9c7f460e1b673d22f2a9af1ec0bb61fb6971354",
+      "sha256_worktree": "525d5c9c5395ae73c9041326b9c7f460e1b673d22f2a9af1ec0bb61fb6971354",
+      "unchanged": true,
+      "old95": true
+    },
+    {
+      "path": "AGENTS.md",
+      "sha256_at_base": "e31edd08b80445db35a9206d8d1e9cbee9bbb2b949b4d89b13c5cb6f75a2a636",
+      "sha256_worktree": "e31edd08b80445db35a9206d8d1e9cbee9bbb2b949b4d89b13c5cb6f75a2a636",
+      "unchanged": true,
+      "old95": true
+    },
+    {
+      "path": "Effect+of+edible+coating+with+alginate+and+calcium+chloride+ 3.pdf",
+      "sha256_at_base": "7a795bdae972cb1c90d740c657642ab8d6e6d71312a405a24c36f7b1baa064bb",
+      "sha256_worktree": "7a795bdae972cb1c90d740c657642ab8d6e6d71312a405a24c36f7b1baa064bb",
+      "unchanged": true,
+      "old95": true
+    },
+    {
+      "path": "Effect+of+edible+coating+with+alginate+and+calcium+chloride+.pdf",
+      "sha256_at_base": "7a795bdae972cb1c90d740c657642ab8d6e6d71312a405a24c36f7b1baa064bb",
+      "sha256_worktree": "7a795bdae972cb1c90d740c657642ab8d6e6d71312a405a24c36f7b1baa064bb",
+      "unchanged": true,
+      "old95": true
+    },
+    {
+      "path": "Greta_Peretto_PhD_dissertation.pdf",
+      "sha256_at_base": "a056765038865fdb6c5bfaa2f69cc83e8ca7f4f0cbee996bf198e67c163ef151",
+      "sha256_worktree": "a056765038865fdb6c5bfaa2f69cc83e8ca7f4f0cbee996bf198e67c163ef151",
+      "unchanged": true,
+      "old95": true
+    },
+    {
+      "path": "Harpin处理结合羧甲基壳聚糖_海藻酸钠复合涂膜对哈密瓜保鲜效果的影响.pdf",
+      "sha256_at_base": "d9fbb2814e9a053f20f66993548aec97ca6ec24d38820a49fc3aaa4273c7d8e0",
+      "sha256_worktree": "d9fbb2814e9a053f20f66993548aec97ca6ec24d38820a49fc3aaa4273c7d8e0",
+      "unchanged": true,
+      "old95": true
+    },
+    {
+      "path": "QQ20261110-155042.png",
+      "sha256_at_base": "e19a4e3f73f70e6ec5424712340ed25fcf8e8614d99f58bb76651a286c790a3e",
+      "sha256_worktree": "e19a4e3f73f70e6ec5424712340ed25fcf8e8614d99f58bb76651a286c790a3e",
+      "unchanged": true,
+      "old95": true
+    },
+    {
+      "path": "QQ20261110-155132.png",
+      "sha256_at_base": "07f5a2b789846a1d078f26e22bab6fb0cb96984210e3bd2062c0ba59e762848f",
+      "sha256_worktree": "07f5a2b789846a1d078f26e22bab6fb0cb96984210e3bd2062c0ba59e762848f",
+      "unchanged": true,
+      "old95": true
+    },
+    {
+      "path": "README.md",
+      "sha256_at_base": "6aaacb9b48b47ec377c73f1054539325988871190f7b1976d53954dc987b6c92",
+      "sha256_worktree": "6aaacb9b48b47ec377c73f1054539325988871190f7b1976d53954dc987b6c92",
+      "unchanged": true,
+      "old95": true
+    },
+    {
+      "path": "S1-2018-333159-abstract.pdf",
+      "sha256_at_base": "002b73d5a7840f349d5977b2076af85acbb7aaeaeefbffb70b8c793d2b3ebd94",
+      "sha256_worktree": "002b73d5a7840f349d5977b2076af85acbb7aaeaeefbffb70b8c793d2b3ebd94",
+      "unchanged": true,
+      "old95": true
+    },
+    {
+      "path": "THESIS_PROFILE.md",
+      "sha256_at_base": "b9d018fb2db0e30dddbc5567bd867571242bc996fb69b5473217cb3d5d4bbfb2",
+      "sha256_worktree": "b9d018fb2db0e30dddbc5567bd867571242bc996fb69b5473217cb3d5d4bbfb2",
+      "unchanged": true,
+      "old95": true
+    },
+    {
+      "path": "analysis/PHASE_02_实验数据统计分析.md",
+      "sha256_at_base": "73cfd8b2615d7d291f0070a4e1d6b73cc230f2fceda5b60befe21c2b6665e3a4",
+      "sha256_worktree": "73cfd8b2615d7d291f0070a4e1d6b73cc230f2fceda5b60befe21c2b6665e3a4",
+      "unchanged": true,
+      "old95": true
+    },
+    {
+      "path": "analysis/PHASE_02_实验方法口径与核查清单.md",
+      "sha256_at_base": "ee45dbfa9d832598146dabb41ff61f7ddbf8e57cfceecd48991865a1aa5f49db",
+      "sha256_worktree": "ee45dbfa9d832598146dabb41ff61f7ddbf8e57cfceecd48991865a1aa5f49db",
+      "unchanged": true,
+      "old95": true
+    },
+    {
+      "path": "analysis/PHASE_02_研究结果与写作准备.md",
+      "sha256_at_base": "9766224622c8e92544b3b01e58bbeff13a50d3bec78d6aaff03177244b548de1",
+      "sha256_worktree": "9766224622c8e92544b3b01e58bbeff13a50d3bec78d6aaff03177244b548de1",
+      "unchanged": true,
+      "old95": true
+    },
+    {
+      "path": "analysis/figures/P02_F01_失重率.png",
+      "sha256_at_base": "ddb745e92032ec3800a63f8df37206e7c72b66487b21c867917671b26dd291da",
+      "sha256_worktree": "ddb745e92032ec3800a63f8df37206e7c72b66487b21c867917671b26dd291da",
+      "unchanged": true,
+      "old95": true
+    },
+    {
+      "path": "analysis/figures/P02_F01_失重率.svg",
+      "sha256_at_base": "a3ce80f2469586d4693b587a10dd8fad867c453e62651b62bbe5fa5efd27ee8e",
+      "sha256_worktree": "a3ce80f2469586d4693b587a10dd8fad867c453e62651b62bbe5fa5efd27ee8e",
+      "unchanged": true,
+      "old95": true
+    },
+    {
+      "path": "analysis/figures/P02_F02_累计腐烂.png",
+      "sha256_at_base": "52a1646cbb8b8f768bc36be3ee182ba5c9d85bfdd65d4d9ef6f7c46aca3b4ea9",
+      "sha256_worktree": "52a1646cbb8b8f768bc36be3ee182ba5c9d85bfdd65d4d9ef6f7c46aca3b4ea9",
+      "unchanged": true,
+      "old95": true
+    },
+    {
+      "path": "analysis/figures/P02_F02_累计腐烂.svg",
+      "sha256_at_base": "f7bc90fd70a3d9594aad60aa38a788d6fbbde862fcc65ee6ea4ebb2d68de1642",
+      "sha256_worktree": "f7bc90fd70a3d9594aad60aa38a788d6fbbde862fcc65ee6ea4ebb2d68de1642",
+      "unchanged": true,
+      "old95": true
+    },
+    {
+      "path": "analysis/figures/P02_F03_表观硬度.png",
+      "sha256_at_base": "1eb16d0f5086c9a0ce1330317b76552405a388db116961c7bf954679281286ad",
+      "sha256_worktree": "1eb16d0f5086c9a0ce1330317b76552405a388db116961c7bf954679281286ad",
+      "unchanged": true,
+      "old95": true
+    },
+    {
+      "path": "analysis/figures/P02_F03_表观硬度.svg",
+      "sha256_at_base": "58bc0bdbf6c37810ddb1c80ab061c58e8b3a251bf4fe8498a018e73481ca9d61",
+      "sha256_worktree": "58bc0bdbf6c37810ddb1c80ab061c58e8b3a251bf4fe8498a018e73481ca9d61",
+      "unchanged": true,
+      "old95": true
+    },
+    {
+      "path": "analysis/figures/P02_F04_TSS.png",
+      "sha256_at_base": "bdbb43df12b928e7c6596bfa02bac734b951ea54e54ca260757cde0a1726e23f",
+      "sha256_worktree": "bdbb43df12b928e7c6596bfa02bac734b951ea54e54ca260757cde0a1726e23f",
+      "unchanged": true,
+      "old95": true
+    },
+    {
+      "path": "analysis/figures/P02_F04_TSS.svg",
+      "sha256_at_base": "c051bbd9459326bd3cfad3883ab68628f3ef0b95a14bf541ebd54cb75744a9b3",
+      "sha256_worktree": "c051bbd9459326bd3cfad3883ab68628f3ef0b95a14bf541ebd54cb75744a9b3",
+      "unchanged": true,
+      "old95": true
+    },
+    {
+      "path": "analysis/figures/P02_F05_批次差异.png",
+      "sha256_at_base": "05d2e1343eaf2fa289bb8ba053a6563f310efa152404f6c799a830f81506d914",
+      "sha256_worktree": "05d2e1343eaf2fa289bb8ba053a6563f310efa152404f6c799a830f81506d914",
+      "unchanged": true,
+      "old95": true
+    },
+    {
+      "path": "analysis/figures/P02_F05_批次差异.svg",
+      "sha256_at_base": "25246dc26fe4c4420d2d63c85f1488dd011bda7d10b4c0f21b47556ba08aa70f",
+      "sha256_worktree": "25246dc26fe4c4420d2d63c85f1488dd011bda7d10b4c0f21b47556ba08aa70f",
+      "unchanged": true,
+      "old95": true
+    },
+    {
+      "path": "analysis/figures/P02_F06_温湿度.png",
+      "sha256_at_base": "8b0d0bef757c3576633d89626e5e5a502b90c64aebfcb1892deab8e1e9a0637e",
+      "sha256_worktree": "8b0d0bef757c3576633d89626e5e5a502b90c64aebfcb1892deab8e1e9a0637e",
+      "unchanged": true,
+      "old95": true
+    },
+    {
+      "path": "analysis/figures/P02_F06_温湿度.svg",
+      "sha256_at_base": "cc0e5460ebc904027392cf10dce810e9628e2e95f58f43085a7810085d57d1b8",
+      "sha256_worktree": "cc0e5460ebc904027392cf10dce810e9628e2e95f58f43085a7810085d57d1b8",
+      "unchanged": true,
+      "old95": true
+    },
+    {
+      "path": "analysis/scripts/analyze_phase02.py",
+      "sha256_at_base": "e7ee041e47bd070ea083cf7f22d5913fc59a19a0307fdc85ee6cfc74a1263490",
+      "sha256_worktree": "e7ee041e47bd070ea083cf7f22d5913fc59a19a0307fdc85ee6cfc74a1263490",
+      "unchanged": true,
+      "old95": true
+    },
+    {
+      "path": "analysis/scripts/build_phase02_reports.py",
+      "sha256_at_base": "cc4a20ae4ffdc5acfe84fb4acafda5cf480b7f7cecb79f6aa5a2b931354f5b10",
+      "sha256_worktree": "cc4a20ae4ffdc5acfe84fb4acafda5cf480b7f7cecb79f6aa5a2b931354f5b10",
+      "unchanged": true,
+      "old95": true
+    },
+    {
+      "path": "analysis/scripts/phase02_results.json",
+      "sha256_at_base": "8dd6de972025189f6f23dc63065e95776e68d917d83c868b65e4121cd284675a",
+      "sha256_worktree": "8dd6de972025189f6f23dc63065e95776e68d917d83c868b65e4121cd284675a",
+      "unchanged": true,
+      "old95": true
+    },
+    {
+      "path": "analysis/scripts/validate_phase02.py",
+      "sha256_at_base": "7fe8afac45dd2037daef36bbb691db34d90e915c297981dfb160e7e4bfd9441e",
+      "sha256_worktree": "7fe8afac45dd2037daef36bbb691db34d90e915c297981dfb160e7e4bfd9441e",
+      "unchanged": true,
+      "old95": true
+    },
+    {
+      "path": "analysis/研究数据_公式修复核验副本.xlsx",
+      "sha256_at_base": "9167c63e20dc6f9d6a454981620644897a631c653f861309bb90d66da0f298f2",
+      "sha256_worktree": "9167c63e20dc6f9d6a454981620644897a631c653f861309bb90d66da0f298f2",
+      "unchanged": true,
+      "old95": true
+    },
+    {
+      "path": "audit/PHASE_01B_关键问题整改报告.md",
+      "sha256_at_base": "c4e6e7ae3c0572df4e5cc2548bfa6e315b0aade898c6b6225b157cfeb671c9c9",
+      "sha256_worktree": "c4e6e7ae3c0572df4e5cc2548bfa6e315b0aade898c6b6225b157cfeb671c9c9",
+      "unchanged": true,
+      "old95": true
+    },
+    {
+      "path": "audit/PHASE_01B_待补原始证据清单.md",
+      "sha256_at_base": "3f75000e343975d2c4739543c68d2a4fda95e17b6f8ec8a32042b16d07e9b57b",
+      "sha256_worktree": "3f75000e343975d2c4739543c68d2a4fda95e17b6f8ec8a32042b16d07e9b57b",
+      "unchanged": true,
+      "old95": true
+    },
+    {
+      "path": "audit/PHASE_01_资料与数据可用性审核.md",
+      "sha256_at_base": "ffea0e32a253cc21019a45cc58b9ef5cb02499f1fad1dd7af18f7421b822ac54",
+      "sha256_worktree": "ffea0e32a253cc21019a45cc58b9ef5cb02499f1fad1dd7af18f7421b822ac54",
+      "unchanged": true,
+      "old95": true
+    },
+    {
+      "path": "audit/PHASE_03_大纲证据映射与验收.md",
+      "sha256_at_base": "455204c7547fc9baa3f1af5ff3b3b5ea989b5221a9f699f953d36644841d3dbc",
+      "sha256_worktree": "455204c7547fc9baa3f1af5ff3b3b5ea989b5221a9f699f953d36644841d3dbc",
+      "unchanged": true,
+      "old95": true
+    },
+    {
+      "path": "audit/PHASE_04L_文献深度审查与验收报告.md",
+      "sha256_at_base": "acc29c490e5a5726cb69616e5c51f9148a3d344a2a9ab9a52641645d4a394f3a",
+      "sha256_worktree": "acc29c490e5a5726cb69616e5c51f9148a3d344a2a9ab9a52641645d4a394f3a",
+      "unchanged": true,
+      "old95": true
+    },
+    {
+      "path": "audit/PHASE_04_第一章引用与质量核验.md",
+      "sha256_at_base": "09630982cd366ef3196780a24fb91e6bc8efa436f01459f9021513550836debe",
+      "sha256_worktree": "09630982cd366ef3196780a24fb91e6bc8efa436f01459f9021513550836debe",
+      "unchanged": true,
+      "old95": true
+    },
+    {
+      "path": "audit/PHASE_05_第二章方法真实性与质量核验.md",
+      "sha256_at_base": "4642cfbb5b9bf2aa24f5d0fefbab64d67cd90fd2615340a52ac53541d3580cda",
+      "sha256_worktree": "4642cfbb5b9bf2aa24f5d0fefbab64d67cd90fd2615340a52ac53541d3580cda",
+      "unchanged": true,
+      "old95": true
+    },
+    {
+      "path": "audit/PHASE_06_第三章数据图表与质量核验.md",
+      "sha256_at_base": "696121f72b6862030f72291df83d02850e3c16260cd3d22d95e355e82014d562",
+      "sha256_worktree": "696121f72b6862030f72291df83d02850e3c16260cd3d22d95e355e82014d562",
+      "unchanged": true,
+      "old95": true
+    },
+    {
+      "path": "audit/PHASE_07_第四章文献论证与质量核验.md",
+      "sha256_at_base": "847376c0d124302a4d70da759d5876ce6252f186fc43520ad79cde041ced0817",
+      "sha256_worktree": "847376c0d124302a4d70da759d5876ce6252f186fc43520ad79cde041ced0817",
+      "unchanged": true,
+      "old95": true
+    },
+    {
+      "path": "audit/PHASE_08C_结论与全文逻辑闭环审核.md",
+      "sha256_at_base": "68fd2fcd3e63c97eaf6eea24445c5f651f8e8729b30dd3bcd83292ec3afad593",
+      "sha256_worktree": "68fd2fcd3e63c97eaf6eea24445c5f651f8e8729b30dd3bcd83292ec3afad593",
+      "unchanged": true,
+      "old95": true
+    },
+    {
+      "path": "audit/PHASE_08L_增量文献与四章引用审核.md",
+      "sha256_at_base": "b981fdc3ca3697e5d1f5d195d8c5ce31ecc2e2c1fbea80b24b49e5b8bae6c714",
+      "sha256_worktree": "b981fdc3ca3697e5d1f5d195d8c5ce31ecc2e2c1fbea80b24b49e5b8bae6c714",
+      "unchanged": true,
+      "old95": true
+    },
+    {
+      "path": "audit/PHASE_08L_执行进度与恢复点.md",
+      "sha256_at_base": "d64745ccdfab5d995a409167502198dc2cc6ac86fb8701843250348b17680a99",
+      "sha256_worktree": "d64745ccdfab5d995a409167502198dc2cc6ac86fb8701843250348b17680a99",
+      "unchanged": true,
+      "old95": true
+    },
+    {
+      "path": "audit/PHASE_09A_后续阶段执行规划.md",
+      "sha256_at_base": "d4e5dcb4c0dba830cc5e0cf41cd5178921caf58107a9c044a9830ca478da1c15",
+      "sha256_worktree": "d4e5dcb4c0dba830cc5e0cf41cd5178921caf58107a9c044a9830ca478da1c15",
+      "unchanged": true,
+      "old95": false
+    },
+    {
+      "path": "audit/PHASE_09A_新主数据质量审核.md",
+      "sha256_at_base": "2e4f67d8c0a0c1d04174811ca8f563ac062424194e67a6c2c806943f04437424",
+      "sha256_worktree": "2e4f67d8c0a0c1d04174811ca8f563ac062424194e67a6c2c806943f04437424",
+      "unchanged": true,
+      "old95": false
+    },
+    {
+      "path": "audit/PHASE_09A_新旧数据差异与追溯.md",
+      "sha256_at_base": "366718d498829c07e7c3b31ad71431b9f0dfacbd072114970b21fe999ab85561",
+      "sha256_worktree": "366718d498829c07e7c3b31ad71431b9f0dfacbd072114970b21fe999ab85561",
+      "unchanged": true,
+      "old95": false
+    },
+    {
+      "path": "audit/PHASE_09A_论文修改影响清单.md",
+      "sha256_at_base": "319b319c4d6f2eb07112246596a40b482be506e6d7914125e4f2e243cdac7b84",
+      "sha256_worktree": "319b319c4d6f2eb07112246596a40b482be506e6d7914125e4f2e243cdac7b84",
+      "unchanged": true,
+      "old95": false
+    },
+    {
+      "path": "coatings-14-01331 2.pdf",
+      "sha256_at_base": "0daef1792527746bb83ddc35429acb73fe612ddf47de9e8cbe05f879b92a81a4",
+      "sha256_worktree": "0daef1792527746bb83ddc35429acb73fe612ddf47de9e8cbe05f879b92a81a4",
+      "unchanged": true,
+      "old95": true
+    },
+    {
+      "path": "eb0e68fb8f6c2a811368a62e444e782162e8 2.pdf",
+      "sha256_at_base": "d4f9e735c0b02f01bf568dd9ce8b06485d00fadfe9a9047a1d8664dc78606634",
+      "sha256_worktree": "d4f9e735c0b02f01bf568dd9ce8b06485d00fadfe9a9047a1d8664dc78606634",
+      "unchanged": true,
+      "old95": true
+    },
+    {
+      "path": "eb0e68fb8f6c2a811368a62e444e782162e8.pdf",
+      "sha256_at_base": "d4f9e735c0b02f01bf568dd9ce8b06485d00fadfe9a9047a1d8664dc78606634",
+      "sha256_worktree": "d4f9e735c0b02f01bf568dd9ce8b06485d00fadfe9a9047a1d8664dc78606634",
+      "unchanged": true,
+      "old95": true
+    },
+    {
+      "path": "foods-08-00203-v2 2.pdf",
+      "sha256_at_base": "ca6776176de675559ba75c9b8fa207704ce4a835ea710d6fff973b99ecd18f0f",
+      "sha256_worktree": "ca6776176de675559ba75c9b8fa207704ce4a835ea710d6fff973b99ecd18f0f",
+      "unchanged": true,
+      "old95": true
+    },
+    {
+      "path": "jcs-04-00123 2.pdf",
+      "sha256_at_base": "424d6ba731c6e2997fba900c8e77c7cc077de75fe7562a0580901122f541c534",
+      "sha256_worktree": "424d6ba731c6e2997fba900c8e77c7cc077de75fe7562a0580901122f541c534",
+      "unchanged": true,
+      "old95": true
+    },
+    {
+      "path": "jcs-04-00123.pdf",
+      "sha256_at_base": "424d6ba731c6e2997fba900c8e77c7cc077de75fe7562a0580901122f541c534",
+      "sha256_worktree": "424d6ba731c6e2997fba900c8e77c7cc077de75fe7562a0580901122f541c534",
+      "unchanged": true,
+      "old95": true
+    },
+    {
+      "path": "literature/PHASE_04L_全部文献分类与可用性矩阵.md",
+      "sha256_at_base": "471267217b3e6f21e0e7b41eee858d436a1c536c5d63e1db3939dbc0282fc2ec",
+      "sha256_worktree": "471267217b3e6f21e0e7b41eee858d436a1c536c5d63e1db3939dbc0282fc2ec",
+      "unchanged": true,
+      "old95": true
+    },
+    {
+      "path": "literature/PHASE_04L_文献矩阵.csv",
+      "sha256_at_base": "dadb35731092df6ff419b34099d864f782f0ee2b4f8704d374e856f44d2c72d0",
+      "sha256_worktree": "dadb35731092df6ff419b34099d864f782f0ee2b4f8704d374e856f44d2c72d0",
+      "unchanged": true,
+      "old95": true
+    },
+    {
+      "path": "literature/PHASE_04L_核心文献证据卡.md",
+      "sha256_at_base": "fe8f44d72c5660742bbdcae21060f190e054390a0191463b3bf11ea2e04e5689",
+      "sha256_worktree": "fe8f44d72c5660742bbdcae21060f190e054390a0191463b3bf11ea2e04e5689",
+      "unchanged": true,
+      "old95": true
+    },
+    {
+      "path": "literature/PHASE_04L_论文章节引用规划.md",
+      "sha256_at_base": "d4536161341338c99d672403b9f719e329ce00beb6e95f92d61a2655e3e43e8b",
+      "sha256_worktree": "d4536161341338c99d672403b9f719e329ce00beb6e95f92d61a2655e3e43e8b",
+      "unchanged": true,
+      "old95": true
+    },
+    {
+      "path": "literature/PHASE_08L_20篇引文达标规划.md",
+      "sha256_at_base": "3791ea1251a3d0a799d6725d28b191d7872c53585efdcdadbcff71e2ffccee81",
+      "sha256_worktree": "3791ea1251a3d0a799d6725d28b191d7872c53585efdcdadbcff71e2ffccee81",
+      "unchanged": true,
+      "old95": true
+    },
+    {
+      "path": "literature/PHASE_08L_新增文献分类与核验.md",
+      "sha256_at_base": "c392e685a344bf4761577c50c9e9ae0c1cd70bb0773522f93d217d3a46656ccf",
+      "sha256_worktree": "c392e685a344bf4761577c50c9e9ae0c1cd70bb0773522f93d217d3a46656ccf",
+      "unchanged": true,
+      "old95": true
+    },
+    {
+      "path": "literature/PHASE_08L_新增文献证据卡.md",
+      "sha256_at_base": "4676d815e047f46b0028e51367a7d39fcf5237ca5d487771bbebb6a9e54ff528",
+      "sha256_worktree": "4676d815e047f46b0028e51367a7d39fcf5237ca5d487771bbebb6a9e54ff528",
+      "unchanged": true,
+      "old95": true
+    },
+    {
+      "path": "literature/PHASE_08L_统一文献索引.csv",
+      "sha256_at_base": "745a9187c808a95aefd63636c6b634ade1d19074e1776171452169a7fd4736f5",
+      "sha256_worktree": "745a9187c808a95aefd63636c6b634ade1d19074e1776171452169a7fd4736f5",
+      "unchanged": true,
+      "old95": true
+    },
+    {
+      "path": "mh611.pdf",
+      "sha256_at_base": "954c07da9bbb54aa4db3426b974de56b095e71f0a5f30e180da430a6f83708ae",
+      "sha256_worktree": "954c07da9bbb54aa4db3426b974de56b095e71f0a5f30e180da430a6f83708ae",
+      "unchanged": true,
+      "old95": true
+    },
+    {
+      "path": "thesis/PHASE_03_本科毕业论文详细大纲.md",
+      "sha256_at_base": "e6d8c6bdbfdd493c823a30c875d83e32dfbf301daec4d2e957ee143fdf981b00",
+      "sha256_worktree": "e6d8c6bdbfdd493c823a30c875d83e32dfbf301daec4d2e957ee143fdf981b00",
+      "unchanged": true,
+      "old95": true
+    },
+    {
+      "path": "thesis/chapters/第1章_绪论_初稿.md",
+      "sha256_at_base": "7c690722fc56c642730e226f27349af7f370975c3e7c536be77fb9d6380a3d97",
+      "sha256_worktree": "7c690722fc56c642730e226f27349af7f370975c3e7c536be77fb9d6380a3d97",
+      "unchanged": true,
+      "old95": true
+    },
+    {
+      "path": "thesis/chapters/第2章_材料与方法_初稿.md",
+      "sha256_at_base": "d9fc6ad7ea417839576f26d782761989f103add4bbdf2bb6d8177f6843b58cdd",
+      "sha256_worktree": "d9fc6ad7ea417839576f26d782761989f103add4bbdf2bb6d8177f6843b58cdd",
+      "unchanged": true,
+      "old95": true
+    },
+    {
+      "path": "thesis/chapters/第3章_结果与分析_初稿.md",
+      "sha256_at_base": "b2f4fc14cfd9eca4e065920143d4755d8e6913875acc25f3b9d6606645822421",
+      "sha256_worktree": "b2f4fc14cfd9eca4e065920143d4755d8e6913875acc25f3b9d6606645822421",
+      "unchanged": true,
+      "old95": true
+    },
+    {
+      "path": "thesis/chapters/第4章_讨论_初稿.md",
+      "sha256_at_base": "f3d08ce09a6e6d0c16bb154d2cec3b7f66d5867b06671d43a895e28ed695b5c4",
+      "sha256_worktree": "f3d08ce09a6e6d0c16bb154d2cec3b7f66d5867b06671d43a895e28ed695b5c4",
+      "unchanged": true,
+      "old95": true
+    },
+    {
+      "path": "thesis/chapters/结论_初稿.md",
+      "sha256_at_base": "1fe35e4bb367e0d8b451ac6b9c6cb19ef707e1938aa93a7ce90bd85f9706f3f2",
+      "sha256_worktree": "1fe35e4bb367e0d8b451ac6b9c6cb19ef707e1938aa93a7ce90bd85f9706f3f2",
+      "unchanged": true,
+      "old95": true
+    },
+    {
+      "path": "不同浓度海藻酸钠处理对杏果实保鲜效果的影响_任艺彬.pdf",
+      "sha256_at_base": "57f2931f9e81f9d718e2ddf201e032e2f77de8cc612440c462adf57b241ac7f7",
+      "sha256_worktree": "57f2931f9e81f9d718e2ddf201e032e2f77de8cc612440c462adf57b241ac7f7",
+      "unchanged": true,
+      "old95": true
+    },
+    {
+      "path": "中草药海藻酸钠复合膜的制备及其对圣女果的保鲜效果_朱莹恒.pdf",
+      "sha256_at_base": "4acf4c5f7f4f7308aa449d8158d396a7a5501658dc8646e25fe96335346ac940",
+      "sha256_worktree": "4acf4c5f7f4f7308aa449d8158d396a7a5501658dc8646e25fe96335346ac940",
+      "unchanged": true,
+      "old95": true
+    },
+    {
+      "path": "四川工业科技学院本科毕业设计(论文)-样式模板(定稿).docx",
+      "sha256_at_base": "1ba80eb5e63d06a3242162cda358648a8c6a303490b040e5069e9f452a6656f7",
+      "sha256_worktree": "1ba80eb5e63d06a3242162cda358648a8c6a303490b040e5069e9f452a6656f7",
+      "unchanged": true,
+      "old95": true
+    },
+    {
+      "path": "基于相转变溶菌酶的抑菌薄膜构建及其在草莓保鲜中的应用研究_侯秋月.pdf",
+      "sha256_at_base": "71b6a326ae412bdd5721d35ca7e295081adea4111350da7f3750f950bb0f6f90",
+      "sha256_worktree": "71b6a326ae412bdd5721d35ca7e295081adea4111350da7f3750f950bb0f6f90",
+      "unchanged": true,
+      "old95": true
+    },
+    {
+      "path": "壳聚糖-银纳米粒子复合物的抗氧化活性及其对草莓保鲜效果的研究_罗阳.pdf",
+      "sha256_at_base": "819b79c2ebdeca081808a53db19acf6197da2be24fd730c2e107d600100cc90e",
+      "sha256_worktree": "819b79c2ebdeca081808a53db19acf6197da2be24fd730c2e107d600100cc90e",
+      "unchanged": true,
+      "old95": true
+    },
+    {
+      "path": "壳聚糖_双金属纳米酶抗菌复合膜的制备及其在葡萄和草莓保藏中的应用_周渲皓.pdf",
+      "sha256_at_base": "80dee03ecf1ed141a567f3e5463f9eca1de3473c022484878aed2bfc80ab257a",
+      "sha256_worktree": "80dee03ecf1ed141a567f3e5463f9eca1de3473c022484878aed2bfc80ab257a",
+      "unchanged": true,
+      "old95": true
+    },
+    {
+      "path": "外源海藻糖对草莓保鲜效果的影响_郝乾坤.pdf",
+      "sha256_at_base": "e91697be28d8db92ea2c9bf48b0ab300e329ef17e1c5930fad9906529142df9c",
+      "sha256_worktree": "e91697be28d8db92ea2c9bf48b0ab300e329ef17e1c5930fad9906529142df9c",
+      "unchanged": true,
+      "old95": true
+    },
+    {
+      "path": "大豆分离蛋白_海藻酸钠复合膜的制备及其果蔬保鲜应用研究_杨昕妍.pdf",
+      "sha256_at_base": "c1dd8d2735dc331075a16ced32bdb008488d440642bd99b8578ca3952c79a258",
+      "sha256_worktree": "c1dd8d2735dc331075a16ced32bdb008488d440642bd99b8578ca3952c79a258",
+      "unchanged": true,
+      "old95": true
+    },
+    {
+      "path": "天然保鲜剂对草莓贮藏期间品质的影响_张莉会.pdf",
+      "sha256_at_base": "d3c9a9ac5d9c7ad005ce394904c08e3716265b163be63593fa1acb4d5470c6f0",
+      "sha256_worktree": "d3c9a9ac5d9c7ad005ce394904c08e3716265b163be63593fa1acb4d5470c6f0",
+      "unchanged": true,
+      "old95": true
+    },
+    {
+      "path": "实验记录.xlsx",
+      "sha256_at_base": "a63c8b0e1a07724e861d4b9a379ab632b3c0d41038f77310db36fb3b6b9f66f6",
+      "sha256_worktree": "a63c8b0e1a07724e861d4b9a379ab632b3c0d41038f77310db36fb3b6b9f66f6",
+      "unchanged": true,
+      "old95": false
+    },
+    {
+      "path": "新型果蔬可食用复合保鲜膜的制备及其保鲜性能研究_鲁云风.pdf",
+      "sha256_at_base": "af33bc402eb5ed5f46fb9f94117a031269f32a8a9b5479f48ccdf24a97263fb2",
+      "sha256_worktree": "af33bc402eb5ed5f46fb9f94117a031269f32a8a9b5479f48ccdf24a97263fb2",
+      "unchanged": true,
+      "old95": true
+    },
+    {
+      "path": "柚皮果胶-海藻酸钠可食复合膜对草莓的保鲜_陈妮娜.pdf",
+      "sha256_at_base": "65f17f5af496699859c550b947a7014e8dbe316d88b2ba34336b215f82786271",
+      "sha256_worktree": "65f17f5af496699859c550b947a7014e8dbe316d88b2ba34336b215f82786271",
+      "unchanged": true,
+      "old95": true
+    },
+    {
+      "path": "桃胶可食性涂膜对草莓保鲜效果的影响_于晴晴.pdf",
+      "sha256_at_base": "abe822c723e5f28c2c74ba3a0e8dc913fa2866a7232174ae046c4c1287fefca0",
+      "sha256_worktree": "abe822c723e5f28c2c74ba3a0e8dc913fa2866a7232174ae046c4c1287fefca0",
+      "unchanged": true,
+      "old95": true
+    },
+    {
+      "path": "油茶籽饼蛋白—海藻酸钠活性包装膜的制备及其在水果保鲜中的应用研究_陈静.pdf",
+      "sha256_at_base": "e10b3b5f65d3815976c3d0764b5cd50f5ed27d1836f4bd91d225657703b11d17",
+      "sha256_worktree": "e10b3b5f65d3815976c3d0764b5cd50f5ed27d1836f4bd91d225657703b11d17",
+      "unchanged": true,
+      "old95": true
+    },
+    {
+      "path": "海藻糖复合茶多酚对白灵菇保鲜效果的研究_张爱莉.pdf",
+      "sha256_at_base": "9874a84f6002329e1dd2722a1f3ee22fc1e5a3cbeed8b22588ba93a55c4e30f8",
+      "sha256_worktree": "9874a84f6002329e1dd2722a1f3ee22fc1e5a3cbeed8b22588ba93a55c4e30f8",
+      "unchanged": true,
+      "old95": true
+    },
+    {
+      "path": "海藻糖对樱桃番茄果实常温保鲜作用及其机理研究_夏明慧.pdf",
+      "sha256_at_base": "5352e499fcc9b3b00c01260d7e694ceceef2094aa8207e3eefb5d5e68db660f2",
+      "sha256_worktree": "5352e499fcc9b3b00c01260d7e694ceceef2094aa8207e3eefb5d5e68db660f2",
+      "unchanged": true,
+      "old95": true
+    },
+    {
+      "path": "海藻酸钠-壳聚糖-茶末复合膜的制备及其对葡萄的保鲜效果_陈顺心.pdf",
+      "sha256_at_base": "9f9ea417fe63ab1eb22717d50ce473ebc35ac839f845cdf4427a9b28c7fd5429",
+      "sha256_worktree": "9f9ea417fe63ab1eb22717d50ce473ebc35ac839f845cdf4427a9b28c7fd5429",
+      "unchanged": true,
+      "old95": true
+    },
+    {
+      "path": "海藻酸钠_ε-聚赖氨酸层层自组装可食膜对蓝莓保鲜效果的研究_鲍若晗.pdf",
+      "sha256_at_base": "b86e6f0a3ddbc18fa53f78e3cf92392a0026d997c056d4bd1e8f19f31f137ed6",
+      "sha256_worktree": "b86e6f0a3ddbc18fa53f78e3cf92392a0026d997c056d4bd1e8f19f31f137ed6",
+      "unchanged": true,
+      "old95": true
+    },
+    {
+      "path": "海藻酸钠_壳聚糖_纳米硒复合膜的制备及其在草莓保鲜中的应用_王清.pdf",
+      "sha256_at_base": "2300c122477f3061be9697641340e9322827147c51369c003e4f3840d04cd02b",
+      "sha256_worktree": "2300c122477f3061be9697641340e9322827147c51369c003e4f3840d04cd02b",
+      "unchanged": true,
+      "old95": true
+    },
+    {
+      "path": "海藻酸钠_纳米CaCO_3复含材料涂膜对冷藏草莓风味的影响_朱金花.pdf",
+      "sha256_at_base": "e64bdcfff7b2dba4c3f18db5954dfb4f37ab0674eda66ede3db684fa3aa11065",
+      "sha256_worktree": "e64bdcfff7b2dba4c3f18db5954dfb4f37ab0674eda66ede3db684fa3aa11065",
+      "unchanged": true,
+      "old95": true
+    },
+    {
+      "path": "海藻酸钠在果蔬保鲜中的研究进展_梁昭榆.pdf",
+      "sha256_at_base": "24981bf71632a7ec94e46fdd1fc74cec695829c4ee7092371b8b01a886aa9a9b",
+      "sha256_worktree": "24981bf71632a7ec94e46fdd1fc74cec695829c4ee7092371b8b01a886aa9a9b",
+      "unchanged": true,
+      "old95": true
+    },
+    {
+      "path": "海藻酸钠复合涂膜制备及芒果保鲜效果评价_王维.pdf",
+      "sha256_at_base": "31a204dd515eeaafd71fdb3c1a19c22d4e0f4e5f142b05285cf31df2e027049b",
+      "sha256_worktree": "31a204dd515eeaafd71fdb3c1a19c22d4e0f4e5f142b05285cf31df2e027049b",
+      "unchanged": true,
+      "old95": true
+    },
+    {
+      "path": "海藻酸钠复合涂膜对贡柑保鲜效果的影响_谢玉花.pdf",
+      "sha256_at_base": "0d007d70b7fcd023acf472a8bad2b4874e2f1830f4771cc456f0c82f10d24d8e",
+      "sha256_worktree": "0d007d70b7fcd023acf472a8bad2b4874e2f1830f4771cc456f0c82f10d24d8e",
+      "unchanged": true,
+      "old95": true
+    },
+    {
+      "path": "海藻酸钠复合涂膜对鲜切荒漠肉苁蓉保鲜效果的影响_金丽娜.pdf",
+      "sha256_at_base": "2d871e638823459027ba6d9a9ed9e443972cba86f90f6df21d7061015b88d17f",
+      "sha256_worktree": "2d871e638823459027ba6d9a9ed9e443972cba86f90f6df21d7061015b88d17f",
+      "unchanged": true,
+      "old95": true
+    },
+    {
+      "path": "海藻酸钠对果蔬保鲜的研究进展_梁昭榆.pdf",
+      "sha256_at_base": "7d9ffd1ad25f2020ef54dbe6653fd33b7ea58d82f818a64789607e0acdd577b1",
+      "sha256_worktree": "7d9ffd1ad25f2020ef54dbe6653fd33b7ea58d82f818a64789607e0acdd577b1",
+      "unchanged": true,
+      "old95": true
+    },
+    {
+      "path": "海藻酸钠诱导下厌氧氨氧化颗粒污泥快速培养及自凝聚强化机理_任武昂.pdf",
+      "sha256_at_base": "92afac99ce254b88546a54480634217ad6ada7c4cf87763d0cc664fb55c0b38a",
+      "sha256_worktree": "92afac99ce254b88546a54480634217ad6ada7c4cf87763d0cc664fb55c0b38a",
+      "unchanged": true,
+      "old95": true
+    },
+    {
+      "path": "研究数据S1.xlsx",
+      "sha256_at_base": "7ffc712bbfd8648fbd359a3bf26e6af75af2a21fde7b7be801c862546d3cb550",
+      "sha256_worktree": "7ffc712bbfd8648fbd359a3bf26e6af75af2a21fde7b7be801c862546d3cb550",
+      "unchanged": true,
+      "old95": true
+    },
+    {
+      "path": "空气负离子环境中草莓采后品质的变化_范鹏.pdf",
+      "sha256_at_base": "c735e005609562535f83bce4a1ab3cf638caffbeabb35c8f77e5daf288f6dce1",
+      "sha256_worktree": "c735e005609562535f83bce4a1ab3cf638caffbeabb35c8f77e5daf288f6dce1",
+      "unchanged": true,
+      "old95": true
+    },
+    {
+      "path": "脂肪酸对魔芋葡甘聚糖_海藻酸钠复合膜结构和性质的影响_汪秀妹.pdf",
+      "sha256_at_base": "e62021d88ed63646a67802aa433678f55ce9bbcab99ac71968498ca1ebde40d3",
+      "sha256_worktree": "e62021d88ed63646a67802aa433678f55ce9bbcab99ac71968498ca1ebde40d3",
+      "unchanged": true,
+      "old95": true
+    },
+    {
+      "path": "茶多糖-海藻酸钠复合涂膜对草莓的保鲜效果研究_李勇锋.pdf",
+      "sha256_at_base": "0aba23c944ac72f509bcd19ef4d506c2d7f1c46c4ec4b132fff6da7d626901a8",
+      "sha256_worktree": "0aba23c944ac72f509bcd19ef4d506c2d7f1c46c4ec4b132fff6da7d626901a8",
+      "unchanged": true,
+      "old95": true
+    },
+    {
+      "path": "茶多酚-海藻酸钠涂膜对草莓的保鲜效果研究_季春艳.pdf",
+      "sha256_at_base": "2c130df5506a3646ca24f441ba1d2f371b1016fec4325109741d64bb60d1c7a1",
+      "sha256_worktree": "2c130df5506a3646ca24f441ba1d2f371b1016fec4325109741d64bb60d1c7a1",
+      "unchanged": true,
+      "old95": true
+    },
+    {
+      "path": "草莓的涂膜保鲜研究.pdf",
+      "sha256_at_base": "61c82c555105dcce92813d7b49fb027361bf8242dc34f03e33466757ae83855f",
+      "sha256_worktree": "61c82c555105dcce92813d7b49fb027361bf8242dc34f03e33466757ae83855f",
+      "unchanged": true,
+      "old95": true
+    }
+  ]
+}

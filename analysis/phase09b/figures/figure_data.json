@@ -1,0 +1,5035 @@
+[
+  {
+    "metric": "mass_loss",
+    "source_rows": [
+      {
+        "metric": "mass_loss",
+        "metric_label": "失重率",
+        "unit": "%",
+        "group": "CK",
+        "day": 0,
+        "batch": "ALL",
+        "calendar_dates": [
+          "2026-10-05",
+          "2026-10-13",
+          "2026-10-21"
+        ],
+        "n_containers": 9,
+        "planned_containers": 9,
+        "n_fruits": 36,
+        "planned_fruits": 36,
+        "uncovered_fruits": 0,
+        "n_readings": 9,
+        "n_technical_readings": null,
+        "missing_readings": 0,
+        "missing_containers": 0,
+        "mean": 0.0,
+        "sd": 0.0,
+        "min": 0.0,
+        "max": 0.0,
+        "source_locations": [
+          "07_连续称重!H5:I5",
+          "07_连续称重!H10:I10",
+          "07_连续称重!H15:I15",
+          "07_连续称重!H50:I50",
+          "07_连续称重!H55:I55",
+          "07_连续称重!H60:I60",
+          "07_连续称重!H95:I95",
+          "07_连续称重!H100:I100",
+          "07_连续称重!H105:I105"
+        ],
+        "unit_ids": [
+          "B1-CK-L1",
+          "B1-CK-L2",
+          "B1-CK-L3",
+          "B2-CK-L1",
+          "B2-CK-L2",
+          "B2-CK-L3",
+          "B3-CK-L1",
+          "B3-CK-L2",
+          "B3-CK-L3"
+        ],
+        "sd_meaning": "有效容器间样本SD，ddof=1；n=1时不可估计，记null"
+      },
+      {
+        "metric": "mass_loss",
+        "metric_label": "失重率",
+        "unit": "%",
+        "group": "CK",
+        "day": 1,
+        "batch": "ALL",
+        "calendar_dates": [
+          "2026-10-06",
+          "2026-10-14",
+          "2026-10-22"
+        ],
+        "n_containers": 9,
+        "planned_containers": 9,
+        "n_fruits": 36,
+        "planned_fruits": 36,
+        "uncovered_fruits": 0,
+        "n_readings": 9,
+        "n_technical_readings": null,
+        "missing_readings": 0,
+        "missing_containers": 0,
+        "mean": 1.3404001551384648,
+        "sd": 0.3320691939166154,
+        "min": 0.894348894348891,
+        "max": 1.886792452830182,
+        "source_locations": [
+          "07_连续称重!H6:I6",
+          "07_连续称重!H11:I11",
+          "07_连续称重!H16:I16",
+          "07_连续称重!H51:I51",
+          "07_连续称重!H56:I56",
+          "07_连续称重!H61:I61",
+          "07_连续称重!H96:I96",
+          "07_连续称重!H101:I101",
+          "07_连续称重!H106:I106"
+        ],
+        "unit_ids": [
+          "B1-CK-L1",
+          "B1-CK-L2",
+          "B1-CK-L3",
+          "B2-CK-L1",
+          "B2-CK-L2",
+          "B2-CK-L3",
+          "B3-CK-L1",
+          "B3-CK-L2",
+          "B3-CK-L3"
+        ],
+        "sd_meaning": "有效容器间样本SD，ddof=1；n=1时不可估计，记null"
+      },
+      {
+        "metric": "mass_loss",
+        "metric_label": "失重率",
+        "unit": "%",
+        "group": "CK",
+        "day": 2,
+        "batch": "ALL",
+        "calendar_dates": [
+          "2026-10-07",
+          "2026-10-15",
+          "2026-10-23"
+        ],
+        "n_containers": 9,
+        "planned_containers": 9,
+        "n_fruits": 36,
+        "planned_fruits": 36,
+        "uncovered_fruits": 0,
+        "n_readings": 9,
+        "n_technical_readings": null,
+        "missing_readings": 0,
+        "missing_containers": 0,
+        "mean": 2.8977888250159505,
+        "sd": 1.0410410120761693,
+        "min": 1.5036855036855048,
+        "max": 5.1650943396226365,
+        "source_locations": [
+          "07_连续称重!H7:I7",
+          "07_连续称重!H12:I12",
+          "07_连续称重!H17:I17",
+          "07_连续称重!H52:I52",
+          "07_连续称重!H57:I57",
+          "07_连续称重!H62:I62",
+          "07_连续称重!H97:I97",
+          "07_连续称重!H102:I102",
+          "07_连续称重!H107:I107"
+        ],
+        "unit_ids": [
+          "B1-CK-L1",
+          "B1-CK-L2",
+          "B1-CK-L3",
+          "B2-CK-L1",
+          "B2-CK-L2",
+          "B2-CK-L3",
+          "B3-CK-L1",
+          "B3-CK-L2",
+          "B3-CK-L3"
+        ],
+        "sd_meaning": "有效容器间样本SD，ddof=1；n=1时不可估计，记null"
+      },
+      {
+        "metric": "mass_loss",
+        "metric_label": "失重率",
+        "unit": "%",
+        "group": "CK",
+        "day": 3,
+        "batch": "ALL",
+        "calendar_dates": [
+          "2026-10-08",
+          "2026-10-16",
+          "2026-10-24"
+        ],
+        "n_containers": 9,
+        "planned_containers": 9,
+        "n_fruits": 36,
+        "planned_fruits": 36,
+        "uncovered_fruits": 0,
+        "n_readings": 9,
+        "n_technical_readings": null,
+        "missing_readings": 0,
+        "missing_containers": 0,
+        "mean": 4.8818129736220754,
+        "sd": 1.4842647922521648,
+        "min": 3.291794027745118,
+        "max": 8.089622641509434,
+        "source_locations": [
+          "07_连续称重!H8:I8",
+          "07_连续称重!H13:I13",
+          "07_连续称重!H18:I18",
+          "07_连续称重!H53:I53",
+          "07_连续称重!H58:I58",
+          "07_连续称重!H63:I63",
+          "07_连续称重!H98:I98",
+          "07_连续称重!H103:I103",
+          "07_连续称重!H108:I108"
+        ],
+        "unit_ids": [
+          "B1-CK-L1",
+          "B1-CK-L2",
+          "B1-CK-L3",
+          "B2-CK-L1",
+          "B2-CK-L2",
+          "B2-CK-L3",
+          "B3-CK-L1",
+          "B3-CK-L2",
+          "B3-CK-L3"
+        ],
+        "sd_meaning": "有效容器间样本SD，ddof=1；n=1时不可估计，记null"
+      },
+      {
+        "metric": "mass_loss",
+        "metric_label": "失重率",
+        "unit": "%",
+        "group": "CK",
+        "day": 4,
+        "batch": "ALL",
+        "calendar_dates": [
+          "2026-10-09",
+          "2026-10-17",
+          "2026-10-25"
+        ],
+        "n_containers": 9,
+        "planned_containers": 9,
+        "n_fruits": 36,
+        "planned_fruits": 36,
+        "uncovered_fruits": 0,
+        "n_readings": 9,
+        "n_technical_readings": null,
+        "missing_readings": 0,
+        "missing_containers": 0,
+        "mean": 7.315350414481029,
+        "sd": 1.8135747907767457,
+        "min": 5.4547454085560405,
+        "max": 11.084905660377348,
+        "source_locations": [
+          "07_连续称重!H9:I9",
+          "07_连续称重!H14:I14",
+          "07_连续称重!H19:I19",
+          "07_连续称重!H54:I54",
+          "07_连续称重!H59:I59",
+          "07_连续称重!H64:I64",
+          "07_连续称重!H99:I99",
+          "07_连续称重!H104:I104",
+          "07_连续称重!H109:I109"
+        ],
+        "unit_ids": [
+          "B1-CK-L1",
+          "B1-CK-L2",
+          "B1-CK-L3",
+          "B2-CK-L1",
+          "B2-CK-L2",
+          "B2-CK-L3",
+          "B3-CK-L1",
+          "B3-CK-L2",
+          "B3-CK-L3"
+        ],
+        "sd_meaning": "有效容器间样本SD，ddof=1；n=1时不可估计，记null"
+      },
+      {
+        "metric": "mass_loss",
+        "metric_label": "失重率",
+        "unit": "%",
+        "group": "Ca",
+        "day": 0,
+        "batch": "ALL",
+        "calendar_dates": [
+          "2026-10-05",
+          "2026-10-13",
+          "2026-10-21"
+        ],
+        "n_containers": 9,
+        "planned_containers": 9,
+        "n_fruits": 36,
+        "planned_fruits": 36,
+        "uncovered_fruits": 0,
+        "n_readings": 9,
+        "n_technical_readings": null,
+        "missing_readings": 0,
+        "missing_containers": 0,
+        "mean": 0.0,
+        "sd": 0.0,
+        "min": 0.0,
+        "max": 0.0,
+        "source_locations": [
+          "07_连续称重!H20:I20",
+          "07_连续称重!H25:I25",
+          "07_连续称重!H30:I30",
+          "07_连续称重!H65:I65",
+          "07_连续称重!H70:I70",
+          "07_连续称重!H75:I75",
+          "07_连续称重!H110:I110",
+          "07_连续称重!H115:I115",
+          "07_连续称重!H120:I120"
+        ],
+        "unit_ids": [
+          "B1-Ca-L1",
+          "B1-Ca-L2",
+          "B1-Ca-L3",
+          "B2-Ca-L1",
+          "B2-Ca-L2",
+          "B2-Ca-L3",
+          "B3-Ca-L1",
+          "B3-Ca-L2",
+          "B3-Ca-L3"
+        ],
+        "sd_meaning": "有效容器间样本SD，ddof=1；n=1时不可估计，记null"
+      },
+      {
+        "metric": "mass_loss",
+        "metric_label": "失重率",
+        "unit": "%",
+        "group": "Ca",
+        "day": 1,
+        "batch": "ALL",
+        "calendar_dates": [
+          "2026-10-06",
+          "2026-10-14",
+          "2026-10-22"
+        ],
+        "n_containers": 9,
+        "planned_containers": 9,
+        "n_fruits": 36,
+        "planned_fruits": 36,
+        "uncovered_fruits": 0,
+        "n_readings": 9,
+        "n_technical_readings": null,
+        "missing_readings": 0,
+        "missing_containers": 0,
+        "mean": 1.515548407592792,
+        "sd": 0.5848601068456621,
+        "min": 0.7186120521507061,
+        "max": 2.26221079691517,
+        "source_locations": [
+          "07_连续称重!H21:I21",
+          "07_连续称重!H26:I26",
+          "07_连续称重!H31:I31",
+          "07_连续称重!H66:I66",
+          "07_连续称重!H71:I71",
+          "07_连续称重!H76:I76",
+          "07_连续称重!H111:I111",
+          "07_连续称重!H116:I116",
+          "07_连续称重!H121:I121"
+        ],
+        "unit_ids": [
+          "B1-Ca-L1",
+          "B1-Ca-L2",
+          "B1-Ca-L3",
+          "B2-Ca-L1",
+          "B2-Ca-L2",
+          "B2-Ca-L3",
+          "B3-Ca-L1",
+          "B3-Ca-L2",
+          "B3-Ca-L3"
+        ],
+        "sd_meaning": "有效容器间样本SD，ddof=1；n=1时不可估计，记null"
+      },
+      {
+        "metric": "mass_loss",
+        "metric_label": "失重率",
+        "unit": "%",
+        "group": "Ca",
+        "day": 2,
+        "batch": "ALL",
+        "calendar_dates": [
+          "2026-10-07",
+          "2026-10-15",
+          "2026-10-23"
+        ],
+        "n_containers": 8,
+        "planned_containers": 9,
+        "n_fruits": 32,
+        "planned_fruits": 36,
+        "uncovered_fruits": 4,
+        "n_readings": 8,
+        "n_technical_readings": null,
+        "missing_readings": 1,
+        "missing_containers": 1,
+        "mean": 3.3103668279921874,
+        "sd": 0.9199586367478108,
+        "min": 1.6995099572515855,
+        "max": 4.390745501285343,
+        "source_locations": [
+          "07_连续称重!H22:I22",
+          "07_连续称重!H27:I27",
+          "07_连续称重!H32:I32",
+          "07_连续称重!H67:I67",
+          "07_连续称重!H72:I72",
+          "07_连续称重!H77:I77",
+          "07_连续称重!H112:I112",
+          "07_连续称重!H117:I117",
+          "07_连续称重!H122:I122"
+        ],
+        "unit_ids": [
+          "B1-Ca-L1",
+          "B1-Ca-L2",
+          "B1-Ca-L3",
+          "B2-Ca-L1",
+          "B2-Ca-L2",
+          "B2-Ca-L3",
+          "B3-Ca-L1",
+          "B3-Ca-L3"
+        ],
+        "sd_meaning": "有效容器间样本SD，ddof=1；n=1时不可估计，记null"
+      },
+      {
+        "metric": "mass_loss",
+        "metric_label": "失重率",
+        "unit": "%",
+        "group": "Ca",
+        "day": 3,
+        "batch": "ALL",
+        "calendar_dates": [
+          "2026-10-08",
+          "2026-10-16",
+          "2026-10-24"
+        ],
+        "n_containers": 9,
+        "planned_containers": 9,
+        "n_fruits": 36,
+        "planned_fruits": 36,
+        "uncovered_fruits": 0,
+        "n_readings": 9,
+        "n_technical_readings": null,
+        "missing_readings": 0,
+        "missing_containers": 0,
+        "mean": 5.398573180748586,
+        "sd": 1.2098839978899403,
+        "min": 3.169638202481485,
+        "max": 7.2082262210796975,
+        "source_locations": [
+          "07_连续称重!H23:I23",
+          "07_连续称重!H28:I28",
+          "07_连续称重!H33:I33",
+          "07_连续称重!H68:I68",
+          "07_连续称重!H73:I73",
+          "07_连续称重!H78:I78",
+          "07_连续称重!H113:I113",
+          "07_连续称重!H118:I118",
+          "07_连续称重!H123:I123"
+        ],
+        "unit_ids": [
+          "B1-Ca-L1",
+          "B1-Ca-L2",
+          "B1-Ca-L3",
+          "B2-Ca-L1",
+          "B2-Ca-L2",
+          "B2-Ca-L3",
+          "B3-Ca-L1",
+          "B3-Ca-L2",
+          "B3-Ca-L3"
+        ],
+        "sd_meaning": "有效容器间样本SD，ddof=1；n=1时不可估计，记null"
+      },
+      {
+        "metric": "mass_loss",
+        "metric_label": "失重率",
+        "unit": "%",
+        "group": "Ca",
+        "day": 4,
+        "batch": "ALL",
+        "calendar_dates": [
+          "2026-10-09",
+          "2026-10-17",
+          "2026-10-25"
+        ],
+        "n_containers": 9,
+        "planned_containers": 9,
+        "n_fruits": 36,
+        "planned_fruits": 36,
+        "uncovered_fruits": 0,
+        "n_readings": 9,
+        "n_technical_readings": null,
+        "missing_readings": 0,
+        "missing_containers": 0,
+        "mean": 7.855033454591845,
+        "sd": 1.3823663842678262,
+        "min": 5.286205817954325,
+        "max": 10.488431876606686,
+        "source_locations": [
+          "07_连续称重!H24:I24",
+          "07_连续称重!H29:I29",
+          "07_连续称重!H34:I34",
+          "07_连续称重!H69:I69",
+          "07_连续称重!H74:I74",
+          "07_连续称重!H79:I79",
+          "07_连续称重!H114:I114",
+          "07_连续称重!H119:I119",
+          "07_连续称重!H124:I124"
+        ],
+        "unit_ids": [
+          "B1-Ca-L1",
+          "B1-Ca-L2",
+          "B1-Ca-L3",
+          "B2-Ca-L1",
+          "B2-Ca-L2",
+          "B2-Ca-L3",
+          "B3-Ca-L1",
+          "B3-Ca-L2",
+          "B3-Ca-L3"
+        ],
+        "sd_meaning": "有效容器间样本SD，ddof=1；n=1时不可估计，记null"
+      },
+      {
+        "metric": "mass_loss",
+        "metric_label": "失重率",
+        "unit": "%",
+        "group": "SA-Ca",
+        "day": 0,
+        "batch": "ALL",
+        "calendar_dates": [
+          "2026-10-05",
+          "2026-10-13",
+          "2026-10-21"
+        ],
+        "n_containers": 9,
+        "planned_containers": 9,
+        "n_fruits": 36,
+        "planned_fruits": 36,
+        "uncovered_fruits": 0,
+        "n_readings": 9,
+        "n_technical_readings": null,
+        "missing_readings": 0,
+        "missing_containers": 0,
+        "mean": 0.0,
+        "sd": 0.0,
+        "min": 0.0,
+        "max": 0.0,
+        "source_locations": [
+          "07_连续称重!H35:I35",
+          "07_连续称重!H40:I40",
+          "07_连续称重!H45:I45",
+          "07_连续称重!H80:I80",
+          "07_连续称重!H85:I85",
+          "07_连续称重!H90:I90",
+          "07_连续称重!H125:I125",
+          "07_连续称重!H130:I130",
+          "07_连续称重!H135:I135"
+        ],
+        "unit_ids": [
+          "B1-SA-Ca-L1",
+          "B1-SA-Ca-L2",
+          "B1-SA-Ca-L3",
+          "B2-SA-Ca-L1",
+          "B2-SA-Ca-L2",
+          "B2-SA-Ca-L3",
+          "B3-SA-Ca-L1",
+          "B3-SA-Ca-L2",
+          "B3-SA-Ca-L3"
+        ],
+        "sd_meaning": "有效容器间样本SD，ddof=1；n=1时不可估计，记null"
+      },
+      {
+        "metric": "mass_loss",
+        "metric_label": "失重率",
+        "unit": "%",
+        "group": "SA-Ca",
+        "day": 1,
+        "batch": "ALL",
+        "calendar_dates": [
+          "2026-10-06",
+          "2026-10-14",
+          "2026-10-22"
+        ],
+        "n_containers": 9,
+        "planned_containers": 9,
+        "n_fruits": 36,
+        "planned_fruits": 36,
+        "uncovered_fruits": 0,
+        "n_readings": 9,
+        "n_technical_readings": null,
+        "missing_readings": 0,
+        "missing_containers": 0,
+        "mean": 1.4659040561975174,
+        "sd": 0.40564522962876765,
+        "min": 0.9057363300905761,
+        "max": 2.2033722975069776,
+        "source_locations": [
+          "07_连续称重!H36:I36",
+          "07_连续称重!H41:I41",
+          "07_连续称重!H46:I46",
+          "07_连续称重!H81:I81",
+          "07_连续称重!H86:I86",
+          "07_连续称重!H91:I91",
+          "07_连续称重!H126:I126",
+          "07_连续称重!H131:I131",
+          "07_连续称重!H136:I136"
+        ],
+        "unit_ids": [
+          "B1-SA-Ca-L1",
+          "B1-SA-Ca-L2",
+          "B1-SA-Ca-L3",
+          "B2-SA-Ca-L1",
+          "B2-SA-Ca-L2",
+          "B2-SA-Ca-L3",
+          "B3-SA-Ca-L1",
+          "B3-SA-Ca-L2",
+          "B3-SA-Ca-L3"
+        ],
+        "sd_meaning": "有效容器间样本SD，ddof=1；n=1时不可估计，记null"
+      },
+      {
+        "metric": "mass_loss",
+        "metric_label": "失重率",
+        "unit": "%",
+        "group": "SA-Ca",
+        "day": 2,
+        "batch": "ALL",
+        "calendar_dates": [
+          "2026-10-07",
+          "2026-10-15",
+          "2026-10-23"
+        ],
+        "n_containers": 9,
+        "planned_containers": 9,
+        "n_fruits": 36,
+        "planned_fruits": 36,
+        "uncovered_fruits": 0,
+        "n_readings": 9,
+        "n_technical_readings": null,
+        "missing_readings": 0,
+        "missing_containers": 0,
+        "mean": 3.1473204356541453,
+        "sd": 0.7622655956488635,
+        "min": 1.4782045748813168,
+        "max": 3.8697854909992344,
+        "source_locations": [
+          "07_连续称重!H37:I37",
+          "07_连续称重!H42:I42",
+          "07_连续称重!H47:I47",
+          "07_连续称重!H82:I82",
+          "07_连续称重!H87:I87",
+          "07_连续称重!H92:I92",
+          "07_连续称重!H127:I127",
+          "07_连续称重!H132:I132",
+          "07_连续称重!H137:I137"
+        ],
+        "unit_ids": [
+          "B1-SA-Ca-L1",
+          "B1-SA-Ca-L2",
+          "B1-SA-Ca-L3",
+          "B2-SA-Ca-L1",
+          "B2-SA-Ca-L2",
+          "B2-SA-Ca-L3",
+          "B3-SA-Ca-L1",
+          "B3-SA-Ca-L2",
+          "B3-SA-Ca-L3"
+        ],
+        "sd_meaning": "有效容器间样本SD，ddof=1；n=1时不可估计，记null"
+      },
+      {
+        "metric": "mass_loss",
+        "metric_label": "失重率",
+        "unit": "%",
+        "group": "SA-Ca",
+        "day": 3,
+        "batch": "ALL",
+        "calendar_dates": [
+          "2026-10-08",
+          "2026-10-16",
+          "2026-10-24"
+        ],
+        "n_containers": 9,
+        "planned_containers": 9,
+        "n_fruits": 36,
+        "planned_fruits": 36,
+        "uncovered_fruits": 0,
+        "n_readings": 9,
+        "n_technical_readings": null,
+        "missing_readings": 0,
+        "missing_containers": 0,
+        "mean": 5.227054944594668,
+        "sd": 1.0580261633151031,
+        "min": 3.3556322831247445,
+        "max": 6.963458014444318,
+        "source_locations": [
+          "07_连续称重!H38:I38",
+          "07_连续称重!H43:I43",
+          "07_连续称重!H48:I48",
+          "07_连续称重!H83:I83",
+          "07_连续称重!H88:I88",
+          "07_连续称重!H93:I93",
+          "07_连续称重!H128:I128",
+          "07_连续称重!H133:I133",
+          "07_连续称重!H138:I138"
+        ],
+        "unit_ids": [
+          "B1-SA-Ca-L1",
+          "B1-SA-Ca-L2",
+          "B1-SA-Ca-L3",
+          "B2-SA-Ca-L1",
+          "B2-SA-Ca-L2",
+          "B2-SA-Ca-L3",
+          "B3-SA-Ca-L1",
+          "B3-SA-Ca-L2",
+          "B3-SA-Ca-L3"
+        ],
+        "sd_meaning": "有效容器间样本SD，ddof=1；n=1时不可估计，记null"
+      },
+      {
+        "metric": "mass_loss",
+        "metric_label": "失重率",
+        "unit": "%",
+        "group": "SA-Ca",
+        "day": 4,
+        "batch": "ALL",
+        "calendar_dates": [
+          "2026-10-09",
+          "2026-10-17",
+          "2026-10-25"
+        ],
+        "n_containers": 9,
+        "planned_containers": 9,
+        "n_fruits": 36,
+        "planned_fruits": 36,
+        "uncovered_fruits": 0,
+        "n_readings": 9,
+        "n_technical_readings": null,
+        "missing_readings": 0,
+        "missing_containers": 0,
+        "mean": 7.72476629744041,
+        "sd": 1.2063842446829818,
+        "min": 5.157531290461805,
+        "max": 9.615177320254395,
+        "source_locations": [
+          "07_连续称重!H39:I39",
+          "07_连续称重!H44:I44",
+          "07_连续称重!H49:I49",
+          "07_连续称重!H84:I84",
+          "07_连续称重!H89:I89",
+          "07_连续称重!H94:I94",
+          "07_连续称重!H129:I129",
+          "07_连续称重!H134:I134",
+          "07_连续称重!H139:I139"
+        ],
+        "unit_ids": [
+          "B1-SA-Ca-L1",
+          "B1-SA-Ca-L2",
+          "B1-SA-Ca-L3",
+          "B2-SA-Ca-L1",
+          "B2-SA-Ca-L2",
+          "B2-SA-Ca-L3",
+          "B3-SA-Ca-L1",
+          "B3-SA-Ca-L2",
+          "B3-SA-Ca-L3"
+        ],
+        "sd_meaning": "有效容器间样本SD，ddof=1；n=1时不可估计，记null"
+      }
+    ],
+    "series": [
+      {
+        "group": "CK",
+        "day": [
+          0,
+          1,
+          2,
+          3,
+          4
+        ],
+        "mean": [
+          0.0,
+          1.3404001551384648,
+          2.8977888250159505,
+          4.8818129736220754,
+          7.315350414481029
+        ],
+        "sd": [
+          0.0,
+          0.3320691939166154,
+          1.0410410120761693,
+          1.4842647922521648,
+          1.8135747907767457
+        ],
+        "n_containers": [
+          9,
+          9,
+          9,
+          9,
+          9
+        ],
+        "n_fruits": [
+          36,
+          36,
+          36,
+          36,
+          36
+        ],
+        "calendar_dates": [
+          [
+            "2026-10-05",
+            "2026-10-13",
+            "2026-10-21"
+          ],
+          [
+            "2026-10-06",
+            "2026-10-14",
+            "2026-10-22"
+          ],
+          [
+            "2026-10-07",
+            "2026-10-15",
+            "2026-10-23"
+          ],
+          [
+            "2026-10-08",
+            "2026-10-16",
+            "2026-10-24"
+          ],
+          [
+            "2026-10-09",
+            "2026-10-17",
+            "2026-10-25"
+          ]
+        ]
+      },
+      {
+        "group": "Ca",
+        "day": [
+          0,
+          1,
+          2,
+          3,
+          4
+        ],
+        "mean": [
+          0.0,
+          1.515548407592792,
+          3.3103668279921874,
+          5.398573180748586,
+          7.855033454591845
+        ],
+        "sd": [
+          0.0,
+          0.5848601068456621,
+          0.9199586367478108,
+          1.2098839978899403,
+          1.3823663842678262
+        ],
+        "n_containers": [
+          9,
+          9,
+          8,
+          9,
+          9
+        ],
+        "n_fruits": [
+          36,
+          36,
+          32,
+          36,
+          36
+        ],
+        "calendar_dates": [
+          [
+            "2026-10-05",
+            "2026-10-13",
+            "2026-10-21"
+          ],
+          [
+            "2026-10-06",
+            "2026-10-14",
+            "2026-10-22"
+          ],
+          [
+            "2026-10-07",
+            "2026-10-15",
+            "2026-10-23"
+          ],
+          [
+            "2026-10-08",
+            "2026-10-16",
+            "2026-10-24"
+          ],
+          [
+            "2026-10-09",
+            "2026-10-17",
+            "2026-10-25"
+          ]
+        ]
+      },
+      {
+        "group": "SA-Ca",
+        "day": [
+          0,
+          1,
+          2,
+          3,
+          4
+        ],
+        "mean": [
+          0.0,
+          1.4659040561975174,
+          3.1473204356541453,
+          5.227054944594668,
+          7.72476629744041
+        ],
+        "sd": [
+          0.0,
+          0.40564522962876765,
+          0.7622655956488635,
+          1.0580261633151031,
+          1.2063842446829818
+        ],
+        "n_containers": [
+          9,
+          9,
+          9,
+          9,
+          9
+        ],
+        "n_fruits": [
+          36,
+          36,
+          36,
+          36,
+          36
+        ],
+        "calendar_dates": [
+          [
+            "2026-10-05",
+            "2026-10-13",
+            "2026-10-21"
+          ],
+          [
+            "2026-10-06",
+            "2026-10-14",
+            "2026-10-22"
+          ],
+          [
+            "2026-10-07",
+            "2026-10-15",
+            "2026-10-23"
+          ],
+          [
+            "2026-10-08",
+            "2026-10-16",
+            "2026-10-24"
+          ],
+          [
+            "2026-10-09",
+            "2026-10-17",
+            "2026-10-25"
+          ]
+        ]
+      }
+    ],
+    "container_source_file": "P09B_F01_失重率_containers.csv",
+    "errorbar": "container sample SD, ddof=1",
+    "id": "P09B_F01_失重率",
+    "files": [
+      "P09B_F01_失重率.png",
+      "P09B_F01_失重率.svg",
+      "P09B_F01_失重率_source.csv"
+    ]
+  },
+  {
+    "metric": "decay_pct",
+    "source_rows": [
+      {
+        "metric": "decay_pct",
+        "metric_label": "累计腐烂比例",
+        "unit": "%",
+        "group": "CK",
+        "day": 0,
+        "batch": "ALL",
+        "calendar_dates": [
+          "2026-10-05",
+          "2026-10-13",
+          "2026-10-21"
+        ],
+        "n_containers": 9,
+        "planned_containers": 9,
+        "n_fruits": 36,
+        "planned_fruits": 36,
+        "uncovered_fruits": 0,
+        "n_readings": 36,
+        "n_technical_readings": null,
+        "missing_readings": 0,
+        "missing_containers": 0,
+        "mean": 0.0,
+        "sd": 0.0,
+        "min": 0.0,
+        "max": 0.0,
+        "source_locations": [
+          "08_腐烂观察!I14:J14",
+          "08_腐烂观察!I15:J15",
+          "08_腐烂观察!I16:J16",
+          "08_腐烂观察!I17:J17",
+          "08_腐烂观察!I18:J18",
+          "08_腐烂观察!I19:J19",
+          "08_腐烂观察!I20:J20",
+          "08_腐烂观察!I21:J21",
+          "08_腐烂观察!I22:J22",
+          "08_腐烂观察!I23:J23",
+          "08_腐烂观察!I24:J24",
+          "08_腐烂观察!I25:J25",
+          "08_腐烂观察!I275:J275",
+          "08_腐烂观察!I276:J276",
+          "08_腐烂观察!I277:J277",
+          "08_腐烂观察!I278:J278",
+          "08_腐烂观察!I279:J279",
+          "08_腐烂观察!I280:J280",
+          "08_腐烂观察!I281:J281",
+          "08_腐烂观察!I282:J282",
+          "08_腐烂观察!I283:J283",
+          "08_腐烂观察!I284:J284",
+          "08_腐烂观察!I285:J285",
+          "08_腐烂观察!I286:J286",
+          "08_腐烂观察!I536:J536",
+          "08_腐烂观察!I537:J537",
+          "08_腐烂观察!I538:J538",
+          "08_腐烂观察!I539:J539",
+          "08_腐烂观察!I540:J540",
+          "08_腐烂观察!I541:J541",
+          "08_腐烂观察!I542:J542",
+          "08_腐烂观察!I543:J543",
+          "08_腐烂观察!I544:J544",
+          "08_腐烂观察!I545:J545",
+          "08_腐烂观察!I546:J546",
+          "08_腐烂观察!I547:J547"
+        ],
+        "unit_ids": [
+          "B1-CK-L1",
+          "B1-CK-L2",
+          "B1-CK-L3",
+          "B2-CK-L1",
+          "B2-CK-L2",
+          "B2-CK-L3",
+          "B3-CK-L1",
+          "B3-CK-L2",
+          "B3-CK-L3"
+        ],
+        "sd_meaning": "有效容器间样本SD，ddof=1；n=1时不可估计，记null"
+      },
+      {
+        "metric": "decay_pct",
+        "metric_label": "累计腐烂比例",
+        "unit": "%",
+        "group": "CK",
+        "day": 1,
+        "batch": "ALL",
+        "calendar_dates": [
+          "2026-10-06",
+          "2026-10-14",
+          "2026-10-22"
+        ],
+        "n_containers": 9,
+        "planned_containers": 9,
+        "n_fruits": 36,
+        "planned_fruits": 36,
+        "uncovered_fruits": 0,
+        "n_readings": 36,
+        "n_technical_readings": null,
+        "missing_readings": 0,
+        "missing_containers": 0,
+        "mean": 5.555555555555555,
+        "sd": 11.02396379610246,
+        "min": 0.0,
+        "max": 25.0,
+        "source_locations": [
+          "08_腐烂观察!I74:J74",
+          "08_腐烂观察!I75:J75",
+          "08_腐烂观察!I76:J76",
+          "08_腐烂观察!I77:J77",
+          "08_腐烂观察!I78:J78",
+          "08_腐烂观察!I79:J79",
+          "08_腐烂观察!I80:J80",
+          "08_腐烂观察!I81:J81",
+          "08_腐烂观察!I82:J82",
+          "08_腐烂观察!I83:J83",
+          "08_腐烂观察!I84:J84",
+          "08_腐烂观察!I85:J85",
+          "08_腐烂观察!I335:J335",
+          "08_腐烂观察!I336:J336",
+          "08_腐烂观察!I337:J337",
+          "08_腐烂观察!I338:J338",
+          "08_腐烂观察!I339:J339",
+          "08_腐烂观察!I340:J340",
+          "08_腐烂观察!I341:J341",
+          "08_腐烂观察!I342:J342",
+          "08_腐烂观察!I343:J343",
+          "08_腐烂观察!I344:J344",
+          "08_腐烂观察!I345:J345",
+          "08_腐烂观察!I346:J346",
+          "08_腐烂观察!I596:J596",
+          "08_腐烂观察!I597:J597",
+          "08_腐烂观察!I598:J598",
+          "08_腐烂观察!I599:J599",
+          "08_腐烂观察!I600:J600",
+          "08_腐烂观察!I601:J601",
+          "08_腐烂观察!I602:J602",
+          "08_腐烂观察!I603:J603",
+          "08_腐烂观察!I604:J604",
+          "08_腐烂观察!I605:J605",
+          "08_腐烂观察!I606:J606",
+          "08_腐烂观察!I607:J607"
+        ],
+        "unit_ids": [
+          "B1-CK-L1",
+          "B1-CK-L2",
+          "B1-CK-L3",
+          "B2-CK-L1",
+          "B2-CK-L2",
+          "B2-CK-L3",
+          "B3-CK-L1",
+          "B3-CK-L2",
+          "B3-CK-L3"
+        ],
+        "sd_meaning": "有效容器间样本SD，ddof=1；n=1时不可估计，记null"
+      },
+      {
+        "metric": "decay_pct",
+        "metric_label": "累计腐烂比例",
+        "unit": "%",
+        "group": "CK",
+        "day": 2,
+        "batch": "ALL",
+        "calendar_dates": [
+          "2026-10-07",
+          "2026-10-15",
+          "2026-10-23"
+        ],
+        "n_containers": 9,
+        "planned_containers": 9,
+        "n_fruits": 36,
+        "planned_fruits": 36,
+        "uncovered_fruits": 0,
+        "n_readings": 36,
+        "n_technical_readings": null,
+        "missing_readings": 0,
+        "missing_containers": 0,
+        "mean": 11.11111111111111,
+        "sd": 13.176156917368248,
+        "min": 0.0,
+        "max": 25.0,
+        "source_locations": [
+          "08_腐烂观察!I128:J128",
+          "08_腐烂观察!I129:J129",
+          "08_腐烂观察!I130:J130",
+          "08_腐烂观察!I131:J131",
+          "08_腐烂观察!I132:J132",
+          "08_腐烂观察!I133:J133",
+          "08_腐烂观察!I134:J134",
+          "08_腐烂观察!I135:J135",
+          "08_腐烂观察!I136:J136",
+          "08_腐烂观察!I137:J137",
+          "08_腐烂观察!I138:J138",
+          "08_腐烂观察!I139:J139",
+          "08_腐烂观察!I389:J389",
+          "08_腐烂观察!I390:J390",
+          "08_腐烂观察!I391:J391",
+          "08_腐烂观察!I392:J392",
+          "08_腐烂观察!I393:J393",
+          "08_腐烂观察!I394:J394",
+          "08_腐烂观察!I395:J395",
+          "08_腐烂观察!I396:J396",
+          "08_腐烂观察!I397:J397",
+          "08_腐烂观察!I398:J398",
+          "08_腐烂观察!I399:J399",
+          "08_腐烂观察!I400:J400",
+          "08_腐烂观察!I650:J650",
+          "08_腐烂观察!I651:J651",
+          "08_腐烂观察!I652:J652",
+          "08_腐烂观察!I653:J653",
+          "08_腐烂观察!I654:J654",
+          "08_腐烂观察!I655:J655",
+          "08_腐烂观察!I656:J656",
+          "08_腐烂观察!I657:J657",
+          "08_腐烂观察!I658:J658",
+          "08_腐烂观察!I659:J659",
+          "08_腐烂观察!I660:J660",
+          "08_腐烂观察!I661:J661"
+        ],
+        "unit_ids": [
+          "B1-CK-L1",
+          "B1-CK-L2",
+          "B1-CK-L3",
+          "B2-CK-L1",
+          "B2-CK-L2",
+          "B2-CK-L3",
+          "B3-CK-L1",
+          "B3-CK-L2",
+          "B3-CK-L3"
+        ],
+        "sd_meaning": "有效容器间样本SD，ddof=1；n=1时不可估计，记null"
+      },
+      {
+        "metric": "decay_pct",
+        "metric_label": "累计腐烂比例",
+        "unit": "%",
+        "group": "CK",
+        "day": 3,
+        "batch": "ALL",
+        "calendar_dates": [
+          "2026-10-08",
+          "2026-10-16",
+          "2026-10-24"
+        ],
+        "n_containers": 9,
+        "planned_containers": 9,
+        "n_fruits": 36,
+        "planned_fruits": 36,
+        "uncovered_fruits": 0,
+        "n_readings": 36,
+        "n_technical_readings": null,
+        "missing_readings": 0,
+        "missing_containers": 0,
+        "mean": 19.444444444444443,
+        "sd": 16.666666666666668,
+        "min": 0.0,
+        "max": 50.0,
+        "source_locations": [
+          "08_腐烂观察!I179:J179",
+          "08_腐烂观察!I180:J180",
+          "08_腐烂观察!I181:J181",
+          "08_腐烂观察!I182:J182",
+          "08_腐烂观察!I183:J183",
+          "08_腐烂观察!I184:J184",
+          "08_腐烂观察!I185:J185",
+          "08_腐烂观察!I186:J186",
+          "08_腐烂观察!I187:J187",
+          "08_腐烂观察!I188:J188",
+          "08_腐烂观察!I189:J189",
+          "08_腐烂观察!I190:J190",
+          "08_腐烂观察!I440:J440",
+          "08_腐烂观察!I441:J441",
+          "08_腐烂观察!I442:J442",
+          "08_腐烂观察!I443:J443",
+          "08_腐烂观察!I444:J444",
+          "08_腐烂观察!I445:J445",
+          "08_腐烂观察!I446:J446",
+          "08_腐烂观察!I447:J447",
+          "08_腐烂观察!I448:J448",
+          "08_腐烂观察!I449:J449",
+          "08_腐烂观察!I450:J450",
+          "08_腐烂观察!I451:J451",
+          "08_腐烂观察!I701:J701",
+          "08_腐烂观察!I702:J702",
+          "08_腐烂观察!I703:J703",
+          "08_腐烂观察!I704:J704",
+          "08_腐烂观察!I705:J705",
+          "08_腐烂观察!I706:J706",
+          "08_腐烂观察!I707:J707",
+          "08_腐烂观察!I708:J708",
+          "08_腐烂观察!I709:J709",
+          "08_腐烂观察!I710:J710",
+          "08_腐烂观察!I711:J711",
+          "08_腐烂观察!I712:J712"
+        ],
+        "unit_ids": [
+          "B1-CK-L1",
+          "B1-CK-L2",
+          "B1-CK-L3",
+          "B2-CK-L1",
+          "B2-CK-L2",
+          "B2-CK-L3",
+          "B3-CK-L1",
+          "B3-CK-L2",
+          "B3-CK-L3"
+        ],
+        "sd_meaning": "有效容器间样本SD，ddof=1；n=1时不可估计，记null"
+      },
+      {
+        "metric": "decay_pct",
+        "metric_label": "累计腐烂比例",
+        "unit": "%",
+        "group": "CK",
+        "day": 4,
+        "batch": "ALL",
+        "calendar_dates": [
+          "2026-10-09",
+          "2026-10-17",
+          "2026-10-25"
+        ],
+        "n_containers": 9,
+        "planned_containers": 9,
+        "n_fruits": 36,
+        "planned_fruits": 36,
+        "uncovered_fruits": 0,
+        "n_readings": 36,
+        "n_technical_readings": null,
+        "missing_readings": 0,
+        "missing_containers": 0,
+        "mean": 41.666666666666664,
+        "sd": 30.618621784789728,
+        "min": 0.0,
+        "max": 100.0,
+        "source_locations": [
+          "08_腐烂观察!I224:J224",
+          "08_腐烂观察!I225:J225",
+          "08_腐烂观察!I226:J226",
+          "08_腐烂观察!I227:J227",
+          "08_腐烂观察!I228:J228",
+          "08_腐烂观察!I229:J229",
+          "08_腐烂观察!I230:J230",
+          "08_腐烂观察!I231:J231",
+          "08_腐烂观察!I232:J232",
+          "08_腐烂观察!I233:J233",
+          "08_腐烂观察!I234:J234",
+          "08_腐烂观察!I235:J235",
+          "08_腐烂观察!I485:J485",
+          "08_腐烂观察!I486:J486",
+          "08_腐烂观察!I487:J487",
+          "08_腐烂观察!I488:J488",
+          "08_腐烂观察!I489:J489",
+          "08_腐烂观察!I490:J490",
+          "08_腐烂观察!I491:J491",
+          "08_腐烂观察!I492:J492",
+          "08_腐烂观察!I493:J493",
+          "08_腐烂观察!I494:J494",
+          "08_腐烂观察!I495:J495",
+          "08_腐烂观察!I496:J496",
+          "08_腐烂观察!I746:J746",
+          "08_腐烂观察!I747:J747",
+          "08_腐烂观察!I748:J748",
+          "08_腐烂观察!I749:J749",
+          "08_腐烂观察!I750:J750",
+          "08_腐烂观察!I751:J751",
+          "08_腐烂观察!I752:J752",
+          "08_腐烂观察!I753:J753",
+          "08_腐烂观察!I754:J754",
+          "08_腐烂观察!I755:J755",
+          "08_腐烂观察!I756:J756",
+          "08_腐烂观察!I757:J757"
+        ],
+        "unit_ids": [
+          "B1-CK-L1",
+          "B1-CK-L2",
+          "B1-CK-L3",
+          "B2-CK-L1",
+          "B2-CK-L2",
+          "B2-CK-L3",
+          "B3-CK-L1",
+          "B3-CK-L2",
+          "B3-CK-L3"
+        ],
+        "sd_meaning": "有效容器间样本SD，ddof=1；n=1时不可估计，记null"
+      },
+      {
+        "metric": "decay_pct",
+        "metric_label": "累计腐烂比例",
+        "unit": "%",
+        "group": "Ca",
+        "day": 0,
+        "batch": "ALL",
+        "calendar_dates": [
+          "2026-10-05",
+          "2026-10-13",
+          "2026-10-21"
+        ],
+        "n_containers": 9,
+        "planned_containers": 9,
+        "n_fruits": 36,
+        "planned_fruits": 36,
+        "uncovered_fruits": 0,
+        "n_readings": 36,
+        "n_technical_readings": null,
+        "missing_readings": 0,
+        "missing_containers": 0,
+        "mean": 0.0,
+        "sd": 0.0,
+        "min": 0.0,
+        "max": 0.0,
+        "source_locations": [
+          "08_腐烂观察!I35:J35",
+          "08_腐烂观察!I36:J36",
+          "08_腐烂观察!I37:J37",
+          "08_腐烂观察!I38:J38",
+          "08_腐烂观察!I39:J39",
+          "08_腐烂观察!I40:J40",
+          "08_腐烂观察!I41:J41",
+          "08_腐烂观察!I42:J42",
+          "08_腐烂观察!I43:J43",
+          "08_腐烂观察!I44:J44",
+          "08_腐烂观察!I45:J45",
+          "08_腐烂观察!I46:J46",
+          "08_腐烂观察!I296:J296",
+          "08_腐烂观察!I297:J297",
+          "08_腐烂观察!I298:J298",
+          "08_腐烂观察!I299:J299",
+          "08_腐烂观察!I300:J300",
+          "08_腐烂观察!I301:J301",
+          "08_腐烂观察!I302:J302",
+          "08_腐烂观察!I303:J303",
+          "08_腐烂观察!I304:J304",
+          "08_腐烂观察!I305:J305",
+          "08_腐烂观察!I306:J306",
+          "08_腐烂观察!I307:J307",
+          "08_腐烂观察!I557:J557",
+          "08_腐烂观察!I558:J558",
+          "08_腐烂观察!I559:J559",
+          "08_腐烂观察!I560:J560",
+          "08_腐烂观察!I561:J561",
+          "08_腐烂观察!I562:J562",
+          "08_腐烂观察!I563:J563",
+          "08_腐烂观察!I564:J564",
+          "08_腐烂观察!I565:J565",
+          "08_腐烂观察!I566:J566",
+          "08_腐烂观察!I567:J567",
+          "08_腐烂观察!I568:J568"
+        ],
+        "unit_ids": [
+          "B1-Ca-L1",
+          "B1-Ca-L2",
+          "B1-Ca-L3",
+          "B2-Ca-L1",
+          "B2-Ca-L2",
+          "B2-Ca-L3",
+          "B3-Ca-L1",
+          "B3-Ca-L2",
+          "B3-Ca-L3"
+        ],
+        "sd_meaning": "有效容器间样本SD，ddof=1；n=1时不可估计，记null"
+      },
+      {
+        "metric": "decay_pct",
+        "metric_label": "累计腐烂比例",
+        "unit": "%",
+        "group": "Ca",
+        "day": 1,
+        "batch": "ALL",
+        "calendar_dates": [
+          "2026-10-06",
+          "2026-10-14",
+          "2026-10-22"
+        ],
+        "n_containers": 9,
+        "planned_containers": 9,
+        "n_fruits": 36,
+        "planned_fruits": 36,
+        "uncovered_fruits": 0,
+        "n_readings": 36,
+        "n_technical_readings": null,
+        "missing_readings": 0,
+        "missing_containers": 0,
+        "mean": 0.0,
+        "sd": 0.0,
+        "min": 0.0,
+        "max": 0.0,
+        "source_locations": [
+          "08_腐烂观察!I92:J92",
+          "08_腐烂观察!I93:J93",
+          "08_腐烂观察!I94:J94",
+          "08_腐烂观察!I95:J95",
+          "08_腐烂观察!I96:J96",
+          "08_腐烂观察!I97:J97",
+          "08_腐烂观察!I98:J98",
+          "08_腐烂观察!I99:J99",
+          "08_腐烂观察!I100:J100",
+          "08_腐烂观察!I101:J101",
+          "08_腐烂观察!I102:J102",
+          "08_腐烂观察!I103:J103",
+          "08_腐烂观察!I353:J353",
+          "08_腐烂观察!I354:J354",
+          "08_腐烂观察!I355:J355",
+          "08_腐烂观察!I356:J356",
+          "08_腐烂观察!I357:J357",
+          "08_腐烂观察!I358:J358",
+          "08_腐烂观察!I359:J359",
+          "08_腐烂观察!I360:J360",
+          "08_腐烂观察!I361:J361",
+          "08_腐烂观察!I362:J362",
+          "08_腐烂观察!I363:J363",
+          "08_腐烂观察!I364:J364",
+          "08_腐烂观察!I614:J614",
+          "08_腐烂观察!I615:J615",
+          "08_腐烂观察!I616:J616",
+          "08_腐烂观察!I617:J617",
+          "08_腐烂观察!I618:J618",
+          "08_腐烂观察!I619:J619",
+          "08_腐烂观察!I620:J620",
+          "08_腐烂观察!I621:J621",
+          "08_腐烂观察!I622:J622",
+          "08_腐烂观察!I623:J623",
+          "08_腐烂观察!I624:J624",
+          "08_腐烂观察!I625:J625"
+        ],
+        "unit_ids": [
+          "B1-Ca-L1",
+          "B1-Ca-L2",
+          "B1-Ca-L3",
+          "B2-Ca-L1",
+          "B2-Ca-L2",
+          "B2-Ca-L3",
+          "B3-Ca-L1",
+          "B3-Ca-L2",
+          "B3-Ca-L3"
+        ],
+        "sd_meaning": "有效容器间样本SD，ddof=1；n=1时不可估计，记null"
+      },
+      {
+        "metric": "decay_pct",
+        "metric_label": "累计腐烂比例",
+        "unit": "%",
+        "group": "Ca",
+        "day": 2,
+        "batch": "ALL",
+        "calendar_dates": [
+          "2026-10-07",
+          "2026-10-15",
+          "2026-10-23"
+        ],
+        "n_containers": 9,
+        "planned_containers": 9,
+        "n_fruits": 36,
+        "planned_fruits": 36,
+        "uncovered_fruits": 0,
+        "n_readings": 36,
+        "n_technical_readings": null,
+        "missing_readings": 0,
+        "missing_containers": 0,
+        "mean": 8.333333333333334,
+        "sd": 12.5,
+        "min": 0.0,
+        "max": 25.0,
+        "source_locations": [
+          "08_腐烂观察!I146:J146",
+          "08_腐烂观察!I147:J147",
+          "08_腐烂观察!I148:J148",
+          "08_腐烂观察!I149:J149",
+          "08_腐烂观察!I150:J150",
+          "08_腐烂观察!I151:J151",
+          "08_腐烂观察!I152:J152",
+          "08_腐烂观察!I153:J153",
+          "08_腐烂观察!I154:J154",
+          "08_腐烂观察!I155:J155",
+          "08_腐烂观察!I156:J156",
+          "08_腐烂观察!I157:J157",
+          "08_腐烂观察!I407:J407",
+          "08_腐烂观察!I408:J408",
+          "08_腐烂观察!I409:J409",
+          "08_腐烂观察!I410:J410",
+          "08_腐烂观察!I411:J411",
+          "08_腐烂观察!I412:J412",
+          "08_腐烂观察!I413:J413",
+          "08_腐烂观察!I414:J414",
+          "08_腐烂观察!I415:J415",
+          "08_腐烂观察!I416:J416",
+          "08_腐烂观察!I417:J417",
+          "08_腐烂观察!I418:J418",
+          "08_腐烂观察!I668:J668",
+          "08_腐烂观察!I669:J669",
+          "08_腐烂观察!I670:J670",
+          "08_腐烂观察!I671:J671",
+          "08_腐烂观察!I672:J672",
+          "08_腐烂观察!I673:J673",
+          "08_腐烂观察!I674:J674",
+          "08_腐烂观察!I675:J675",
+          "08_腐烂观察!I676:J676",
+          "08_腐烂观察!I677:J677",
+          "08_腐烂观察!I678:J678",
+          "08_腐烂观察!I679:J679"
+        ],
+        "unit_ids": [
+          "B1-Ca-L1",
+          "B1-Ca-L2",
+          "B1-Ca-L3",
+          "B2-Ca-L1",
+          "B2-Ca-L2",
+          "B2-Ca-L3",
+          "B3-Ca-L1",
+          "B3-Ca-L2",
+          "B3-Ca-L3"
+        ],
+        "sd_meaning": "有效容器间样本SD，ddof=1；n=1时不可估计，记null"
+      },
+      {
+        "metric": "decay_pct",
+        "metric_label": "累计腐烂比例",
+        "unit": "%",
+        "group": "Ca",
+        "day": 3,
+        "batch": "ALL",
+        "calendar_dates": [
+          "2026-10-08",
+          "2026-10-16",
+          "2026-10-24"
+        ],
+        "n_containers": 9,
+        "planned_containers": 9,
+        "n_fruits": 36,
+        "planned_fruits": 36,
+        "uncovered_fruits": 0,
+        "n_readings": 36,
+        "n_technical_readings": null,
+        "missing_readings": 0,
+        "missing_containers": 0,
+        "mean": 22.22222222222222,
+        "sd": 15.023130314433288,
+        "min": 0.0,
+        "max": 50.0,
+        "source_locations": [
+          "08_腐烂观察!I194:J194",
+          "08_腐烂观察!I195:J195",
+          "08_腐烂观察!I196:J196",
+          "08_腐烂观察!I197:J197",
+          "08_腐烂观察!I198:J198",
+          "08_腐烂观察!I199:J199",
+          "08_腐烂观察!I200:J200",
+          "08_腐烂观察!I201:J201",
+          "08_腐烂观察!I202:J202",
+          "08_腐烂观察!I203:J203",
+          "08_腐烂观察!I204:J204",
+          "08_腐烂观察!I205:J205",
+          "08_腐烂观察!I455:J455",
+          "08_腐烂观察!I456:J456",
+          "08_腐烂观察!I457:J457",
+          "08_腐烂观察!I458:J458",
+          "08_腐烂观察!I459:J459",
+          "08_腐烂观察!I460:J460",
+          "08_腐烂观察!I461:J461",
+          "08_腐烂观察!I462:J462",
+          "08_腐烂观察!I463:J463",
+          "08_腐烂观察!I464:J464",
+          "08_腐烂观察!I465:J465",
+          "08_腐烂观察!I466:J466",
+          "08_腐烂观察!I716:J716",
+          "08_腐烂观察!I717:J717",
+          "08_腐烂观察!I718:J718",
+          "08_腐烂观察!I719:J719",
+          "08_腐烂观察!I720:J720",
+          "08_腐烂观察!I721:J721",
+          "08_腐烂观察!I722:J722",
+          "08_腐烂观察!I723:J723",
+          "08_腐烂观察!I724:J724",
+          "08_腐烂观察!I725:J725",
+          "08_腐烂观察!I726:J726",
+          "08_腐烂观察!I727:J727"
+        ],
+        "unit_ids": [
+          "B1-Ca-L1",
+          "B1-Ca-L2",
+          "B1-Ca-L3",
+          "B2-Ca-L1",
+          "B2-Ca-L2",
+          "B2-Ca-L3",
+          "B3-Ca-L1",
+          "B3-Ca-L2",
+          "B3-Ca-L3"
+        ],
+        "sd_meaning": "有效容器间样本SD，ddof=1；n=1时不可估计，记null"
+      },
+      {
+        "metric": "decay_pct",
+        "metric_label": "累计腐烂比例",
+        "unit": "%",
+        "group": "Ca",
+        "day": 4,
+        "batch": "ALL",
+        "calendar_dates": [
+          "2026-10-09",
+          "2026-10-17",
+          "2026-10-25"
+        ],
+        "n_containers": 9,
+        "planned_containers": 9,
+        "n_fruits": 36,
+        "planned_fruits": 36,
+        "uncovered_fruits": 0,
+        "n_readings": 36,
+        "n_technical_readings": null,
+        "missing_readings": 0,
+        "missing_containers": 0,
+        "mean": 33.333333333333336,
+        "sd": 17.67766952966369,
+        "min": 0.0,
+        "max": 50.0,
+        "source_locations": [
+          "08_腐烂观察!I239:J239",
+          "08_腐烂观察!I240:J240",
+          "08_腐烂观察!I241:J241",
+          "08_腐烂观察!I242:J242",
+          "08_腐烂观察!I243:J243",
+          "08_腐烂观察!I244:J244",
+          "08_腐烂观察!I245:J245",
+          "08_腐烂观察!I246:J246",
+          "08_腐烂观察!I247:J247",
+          "08_腐烂观察!I248:J248",
+          "08_腐烂观察!I249:J249",
+          "08_腐烂观察!I250:J250",
+          "08_腐烂观察!I500:J500",
+          "08_腐烂观察!I501:J501",
+          "08_腐烂观察!I502:J502",
+          "08_腐烂观察!I503:J503",
+          "08_腐烂观察!I504:J504",
+          "08_腐烂观察!I505:J505",
+          "08_腐烂观察!I506:J506",
+          "08_腐烂观察!I507:J507",
+          "08_腐烂观察!I508:J508",
+          "08_腐烂观察!I509:J509",
+          "08_腐烂观察!I510:J510",
+          "08_腐烂观察!I511:J511",
+          "08_腐烂观察!I761:J761",
+          "08_腐烂观察!I762:J762",
+          "08_腐烂观察!I763:J763",
+          "08_腐烂观察!I764:J764",
+          "08_腐烂观察!I765:J765",
+          "08_腐烂观察!I766:J766",
+          "08_腐烂观察!I767:J767",
+          "08_腐烂观察!I768:J768",
+          "08_腐烂观察!I769:J769",
+          "08_腐烂观察!I770:J770",
+          "08_腐烂观察!I771:J771",
+          "08_腐烂观察!I772:J772"
+        ],
+        "unit_ids": [
+          "B1-Ca-L1",
+          "B1-Ca-L2",
+          "B1-Ca-L3",
+          "B2-Ca-L1",
+          "B2-Ca-L2",
+          "B2-Ca-L3",
+          "B3-Ca-L1",
+          "B3-Ca-L2",
+          "B3-Ca-L3"
+        ],
+        "sd_meaning": "有效容器间样本SD，ddof=1；n=1时不可估计，记null"
+      },
+      {
+        "metric": "decay_pct",
+        "metric_label": "累计腐烂比例",
+        "unit": "%",
+        "group": "SA-Ca",
+        "day": 0,
+        "batch": "ALL",
+        "calendar_dates": [
+          "2026-10-05",
+          "2026-10-13",
+          "2026-10-21"
+        ],
+        "n_containers": 9,
+        "planned_containers": 9,
+        "n_fruits": 36,
+        "planned_fruits": 36,
+        "uncovered_fruits": 0,
+        "n_readings": 36,
+        "n_technical_readings": null,
+        "missing_readings": 0,
+        "missing_containers": 0,
+        "mean": 0.0,
+        "sd": 0.0,
+        "min": 0.0,
+        "max": 0.0,
+        "source_locations": [
+          "08_腐烂观察!I56:J56",
+          "08_腐烂观察!I57:J57",
+          "08_腐烂观察!I58:J58",
+          "08_腐烂观察!I59:J59",
+          "08_腐烂观察!I60:J60",
+          "08_腐烂观察!I61:J61",
+          "08_腐烂观察!I62:J62",
+          "08_腐烂观察!I63:J63",
+          "08_腐烂观察!I64:J64",
+          "08_腐烂观察!I65:J65",
+          "08_腐烂观察!I66:J66",
+          "08_腐烂观察!I67:J67",
+          "08_腐烂观察!I317:J317",
+          "08_腐烂观察!I318:J318",
+          "08_腐烂观察!I319:J319",
+          "08_腐烂观察!I320:J320",
+          "08_腐烂观察!I321:J321",
+          "08_腐烂观察!I322:J322",
+          "08_腐烂观察!I323:J323",
+          "08_腐烂观察!I324:J324",
+          "08_腐烂观察!I325:J325",
+          "08_腐烂观察!I326:J326",
+          "08_腐烂观察!I327:J327",
+          "08_腐烂观察!I328:J328",
+          "08_腐烂观察!I578:J578",
+          "08_腐烂观察!I579:J579",
+          "08_腐烂观察!I580:J580",
+          "08_腐烂观察!I581:J581",
+          "08_腐烂观察!I582:J582",
+          "08_腐烂观察!I583:J583",
+          "08_腐烂观察!I584:J584",
+          "08_腐烂观察!I585:J585",
+          "08_腐烂观察!I586:J586",
+          "08_腐烂观察!I587:J587",
+          "08_腐烂观察!I588:J588",
+          "08_腐烂观察!I589:J589"
+        ],
+        "unit_ids": [
+          "B1-SA-Ca-L1",
+          "B1-SA-Ca-L2",
+          "B1-SA-Ca-L3",
+          "B2-SA-Ca-L1",
+          "B2-SA-Ca-L2",
+          "B2-SA-Ca-L3",
+          "B3-SA-Ca-L1",
+          "B3-SA-Ca-L2",
+          "B3-SA-Ca-L3"
+        ],
+        "sd_meaning": "有效容器间样本SD，ddof=1；n=1时不可估计，记null"
+      },
+      {
+        "metric": "decay_pct",
+        "metric_label": "累计腐烂比例",
+        "unit": "%",
+        "group": "SA-Ca",
+        "day": 1,
+        "batch": "ALL",
+        "calendar_dates": [
+          "2026-10-06",
+          "2026-10-14",
+          "2026-10-22"
+        ],
+        "n_containers": 9,
+        "planned_containers": 9,
+        "n_fruits": 36,
+        "planned_fruits": 36,
+        "uncovered_fruits": 0,
+        "n_readings": 36,
+        "n_technical_readings": null,
+        "missing_readings": 0,
+        "missing_containers": 0,
+        "mean": 0.0,
+        "sd": 0.0,
+        "min": 0.0,
+        "max": 0.0,
+        "source_locations": [
+          "08_腐烂观察!I110:J110",
+          "08_腐烂观察!I111:J111",
+          "08_腐烂观察!I112:J112",
+          "08_腐烂观察!I113:J113",
+          "08_腐烂观察!I114:J114",
+          "08_腐烂观察!I115:J115",
+          "08_腐烂观察!I116:J116",
+          "08_腐烂观察!I117:J117",
+          "08_腐烂观察!I118:J118",
+          "08_腐烂观察!I119:J119",
+          "08_腐烂观察!I120:J120",
+          "08_腐烂观察!I121:J121",
+          "08_腐烂观察!I371:J371",
+          "08_腐烂观察!I372:J372",
+          "08_腐烂观察!I373:J373",
+          "08_腐烂观察!I374:J374",
+          "08_腐烂观察!I375:J375",
+          "08_腐烂观察!I376:J376",
+          "08_腐烂观察!I377:J377",
+          "08_腐烂观察!I378:J378",
+          "08_腐烂观察!I379:J379",
+          "08_腐烂观察!I380:J380",
+          "08_腐烂观察!I381:J381",
+          "08_腐烂观察!I382:J382",
+          "08_腐烂观察!I632:J632",
+          "08_腐烂观察!I633:J633",
+          "08_腐烂观察!I634:J634",
+          "08_腐烂观察!I635:J635",
+          "08_腐烂观察!I636:J636",
+          "08_腐烂观察!I637:J637",
+          "08_腐烂观察!I638:J638",
+          "08_腐烂观察!I639:J639",
+          "08_腐烂观察!I640:J640",
+          "08_腐烂观察!I641:J641",
+          "08_腐烂观察!I642:J642",
+          "08_腐烂观察!I643:J643"
+        ],
+        "unit_ids": [
+          "B1-SA-Ca-L1",
+          "B1-SA-Ca-L2",
+          "B1-SA-Ca-L3",
+          "B2-SA-Ca-L1",
+          "B2-SA-Ca-L2",
+          "B2-SA-Ca-L3",
+          "B3-SA-Ca-L1",
+          "B3-SA-Ca-L2",
+          "B3-SA-Ca-L3"
+        ],
+        "sd_meaning": "有效容器间样本SD，ddof=1；n=1时不可估计，记null"
+      },
+      {
+        "metric": "decay_pct",
+        "metric_label": "累计腐烂比例",
+        "unit": "%",
+        "group": "SA-Ca",
+        "day": 2,
+        "batch": "ALL",
+        "calendar_dates": [
+          "2026-10-07",
+          "2026-10-15",
+          "2026-10-23"
+        ],
+        "n_containers": 9,
+        "planned_containers": 9,
+        "n_fruits": 36,
+        "planned_fruits": 36,
+        "uncovered_fruits": 0,
+        "n_readings": 36,
+        "n_technical_readings": null,
+        "missing_readings": 0,
+        "missing_containers": 0,
+        "mean": 11.11111111111111,
+        "sd": 13.176156917368248,
+        "min": 0.0,
+        "max": 25.0,
+        "source_locations": [
+          "08_腐烂观察!I164:J164",
+          "08_腐烂观察!I165:J165",
+          "08_腐烂观察!I166:J166",
+          "08_腐烂观察!I167:J167",
+          "08_腐烂观察!I168:J168",
+          "08_腐烂观察!I169:J169",
+          "08_腐烂观察!I170:J170",
+          "08_腐烂观察!I171:J171",
+          "08_腐烂观察!I172:J172",
+          "08_腐烂观察!I173:J173",
+          "08_腐烂观察!I174:J174",
+          "08_腐烂观察!I175:J175",
+          "08_腐烂观察!I425:J425",
+          "08_腐烂观察!I426:J426",
+          "08_腐烂观察!I427:J427",
+          "08_腐烂观察!I428:J428",
+          "08_腐烂观察!I429:J429",
+          "08_腐烂观察!I430:J430",
+          "08_腐烂观察!I431:J431",
+          "08_腐烂观察!I432:J432",
+          "08_腐烂观察!I433:J433",
+          "08_腐烂观察!I434:J434",
+          "08_腐烂观察!I435:J435",
+          "08_腐烂观察!I436:J436",
+          "08_腐烂观察!I686:J686",
+          "08_腐烂观察!I687:J687",
+          "08_腐烂观察!I688:J688",
+          "08_腐烂观察!I689:J689",
+          "08_腐烂观察!I690:J690",
+          "08_腐烂观察!I691:J691",
+          "08_腐烂观察!I692:J692",
+          "08_腐烂观察!I693:J693",
+          "08_腐烂观察!I694:J694",
+          "08_腐烂观察!I695:J695",
+          "08_腐烂观察!I696:J696",
+          "08_腐烂观察!I697:J697"
+        ],
+        "unit_ids": [
+          "B1-SA-Ca-L1",
+          "B1-SA-Ca-L2",
+          "B1-SA-Ca-L3",
+          "B2-SA-Ca-L1",
+          "B2-SA-Ca-L2",
+          "B2-SA-Ca-L3",
+          "B3-SA-Ca-L1",
+          "B3-SA-Ca-L2",
+          "B3-SA-Ca-L3"
+        ],
+        "sd_meaning": "有效容器间样本SD，ddof=1；n=1时不可估计，记null"
+      },
+      {
+        "metric": "decay_pct",
+        "metric_label": "累计腐烂比例",
+        "unit": "%",
+        "group": "SA-Ca",
+        "day": 3,
+        "batch": "ALL",
+        "calendar_dates": [
+          "2026-10-08",
+          "2026-10-16",
+          "2026-10-24"
+        ],
+        "n_containers": 9,
+        "planned_containers": 9,
+        "n_fruits": 36,
+        "planned_fruits": 36,
+        "uncovered_fruits": 0,
+        "n_readings": 36,
+        "n_technical_readings": null,
+        "missing_readings": 0,
+        "missing_containers": 0,
+        "mean": 19.444444444444443,
+        "sd": 16.666666666666668,
+        "min": 0.0,
+        "max": 50.0,
+        "source_locations": [
+          "08_腐烂观察!I209:J209",
+          "08_腐烂观察!I210:J210",
+          "08_腐烂观察!I211:J211",
+          "08_腐烂观察!I212:J212",
+          "08_腐烂观察!I213:J213",
+          "08_腐烂观察!I214:J214",
+          "08_腐烂观察!I215:J215",
+          "08_腐烂观察!I216:J216",
+          "08_腐烂观察!I217:J217",
+          "08_腐烂观察!I218:J218",
+          "08_腐烂观察!I219:J219",
+          "08_腐烂观察!I220:J220",
+          "08_腐烂观察!I470:J470",
+          "08_腐烂观察!I471:J471",
+          "08_腐烂观察!I472:J472",
+          "08_腐烂观察!I473:J473",
+          "08_腐烂观察!I474:J474",
+          "08_腐烂观察!I475:J475",
+          "08_腐烂观察!I476:J476",
+          "08_腐烂观察!I477:J477",
+          "08_腐烂观察!I478:J478",
+          "08_腐烂观察!I479:J479",
+          "08_腐烂观察!I480:J480",
+          "08_腐烂观察!I481:J481",
+          "08_腐烂观察!I731:J731",
+          "08_腐烂观察!I732:J732",
+          "08_腐烂观察!I733:J733",
+          "08_腐烂观察!I734:J734",
+          "08_腐烂观察!I735:J735",
+          "08_腐烂观察!I736:J736",
+          "08_腐烂观察!I737:J737",
+          "08_腐烂观察!I738:J738",
+          "08_腐烂观察!I739:J739",
+          "08_腐烂观察!I740:J740",
+          "08_腐烂观察!I741:J741",
+          "08_腐烂观察!I742:J742"
+        ],
+        "unit_ids": [
+          "B1-SA-Ca-L1",
+          "B1-SA-Ca-L2",
+          "B1-SA-Ca-L3",
+          "B2-SA-Ca-L1",
+          "B2-SA-Ca-L2",
+          "B2-SA-Ca-L3",
+          "B3-SA-Ca-L1",
+          "B3-SA-Ca-L2",
+          "B3-SA-Ca-L3"
+        ],
+        "sd_meaning": "有效容器间样本SD，ddof=1；n=1时不可估计，记null"
+      },
+      {
+        "metric": "decay_pct",
+        "metric_label": "累计腐烂比例",
+        "unit": "%",
+        "group": "SA-Ca",
+        "day": 4,
+        "batch": "ALL",
+        "calendar_dates": [
+          "2026-10-09",
+          "2026-10-17",
+          "2026-10-25"
+        ],
+        "n_containers": 9,
+        "planned_containers": 9,
+        "n_fruits": 36,
+        "planned_fruits": 36,
+        "uncovered_fruits": 0,
+        "n_readings": 36,
+        "n_technical_readings": null,
+        "missing_readings": 0,
+        "missing_containers": 0,
+        "mean": 36.111111111111114,
+        "sd": 28.25970826302195,
+        "min": 0.0,
+        "max": 100.0,
+        "source_locations": [
+          "08_腐烂观察!I254:J254",
+          "08_腐烂观察!I255:J255",
+          "08_腐烂观察!I256:J256",
+          "08_腐烂观察!I257:J257",
+          "08_腐烂观察!I258:J258",
+          "08_腐烂观察!I259:J259",
+          "08_腐烂观察!I260:J260",
+          "08_腐烂观察!I261:J261",
+          "08_腐烂观察!I262:J262",
+          "08_腐烂观察!I263:J263",
+          "08_腐烂观察!I264:J264",
+          "08_腐烂观察!I265:J265",
+          "08_腐烂观察!I515:J515",
+          "08_腐烂观察!I516:J516",
+          "08_腐烂观察!I517:J517",
+          "08_腐烂观察!I518:J518",
+          "08_腐烂观察!I519:J519",
+          "08_腐烂观察!I520:J520",
+          "08_腐烂观察!I521:J521",
+          "08_腐烂观察!I522:J522",
+          "08_腐烂观察!I523:J523",
+          "08_腐烂观察!I524:J524",
+          "08_腐烂观察!I525:J525",
+          "08_腐烂观察!I526:J526",
+          "08_腐烂观察!I776:J776",
+          "08_腐烂观察!I777:J777",
+          "08_腐烂观察!I778:J778",
+          "08_腐烂观察!I779:J779",
+          "08_腐烂观察!I780:J780",
+          "08_腐烂观察!I781:J781",
+          "08_腐烂观察!I782:J782",
+          "08_腐烂观察!I783:J783",
+          "08_腐烂观察!I784:J784",
+          "08_腐烂观察!I785:J785",
+          "08_腐烂观察!I786:J786",
+          "08_腐烂观察!I787:J787"
+        ],
+        "unit_ids": [
+          "B1-SA-Ca-L1",
+          "B1-SA-Ca-L2",
+          "B1-SA-Ca-L3",
+          "B2-SA-Ca-L1",
+          "B2-SA-Ca-L2",
+          "B2-SA-Ca-L3",
+          "B3-SA-Ca-L1",
+          "B3-SA-Ca-L2",
+          "B3-SA-Ca-L3"
+        ],
+        "sd_meaning": "有效容器间样本SD，ddof=1；n=1时不可估计，记null"
+      }
+    ],
+    "series": [
+      {
+        "group": "CK",
+        "day": [
+          0,
+          1,
+          2,
+          3,
+          4
+        ],
+        "mean": [
+          0.0,
+          5.555555555555555,
+          11.11111111111111,
+          19.444444444444443,
+          41.666666666666664
+        ],
+        "sd": null,
+        "n_containers": [
+          9,
+          9,
+          9,
+          9,
+          9
+        ],
+        "n_fruits": [
+          36,
+          36,
+          36,
+          36,
+          36
+        ],
+        "calendar_dates": [
+          [
+            "2026-10-05",
+            "2026-10-13",
+            "2026-10-21"
+          ],
+          [
+            "2026-10-06",
+            "2026-10-14",
+            "2026-10-22"
+          ],
+          [
+            "2026-10-07",
+            "2026-10-15",
+            "2026-10-23"
+          ],
+          [
+            "2026-10-08",
+            "2026-10-16",
+            "2026-10-24"
+          ],
+          [
+            "2026-10-09",
+            "2026-10-17",
+            "2026-10-25"
+          ]
+        ]
+      },
+      {
+        "group": "Ca",
+        "day": [
+          0,
+          1,
+          2,
+          3,
+          4
+        ],
+        "mean": [
+          0.0,
+          0.0,
+          8.333333333333334,
+          22.22222222222222,
+          33.333333333333336
+        ],
+        "sd": null,
+        "n_containers": [
+          9,
+          9,
+          9,
+          9,
+          9
+        ],
+        "n_fruits": [
+          36,
+          36,
+          36,
+          36,
+          36
+        ],
+        "calendar_dates": [
+          [
+            "2026-10-05",
+            "2026-10-13",
+            "2026-10-21"
+          ],
+          [
+            "2026-10-06",
+            "2026-10-14",
+            "2026-10-22"
+          ],
+          [
+            "2026-10-07",
+            "2026-10-15",
+            "2026-10-23"
+          ],
+          [
+            "2026-10-08",
+            "2026-10-16",
+            "2026-10-24"
+          ],
+          [
+            "2026-10-09",
+            "2026-10-17",
+            "2026-10-25"
+          ]
+        ]
+      },
+      {
+        "group": "SA-Ca",
+        "day": [
+          0,
+          1,
+          2,
+          3,
+          4
+        ],
+        "mean": [
+          0.0,
+          0.0,
+          11.11111111111111,
+          19.444444444444443,
+          36.111111111111114
+        ],
+        "sd": null,
+        "n_containers": [
+          9,
+          9,
+          9,
+          9,
+          9
+        ],
+        "n_fruits": [
+          36,
+          36,
+          36,
+          36,
+          36
+        ],
+        "calendar_dates": [
+          [
+            "2026-10-05",
+            "2026-10-13",
+            "2026-10-21"
+          ],
+          [
+            "2026-10-06",
+            "2026-10-14",
+            "2026-10-22"
+          ],
+          [
+            "2026-10-07",
+            "2026-10-15",
+            "2026-10-23"
+          ],
+          [
+            "2026-10-08",
+            "2026-10-16",
+            "2026-10-24"
+          ],
+          [
+            "2026-10-09",
+            "2026-10-17",
+            "2026-10-25"
+          ]
+        ]
+      }
+    ],
+    "container_source_file": "P09B_F02_累计腐烂_containers.csv",
+    "errorbar": "none",
+    "id": "P09B_F02_累计腐烂",
+    "files": [
+      "P09B_F02_累计腐烂.png",
+      "P09B_F02_累计腐烂.svg",
+      "P09B_F02_累计腐烂_source.csv"
+    ]
+  },
+  {
+    "metric": "firmness",
+    "source_rows": [
+      {
+        "metric": "firmness",
+        "metric_label": "表观硬度",
+        "unit": "N",
+        "group": "CK",
+        "day": 0,
+        "batch": "ALL",
+        "calendar_dates": [
+          "2026-10-05",
+          "2026-10-13",
+          "2026-10-21"
+        ],
+        "n_containers": 3,
+        "planned_containers": 3,
+        "n_fruits": 9,
+        "planned_fruits": 9,
+        "uncovered_fruits": 0,
+        "n_readings": 18,
+        "n_technical_readings": 18,
+        "missing_readings": 0,
+        "missing_containers": 0,
+        "mean": 9.676666666666666,
+        "sd": 0.5732461173973274,
+        "min": 9.043333333333333,
+        "max": 10.159999999999998,
+        "source_locations": [
+          "09_品质检测!I5",
+          "09_品质检测!I6",
+          "09_品质检测!I8",
+          "09_品质检测!I9",
+          "09_品质检测!I11",
+          "09_品质检测!I12",
+          "09_品质检测!I86",
+          "09_品质检测!I87",
+          "09_品质检测!I89",
+          "09_品质检测!I90",
+          "09_品质检测!I92",
+          "09_品质检测!I93",
+          "09_品质检测!I167",
+          "09_品质检测!I168",
+          "09_品质检测!I170",
+          "09_品质检测!I171",
+          "09_品质检测!I173",
+          "09_品质检测!I174"
+        ],
+        "unit_ids": [
+          "B1-CK-D0",
+          "B2-CK-D0",
+          "B3-CK-D0"
+        ],
+        "sd_meaning": "有效容器间样本SD，ddof=1；n=1时不可估计，记null"
+      },
+      {
+        "metric": "firmness",
+        "metric_label": "表观硬度",
+        "unit": "N",
+        "group": "CK",
+        "day": 2,
+        "batch": "ALL",
+        "calendar_dates": [
+          "2026-10-07",
+          "2026-10-15",
+          "2026-10-23"
+        ],
+        "n_containers": 3,
+        "planned_containers": 3,
+        "n_fruits": 9,
+        "planned_fruits": 9,
+        "uncovered_fruits": 0,
+        "n_readings": 18,
+        "n_technical_readings": 18,
+        "missing_readings": 0,
+        "missing_containers": 0,
+        "mean": 7.294444444444444,
+        "sd": 0.6203321989362127,
+        "min": 6.653333333333333,
+        "max": 7.891666666666667,
+        "source_locations": [
+          "09_品质检测!I14",
+          "09_品质检测!I15",
+          "09_品质检测!I17",
+          "09_品质检测!I18",
+          "09_品质检测!I20",
+          "09_品质检测!I21",
+          "09_品质检测!I95",
+          "09_品质检测!I96",
+          "09_品质检测!I98",
+          "09_品质检测!I99",
+          "09_品质检测!I101",
+          "09_品质检测!I102",
+          "09_品质检测!I176",
+          "09_品质检测!I177",
+          "09_品质检测!I179",
+          "09_品质检测!I180",
+          "09_品质检测!I182",
+          "09_品质检测!I183"
+        ],
+        "unit_ids": [
+          "B1-CK-D2",
+          "B2-CK-D2",
+          "B3-CK-D2"
+        ],
+        "sd_meaning": "有效容器间样本SD，ddof=1；n=1时不可估计，记null"
+      },
+      {
+        "metric": "firmness",
+        "metric_label": "表观硬度",
+        "unit": "N",
+        "group": "CK",
+        "day": 4,
+        "batch": "ALL",
+        "calendar_dates": [
+          "2026-10-09",
+          "2026-10-17",
+          "2026-10-25"
+        ],
+        "n_containers": 3,
+        "planned_containers": 3,
+        "n_fruits": 8,
+        "planned_fruits": 9,
+        "uncovered_fruits": 1,
+        "n_readings": 16,
+        "n_technical_readings": 16,
+        "missing_readings": 2,
+        "missing_containers": 0,
+        "mean": 5.056111111111111,
+        "sd": 0.5814023595615209,
+        "min": 4.443333333333333,
+        "max": 5.6000000000000005,
+        "source_locations": [
+          "09_品质检测!I23",
+          "09_品质检测!I24",
+          "09_品质检测!I26",
+          "09_品质检测!I27",
+          "09_品质检测!I29",
+          "09_品质检测!I30",
+          "09_品质检测!I104",
+          "09_品质检测!I105",
+          "09_品质检测!I107",
+          "09_品质检测!I108",
+          "09_品质检测!I110",
+          "09_品质检测!I111",
+          "09_品质检测!I185",
+          "09_品质检测!I186",
+          "09_品质检测!I188",
+          "09_品质检测!I189",
+          "09_品质检测!I191",
+          "09_品质检测!I192"
+        ],
+        "unit_ids": [
+          "B1-CK-D4",
+          "B2-CK-D4",
+          "B3-CK-D4"
+        ],
+        "sd_meaning": "有效容器间样本SD，ddof=1；n=1时不可估计，记null"
+      },
+      {
+        "metric": "firmness",
+        "metric_label": "表观硬度",
+        "unit": "N",
+        "group": "Ca",
+        "day": 0,
+        "batch": "ALL",
+        "calendar_dates": [
+          "2026-10-05",
+          "2026-10-13",
+          "2026-10-21"
+        ],
+        "n_containers": 3,
+        "planned_containers": 3,
+        "n_fruits": 9,
+        "planned_fruits": 9,
+        "uncovered_fruits": 0,
+        "n_readings": 18,
+        "n_technical_readings": 18,
+        "missing_readings": 0,
+        "missing_containers": 0,
+        "mean": 9.387777777777778,
+        "sd": 0.5643391743479305,
+        "min": 8.805,
+        "max": 9.931666666666667,
+        "source_locations": [
+          "09_品质检测!I32",
+          "09_品质检测!I33",
+          "09_品质检测!I35",
+          "09_品质检测!I36",
+          "09_品质检测!I38",
+          "09_品质检测!I39",
+          "09_品质检测!I113",
+          "09_品质检测!I114",
+          "09_品质检测!I116",
+          "09_品质检测!I117",
+          "09_品质检测!I119",
+          "09_品质检测!I120",
+          "09_品质检测!I194",
+          "09_品质检测!I195",
+          "09_品质检测!I197",
+          "09_品质检测!I198",
+          "09_品质检测!I200",
+          "09_品质检测!I201"
+        ],
+        "unit_ids": [
+          "B1-Ca-D0",
+          "B2-Ca-D0",
+          "B3-Ca-D0"
+        ],
+        "sd_meaning": "有效容器间样本SD，ddof=1；n=1时不可估计，记null"
+      },
+      {
+        "metric": "firmness",
+        "metric_label": "表观硬度",
+        "unit": "N",
+        "group": "Ca",
+        "day": 2,
+        "batch": "ALL",
+        "calendar_dates": [
+          "2026-10-07",
+          "2026-10-15",
+          "2026-10-23"
+        ],
+        "n_containers": 3,
+        "planned_containers": 3,
+        "n_fruits": 9,
+        "planned_fruits": 9,
+        "uncovered_fruits": 0,
+        "n_readings": 18,
+        "n_technical_readings": 18,
+        "missing_readings": 0,
+        "missing_containers": 0,
+        "mean": 7.283888888888889,
+        "sd": 0.2827755948398605,
+        "min": 6.96,
+        "max": 7.4816666666666665,
+        "source_locations": [
+          "09_品质检测!I41",
+          "09_品质检测!I42",
+          "09_品质检测!I44",
+          "09_品质检测!I45",
+          "09_品质检测!I47",
+          "09_品质检测!I48",
+          "09_品质检测!I122",
+          "09_品质检测!I123",
+          "09_品质检测!I125",
+          "09_品质检测!I126",
+          "09_品质检测!I128",
+          "09_品质检测!I129",
+          "09_品质检测!I203",
+          "09_品质检测!I204",
+          "09_品质检测!I206",
+          "09_品质检测!I207",
+          "09_品质检测!I209",
+          "09_品质检测!I210"
+        ],
+        "unit_ids": [
+          "B1-Ca-D2",
+          "B2-Ca-D2",
+          "B3-Ca-D2"
+        ],
+        "sd_meaning": "有效容器间样本SD，ddof=1；n=1时不可估计，记null"
+      },
+      {
+        "metric": "firmness",
+        "metric_label": "表观硬度",
+        "unit": "N",
+        "group": "Ca",
+        "day": 4,
+        "batch": "ALL",
+        "calendar_dates": [
+          "2026-10-09",
+          "2026-10-17",
+          "2026-10-25"
+        ],
+        "n_containers": 3,
+        "planned_containers": 3,
+        "n_fruits": 9,
+        "planned_fruits": 9,
+        "uncovered_fruits": 0,
+        "n_readings": 18,
+        "n_technical_readings": 18,
+        "missing_readings": 0,
+        "missing_containers": 0,
+        "mean": 5.161666666666666,
+        "sd": 0.2849902532446408,
+        "min": 4.833333333333333,
+        "max": 5.345,
+        "source_locations": [
+          "09_品质检测!I50",
+          "09_品质检测!I51",
+          "09_品质检测!I53",
+          "09_品质检测!I54",
+          "09_品质检测!I56",
+          "09_品质检测!I57",
+          "09_品质检测!I131",
+          "09_品质检测!I132",
+          "09_品质检测!I134",
+          "09_品质检测!I135",
+          "09_品质检测!I137",
+          "09_品质检测!I138",
+          "09_品质检测!I212",
+          "09_品质检测!I213",
+          "09_品质检测!I215",
+          "09_品质检测!I216",
+          "09_品质检测!I218",
+          "09_品质检测!I219"
+        ],
+        "unit_ids": [
+          "B1-Ca-D4",
+          "B2-Ca-D4",
+          "B3-Ca-D4"
+        ],
+        "sd_meaning": "有效容器间样本SD，ddof=1；n=1时不可估计，记null"
+      },
+      {
+        "metric": "firmness",
+        "metric_label": "表观硬度",
+        "unit": "N",
+        "group": "SA-Ca",
+        "day": 0,
+        "batch": "ALL",
+        "calendar_dates": [
+          "2026-10-05",
+          "2026-10-13",
+          "2026-10-21"
+        ],
+        "n_containers": 3,
+        "planned_containers": 3,
+        "n_fruits": 9,
+        "planned_fruits": 9,
+        "uncovered_fruits": 0,
+        "n_readings": 18,
+        "n_technical_readings": 18,
+        "missing_readings": 0,
+        "missing_containers": 0,
+        "mean": 9.462777777777777,
+        "sd": 0.18356298747397468,
+        "min": 9.306666666666667,
+        "max": 9.665000000000001,
+        "source_locations": [
+          "09_品质检测!I59",
+          "09_品质检测!I60",
+          "09_品质检测!I62",
+          "09_品质检测!I63",
+          "09_品质检测!I65",
+          "09_品质检测!I66",
+          "09_品质检测!I140",
+          "09_品质检测!I141",
+          "09_品质检测!I143",
+          "09_品质检测!I144",
+          "09_品质检测!I146",
+          "09_品质检测!I147",
+          "09_品质检测!I221",
+          "09_品质检测!I222",
+          "09_品质检测!I224",
+          "09_品质检测!I225",
+          "09_品质检测!I227",
+          "09_品质检测!I228"
+        ],
+        "unit_ids": [
+          "B1-SA-Ca-D0",
+          "B2-SA-Ca-D0",
+          "B3-SA-Ca-D0"
+        ],
+        "sd_meaning": "有效容器间样本SD，ddof=1；n=1时不可估计，记null"
+      },
+      {
+        "metric": "firmness",
+        "metric_label": "表观硬度",
+        "unit": "N",
+        "group": "SA-Ca",
+        "day": 2,
+        "batch": "ALL",
+        "calendar_dates": [
+          "2026-10-07",
+          "2026-10-15",
+          "2026-10-23"
+        ],
+        "n_containers": 3,
+        "planned_containers": 3,
+        "n_fruits": 9,
+        "planned_fruits": 9,
+        "uncovered_fruits": 0,
+        "n_readings": 18,
+        "n_technical_readings": 18,
+        "missing_readings": 0,
+        "missing_containers": 0,
+        "mean": 7.218333333333334,
+        "sd": 0.23238497752173598,
+        "min": 6.95,
+        "max": 7.3533333333333335,
+        "source_locations": [
+          "09_品质检测!I68",
+          "09_品质检测!I69",
+          "09_品质检测!I71",
+          "09_品质检测!I72",
+          "09_品质检测!I74",
+          "09_品质检测!I75",
+          "09_品质检测!I149",
+          "09_品质检测!I150",
+          "09_品质检测!I152",
+          "09_品质检测!I153",
+          "09_品质检测!I155",
+          "09_品质检测!I156",
+          "09_品质检测!I230",
+          "09_品质检测!I231",
+          "09_品质检测!I233",
+          "09_品质检测!I234",
+          "09_品质检测!I236",
+          "09_品质检测!I237"
+        ],
+        "unit_ids": [
+          "B1-SA-Ca-D2",
+          "B2-SA-Ca-D2",
+          "B3-SA-Ca-D2"
+        ],
+        "sd_meaning": "有效容器间样本SD，ddof=1；n=1时不可估计，记null"
+      },
+      {
+        "metric": "firmness",
+        "metric_label": "表观硬度",
+        "unit": "N",
+        "group": "SA-Ca",
+        "day": 4,
+        "batch": "ALL",
+        "calendar_dates": [
+          "2026-10-09",
+          "2026-10-17",
+          "2026-10-25"
+        ],
+        "n_containers": 3,
+        "planned_containers": 3,
+        "n_fruits": 8,
+        "planned_fruits": 9,
+        "uncovered_fruits": 1,
+        "n_readings": 16,
+        "n_technical_readings": 16,
+        "missing_readings": 2,
+        "missing_containers": 0,
+        "mean": 5.429166666666666,
+        "sd": 0.688437744300658,
+        "min": 4.663333333333333,
+        "max": 5.996666666666667,
+        "source_locations": [
+          "09_品质检测!I77",
+          "09_品质检测!I78",
+          "09_品质检测!I80",
+          "09_品质检测!I81",
+          "09_品质检测!I83",
+          "09_品质检测!I84",
+          "09_品质检测!I158",
+          "09_品质检测!I159",
+          "09_品质检测!I161",
+          "09_品质检测!I162",
+          "09_品质检测!I164",
+          "09_品质检测!I165",
+          "09_品质检测!I239",
+          "09_品质检测!I240",
+          "09_品质检测!I242",
+          "09_品质检测!I243",
+          "09_品质检测!I245",
+          "09_品质检测!I246"
+        ],
+        "unit_ids": [
+          "B1-SA-Ca-D4",
+          "B2-SA-Ca-D4",
+          "B3-SA-Ca-D4"
+        ],
+        "sd_meaning": "有效容器间样本SD，ddof=1；n=1时不可估计，记null"
+      }
+    ],
+    "series": [
+      {
+        "group": "CK",
+        "day": [
+          0,
+          2,
+          4
+        ],
+        "mean": [
+          9.676666666666666,
+          7.294444444444444,
+          5.056111111111111
+        ],
+        "sd": [
+          0.5732461173973274,
+          0.6203321989362127,
+          0.5814023595615209
+        ],
+        "n_containers": [
+          3,
+          3,
+          3
+        ],
+        "n_fruits": [
+          9,
+          9,
+          8
+        ],
+        "calendar_dates": [
+          [
+            "2026-10-05",
+            "2026-10-13",
+            "2026-10-21"
+          ],
+          [
+            "2026-10-07",
+            "2026-10-15",
+            "2026-10-23"
+          ],
+          [
+            "2026-10-09",
+            "2026-10-17",
+            "2026-10-25"
+          ]
+        ]
+      },
+      {
+        "group": "Ca",
+        "day": [
+          0,
+          2,
+          4
+        ],
+        "mean": [
+          9.387777777777778,
+          7.283888888888889,
+          5.161666666666666
+        ],
+        "sd": [
+          0.5643391743479305,
+          0.2827755948398605,
+          0.2849902532446408
+        ],
+        "n_containers": [
+          3,
+          3,
+          3
+        ],
+        "n_fruits": [
+          9,
+          9,
+          9
+        ],
+        "calendar_dates": [
+          [
+            "2026-10-05",
+            "2026-10-13",
+            "2026-10-21"
+          ],
+          [
+            "2026-10-07",
+            "2026-10-15",
+            "2026-10-23"
+          ],
+          [
+            "2026-10-09",
+            "2026-10-17",
+            "2026-10-25"
+          ]
+        ]
+      },
+      {
+        "group": "SA-Ca",
+        "day": [
+          0,
+          2,
+          4
+        ],
+        "mean": [
+          9.462777777777777,
+          7.218333333333334,
+          5.429166666666666
+        ],
+        "sd": [
+          0.18356298747397468,
+          0.23238497752173598,
+          0.688437744300658
+        ],
+        "n_containers": [
+          3,
+          3,
+          3
+        ],
+        "n_fruits": [
+          9,
+          9,
+          8
+        ],
+        "calendar_dates": [
+          [
+            "2026-10-05",
+            "2026-10-13",
+            "2026-10-21"
+          ],
+          [
+            "2026-10-07",
+            "2026-10-15",
+            "2026-10-23"
+          ],
+          [
+            "2026-10-09",
+            "2026-10-17",
+            "2026-10-25"
+          ]
+        ]
+      }
+    ],
+    "container_source_file": "P09B_F03_表观硬度_containers.csv",
+    "errorbar": "container sample SD, ddof=1",
+    "id": "P09B_F03_表观硬度",
+    "files": [
+      "P09B_F03_表观硬度.png",
+      "P09B_F03_表观硬度.svg",
+      "P09B_F03_表观硬度_source.csv"
+    ]
+  },
+  {
+    "metric": "TSS",
+    "source_rows": [
+      {
+        "metric": "TSS",
+        "metric_label": "可溶性固形物TSS",
+        "unit": "°Brix",
+        "group": "CK",
+        "day": 0,
+        "batch": "ALL",
+        "calendar_dates": [
+          "2026-10-05",
+          "2026-10-13",
+          "2026-10-21"
+        ],
+        "n_containers": 3,
+        "planned_containers": 3,
+        "n_fruits": 9,
+        "planned_fruits": 9,
+        "uncovered_fruits": 0,
+        "n_readings": 9,
+        "n_technical_readings": null,
+        "missing_readings": 0,
+        "missing_containers": 0,
+        "mean": 7.533333333333333,
+        "sd": 0.17320508075688762,
+        "min": 7.433333333333334,
+        "max": 7.733333333333333,
+        "source_locations": [
+          "09_品质检测!I7",
+          "09_品质检测!I10",
+          "09_品质检测!I13",
+          "09_品质检测!I88",
+          "09_品质检测!I91",
+          "09_品质检测!I94",
+          "09_品质检测!I169",
+          "09_品质检测!I172",
+          "09_品质检测!I175"
+        ],
+        "unit_ids": [
+          "B1-CK-D0",
+          "B2-CK-D0",
+          "B3-CK-D0"
+        ],
+        "sd_meaning": "有效容器间样本SD，ddof=1；n=1时不可估计，记null"
+      },
+      {
+        "metric": "TSS",
+        "metric_label": "可溶性固形物TSS",
+        "unit": "°Brix",
+        "group": "CK",
+        "day": 2,
+        "batch": "ALL",
+        "calendar_dates": [
+          "2026-10-07",
+          "2026-10-15",
+          "2026-10-23"
+        ],
+        "n_containers": 3,
+        "planned_containers": 3,
+        "n_fruits": 9,
+        "planned_fruits": 9,
+        "uncovered_fruits": 0,
+        "n_readings": 9,
+        "n_technical_readings": null,
+        "missing_readings": 0,
+        "missing_containers": 0,
+        "mean": 8.555555555555555,
+        "sd": 0.15752718754175304,
+        "min": 8.433333333333334,
+        "max": 8.733333333333333,
+        "source_locations": [
+          "09_品质检测!I16",
+          "09_品质检测!I19",
+          "09_品质检测!I22",
+          "09_品质检测!I97",
+          "09_品质检测!I100",
+          "09_品质检测!I103",
+          "09_品质检测!I178",
+          "09_品质检测!I181",
+          "09_品质检测!I184"
+        ],
+        "unit_ids": [
+          "B1-CK-D2",
+          "B2-CK-D2",
+          "B3-CK-D2"
+        ],
+        "sd_meaning": "有效容器间样本SD，ddof=1；n=1时不可估计，记null"
+      },
+      {
+        "metric": "TSS",
+        "metric_label": "可溶性固形物TSS",
+        "unit": "°Brix",
+        "group": "CK",
+        "day": 4,
+        "batch": "ALL",
+        "calendar_dates": [
+          "2026-10-09",
+          "2026-10-17",
+          "2026-10-25"
+        ],
+        "n_containers": 3,
+        "planned_containers": 3,
+        "n_fruits": 8,
+        "planned_fruits": 9,
+        "uncovered_fruits": 1,
+        "n_readings": 8,
+        "n_technical_readings": null,
+        "missing_readings": 1,
+        "missing_containers": 0,
+        "mean": 8.56111111111111,
+        "sd": 0.16859989894992713,
+        "min": 8.366666666666667,
+        "max": 8.666666666666666,
+        "source_locations": [
+          "09_品质检测!I25",
+          "09_品质检测!I28",
+          "09_品质检测!I31",
+          "09_品质检测!I106",
+          "09_品质检测!I109",
+          "09_品质检测!I112",
+          "09_品质检测!I187",
+          "09_品质检测!I190",
+          "09_品质检测!I193"
+        ],
+        "unit_ids": [
+          "B1-CK-D4",
+          "B2-CK-D4",
+          "B3-CK-D4"
+        ],
+        "sd_meaning": "有效容器间样本SD，ddof=1；n=1时不可估计，记null"
+      },
+      {
+        "metric": "TSS",
+        "metric_label": "可溶性固形物TSS",
+        "unit": "°Brix",
+        "group": "Ca",
+        "day": 0,
+        "batch": "ALL",
+        "calendar_dates": [
+          "2026-10-05",
+          "2026-10-13",
+          "2026-10-21"
+        ],
+        "n_containers": 3,
+        "planned_containers": 3,
+        "n_fruits": 9,
+        "planned_fruits": 9,
+        "uncovered_fruits": 0,
+        "n_readings": 9,
+        "n_technical_readings": null,
+        "missing_readings": 0,
+        "missing_containers": 0,
+        "mean": 7.855555555555555,
+        "sd": 0.13877773329774268,
+        "min": 7.699999999999999,
+        "max": 7.966666666666667,
+        "source_locations": [
+          "09_品质检测!I34",
+          "09_品质检测!I37",
+          "09_品质检测!I40",
+          "09_品质检测!I115",
+          "09_品质检测!I118",
+          "09_品质检测!I121",
+          "09_品质检测!I196",
+          "09_品质检测!I199",
+          "09_品质检测!I202"
+        ],
+        "unit_ids": [
+          "B1-Ca-D0",
+          "B2-Ca-D0",
+          "B3-Ca-D0"
+        ],
+        "sd_meaning": "有效容器间样本SD，ddof=1；n=1时不可估计，记null"
+      },
+      {
+        "metric": "TSS",
+        "metric_label": "可溶性固形物TSS",
+        "unit": "°Brix",
+        "group": "Ca",
+        "day": 2,
+        "batch": "ALL",
+        "calendar_dates": [
+          "2026-10-07",
+          "2026-10-15",
+          "2026-10-23"
+        ],
+        "n_containers": 3,
+        "planned_containers": 3,
+        "n_fruits": 9,
+        "planned_fruits": 9,
+        "uncovered_fruits": 0,
+        "n_readings": 9,
+        "n_technical_readings": null,
+        "missing_readings": 0,
+        "missing_containers": 0,
+        "mean": 8.455555555555556,
+        "sd": 0.11706281947614113,
+        "min": 8.333333333333334,
+        "max": 8.566666666666666,
+        "source_locations": [
+          "09_品质检测!I43",
+          "09_品质检测!I46",
+          "09_品质检测!I49",
+          "09_品质检测!I124",
+          "09_品质检测!I127",
+          "09_品质检测!I130",
+          "09_品质检测!I205",
+          "09_品质检测!I208",
+          "09_品质检测!I211"
+        ],
+        "unit_ids": [
+          "B1-Ca-D2",
+          "B2-Ca-D2",
+          "B3-Ca-D2"
+        ],
+        "sd_meaning": "有效容器间样本SD，ddof=1；n=1时不可估计，记null"
+      },
+      {
+        "metric": "TSS",
+        "metric_label": "可溶性固形物TSS",
+        "unit": "°Brix",
+        "group": "Ca",
+        "day": 4,
+        "batch": "ALL",
+        "calendar_dates": [
+          "2026-10-09",
+          "2026-10-17",
+          "2026-10-25"
+        ],
+        "n_containers": 3,
+        "planned_containers": 3,
+        "n_fruits": 9,
+        "planned_fruits": 9,
+        "uncovered_fruits": 0,
+        "n_readings": 9,
+        "n_technical_readings": null,
+        "missing_readings": 0,
+        "missing_containers": 0,
+        "mean": 8.455555555555556,
+        "sd": 0.1347150628109122,
+        "min": 8.333333333333334,
+        "max": 8.6,
+        "source_locations": [
+          "09_品质检测!I52",
+          "09_品质检测!I55",
+          "09_品质检测!I58",
+          "09_品质检测!I133",
+          "09_品质检测!I136",
+          "09_品质检测!I139",
+          "09_品质检测!I214",
+          "09_品质检测!I217",
+          "09_品质检测!I220"
+        ],
+        "unit_ids": [
+          "B1-Ca-D4",
+          "B2-Ca-D4",
+          "B3-Ca-D4"
+        ],
+        "sd_meaning": "有效容器间样本SD，ddof=1；n=1时不可估计，记null"
+      },
+      {
+        "metric": "TSS",
+        "metric_label": "可溶性固形物TSS",
+        "unit": "°Brix",
+        "group": "SA-Ca",
+        "day": 0,
+        "batch": "ALL",
+        "calendar_dates": [
+          "2026-10-05",
+          "2026-10-13",
+          "2026-10-21"
+        ],
+        "n_containers": 3,
+        "planned_containers": 3,
+        "n_fruits": 9,
+        "planned_fruits": 9,
+        "uncovered_fruits": 0,
+        "n_readings": 9,
+        "n_technical_readings": null,
+        "missing_readings": 0,
+        "missing_containers": 0,
+        "mean": 7.9222222222222225,
+        "sd": 0.2501851166488374,
+        "min": 7.666666666666667,
+        "max": 8.166666666666666,
+        "source_locations": [
+          "09_品质检测!I61",
+          "09_品质检测!I64",
+          "09_品质检测!I67",
+          "09_品质检测!I142",
+          "09_品质检测!I145",
+          "09_品质检测!I148",
+          "09_品质检测!I223",
+          "09_品质检测!I226",
+          "09_品质检测!I229"
+        ],
+        "unit_ids": [
+          "B1-SA-Ca-D0",
+          "B2-SA-Ca-D0",
+          "B3-SA-Ca-D0"
+        ],
+        "sd_meaning": "有效容器间样本SD，ddof=1；n=1时不可估计，记null"
+      },
+      {
+        "metric": "TSS",
+        "metric_label": "可溶性固形物TSS",
+        "unit": "°Brix",
+        "group": "SA-Ca",
+        "day": 2,
+        "batch": "ALL",
+        "calendar_dates": [
+          "2026-10-07",
+          "2026-10-15",
+          "2026-10-23"
+        ],
+        "n_containers": 3,
+        "planned_containers": 3,
+        "n_fruits": 9,
+        "planned_fruits": 9,
+        "uncovered_fruits": 0,
+        "n_readings": 9,
+        "n_technical_readings": null,
+        "missing_readings": 0,
+        "missing_containers": 0,
+        "mean": 8.211111111111112,
+        "sd": 0.47414640651893025,
+        "min": 7.666666666666667,
+        "max": 8.533333333333333,
+        "source_locations": [
+          "09_品质检测!I70",
+          "09_品质检测!I73",
+          "09_品质检测!I76",
+          "09_品质检测!I151",
+          "09_品质检测!I154",
+          "09_品质检测!I157",
+          "09_品质检测!I232",
+          "09_品质检测!I235",
+          "09_品质检测!I238"
+        ],
+        "unit_ids": [
+          "B1-SA-Ca-D2",
+          "B2-SA-Ca-D2",
+          "B3-SA-Ca-D2"
+        ],
+        "sd_meaning": "有效容器间样本SD，ddof=1；n=1时不可估计，记null"
+      },
+      {
+        "metric": "TSS",
+        "metric_label": "可溶性固形物TSS",
+        "unit": "°Brix",
+        "group": "SA-Ca",
+        "day": 4,
+        "batch": "ALL",
+        "calendar_dates": [
+          "2026-10-09",
+          "2026-10-17",
+          "2026-10-25"
+        ],
+        "n_containers": 3,
+        "planned_containers": 3,
+        "n_fruits": 8,
+        "planned_fruits": 9,
+        "uncovered_fruits": 1,
+        "n_readings": 8,
+        "n_technical_readings": null,
+        "missing_readings": 1,
+        "missing_containers": 0,
+        "mean": 8.255555555555555,
+        "sd": 0.18954135676924455,
+        "min": 8.1,
+        "max": 8.466666666666667,
+        "source_locations": [
+          "09_品质检测!I79",
+          "09_品质检测!I82",
+          "09_品质检测!I85",
+          "09_品质检测!I160",
+          "09_品质检测!I163",
+          "09_品质检测!I166",
+          "09_品质检测!I241",
+          "09_品质检测!I244",
+          "09_品质检测!I247"
+        ],
+        "unit_ids": [
+          "B1-SA-Ca-D4",
+          "B2-SA-Ca-D4",
+          "B3-SA-Ca-D4"
+        ],
+        "sd_meaning": "有效容器间样本SD，ddof=1；n=1时不可估计，记null"
+      }
+    ],
+    "series": [
+      {
+        "group": "CK",
+        "day": [
+          0,
+          2,
+          4
+        ],
+        "mean": [
+          7.533333333333333,
+          8.555555555555555,
+          8.56111111111111
+        ],
+        "sd": [
+          0.17320508075688762,
+          0.15752718754175304,
+          0.16859989894992713
+        ],
+        "n_containers": [
+          3,
+          3,
+          3
+        ],
+        "n_fruits": [
+          9,
+          9,
+          8
+        ],
+        "calendar_dates": [
+          [
+            "2026-10-05",
+            "2026-10-13",
+            "2026-10-21"
+          ],
+          [
+            "2026-10-07",
+            "2026-10-15",
+            "2026-10-23"
+          ],
+          [
+            "2026-10-09",
+            "2026-10-17",
+            "2026-10-25"
+          ]
+        ]
+      },
+      {
+        "group": "Ca",
+        "day": [
+          0,
+          2,
+          4
+        ],
+        "mean": [
+          7.855555555555555,
+          8.455555555555556,
+          8.455555555555556
+        ],
+        "sd": [
+          0.13877773329774268,
+          0.11706281947614113,
+          0.1347150628109122
+        ],
+        "n_containers": [
+          3,
+          3,
+          3
+        ],
+        "n_fruits": [
+          9,
+          9,
+          9
+        ],
+        "calendar_dates": [
+          [
+            "2026-10-05",
+            "2026-10-13",
+            "2026-10-21"
+          ],
+          [
+            "2026-10-07",
+            "2026-10-15",
+            "2026-10-23"
+          ],
+          [
+            "2026-10-09",
+            "2026-10-17",
+            "2026-10-25"
+          ]
+        ]
+      },
+      {
+        "group": "SA-Ca",
+        "day": [
+          0,
+          2,
+          4
+        ],
+        "mean": [
+          7.9222222222222225,
+          8.211111111111112,
+          8.255555555555555
+        ],
+        "sd": [
+          0.2501851166488374,
+          0.47414640651893025,
+          0.18954135676924455
+        ],
+        "n_containers": [
+          3,
+          3,
+          3
+        ],
+        "n_fruits": [
+          9,
+          9,
+          8
+        ],
+        "calendar_dates": [
+          [
+            "2026-10-05",
+            "2026-10-13",
+            "2026-10-21"
+          ],
+          [
+            "2026-10-07",
+            "2026-10-15",
+            "2026-10-23"
+          ],
+          [
+            "2026-10-09",
+            "2026-10-17",
+            "2026-10-25"
+          ]
+        ]
+      }
+    ],
+    "container_source_file": "P09B_F04_TSS_containers.csv",
+    "errorbar": "container sample SD, ddof=1",
+    "id": "P09B_F04_TSS",
+    "files": [
+      "P09B_F04_TSS.png",
+      "P09B_F04_TSS.svg",
+      "P09B_F04_TSS_source.csv"
+    ]
+  },
+  {
+    "metric": "batch_day4",
+    "source_rows": [
+      {
+        "metric": "mass_loss",
+        "metric_label": "失重率",
+        "unit": "%",
+        "group": "CK",
+        "day": 4,
+        "batch": "B1",
+        "calendar_dates": [
+          "2026-10-09"
+        ],
+        "n_containers": 3,
+        "planned_containers": 3,
+        "n_fruits": 12,
+        "planned_fruits": 12,
+        "uncovered_fruits": 0,
+        "n_readings": 3,
+        "n_technical_readings": null,
+        "missing_readings": 0,
+        "missing_containers": 0,
+        "mean": 6.6979341771253385,
+        "sd": 1.1108235144606764,
+        "min": 5.631319068892553,
+        "max": 7.848232848232844,
+        "source_locations": [
+          "07_连续称重!H9:I9",
+          "07_连续称重!H14:I14",
+          "07_连续称重!H19:I19"
+        ],
+        "unit_ids": [
+          "B1-CK-L1",
+          "B1-CK-L2",
+          "B1-CK-L3"
+        ],
+        "sd_meaning": "有效容器间样本SD，ddof=1；n=1时不可估计，记null"
+      },
+      {
+        "metric": "mass_loss",
+        "metric_label": "失重率",
+        "unit": "%",
+        "group": "CK",
+        "day": 4,
+        "batch": "B2",
+        "calendar_dates": [
+          "2026-10-17"
+        ],
+        "n_containers": 3,
+        "planned_containers": 3,
+        "n_fruits": 12,
+        "planned_fruits": 12,
+        "uncovered_fruits": 0,
+        "n_readings": 3,
+        "n_technical_readings": null,
+        "missing_readings": 0,
+        "missing_containers": 0,
+        "mean": 7.902928048007393,
+        "sd": 0.5845853988806774,
+        "min": 7.255864702673219,
+        "max": 8.392958546280523,
+        "source_locations": [
+          "07_连续称重!H54:I54",
+          "07_连续称重!H59:I59",
+          "07_连续称重!H64:I64"
+        ],
+        "unit_ids": [
+          "B2-CK-L1",
+          "B2-CK-L2",
+          "B2-CK-L3"
+        ],
+        "sd_meaning": "有效容器间样本SD，ddof=1；n=1时不可估计，记null"
+      },
+      {
+        "metric": "mass_loss",
+        "metric_label": "失重率",
+        "unit": "%",
+        "group": "CK",
+        "day": 4,
+        "batch": "B3",
+        "calendar_dates": [
+          "2026-10-25"
+        ],
+        "n_containers": 3,
+        "planned_containers": 3,
+        "n_fruits": 12,
+        "planned_fruits": 12,
+        "uncovered_fruits": 0,
+        "n_readings": 3,
+        "n_technical_readings": null,
+        "missing_readings": 0,
+        "missing_containers": 0,
+        "mean": 7.3451890183103545,
+        "sd": 3.238755034936471,
+        "min": 5.4547454085560405,
+        "max": 11.084905660377348,
+        "source_locations": [
+          "07_连续称重!H99:I99",
+          "07_连续称重!H104:I104",
+          "07_连续称重!H109:I109"
+        ],
+        "unit_ids": [
+          "B3-CK-L1",
+          "B3-CK-L2",
+          "B3-CK-L3"
+        ],
+        "sd_meaning": "有效容器间样本SD，ddof=1；n=1时不可估计，记null"
+      },
+      {
+        "metric": "mass_loss",
+        "metric_label": "失重率",
+        "unit": "%",
+        "group": "Ca",
+        "day": 4,
+        "batch": "B1",
+        "calendar_dates": [
+          "2026-10-09"
+        ],
+        "n_containers": 3,
+        "planned_containers": 3,
+        "n_fruits": 12,
+        "planned_fruits": 12,
+        "uncovered_fruits": 0,
+        "n_readings": 3,
+        "n_technical_readings": null,
+        "missing_readings": 0,
+        "missing_containers": 0,
+        "mean": 7.278133746737665,
+        "sd": 1.8095833124005838,
+        "min": 5.286205817954325,
+        "max": 8.820686321894648,
+        "source_locations": [
+          "07_连续称重!H24:I24",
+          "07_连续称重!H29:I29",
+          "07_连续称重!H34:I34"
+        ],
+        "unit_ids": [
+          "B1-Ca-L1",
+          "B1-Ca-L2",
+          "B1-Ca-L3"
+        ],
+        "sd_meaning": "有效容器间样本SD，ddof=1；n=1时不可估计，记null"
+      },
+      {
+        "metric": "mass_loss",
+        "metric_label": "失重率",
+        "unit": "%",
+        "group": "Ca",
+        "day": 4,
+        "batch": "B2",
+        "calendar_dates": [
+          "2026-10-17"
+        ],
+        "n_containers": 3,
+        "planned_containers": 3,
+        "n_fruits": 12,
+        "planned_fruits": 12,
+        "uncovered_fruits": 0,
+        "n_readings": 3,
+        "n_technical_readings": null,
+        "missing_readings": 0,
+        "missing_containers": 0,
+        "mean": 7.488457149682092,
+        "sd": 0.31532475324576675,
+        "min": 7.124525202751256,
+        "max": 7.68016239990978,
+        "source_locations": [
+          "07_连续称重!H69:I69",
+          "07_连续称重!H74:I74",
+          "07_连续称重!H79:I79"
+        ],
+        "unit_ids": [
+          "B2-Ca-L1",
+          "B2-Ca-L2",
+          "B2-Ca-L3"
+        ],
+        "sd_meaning": "有效容器间样本SD，ddof=1；n=1时不可估计，记null"
+      },
+      {
+        "metric": "mass_loss",
+        "metric_label": "失重率",
+        "unit": "%",
+        "group": "Ca",
+        "day": 4,
+        "batch": "B3",
+        "calendar_dates": [
+          "2026-10-25"
+        ],
+        "n_containers": 3,
+        "planned_containers": 3,
+        "n_fruits": 12,
+        "planned_fruits": 12,
+        "uncovered_fruits": 0,
+        "n_readings": 3,
+        "n_technical_readings": null,
+        "missing_readings": 0,
+        "missing_containers": 0,
+        "mean": 8.798509467355776,
+        "sd": 1.4945628613510917,
+        "min": 7.650497384883609,
+        "max": 10.488431876606686,
+        "source_locations": [
+          "07_连续称重!H114:I114",
+          "07_连续称重!H119:I119",
+          "07_连续称重!H124:I124"
+        ],
+        "unit_ids": [
+          "B3-Ca-L1",
+          "B3-Ca-L2",
+          "B3-Ca-L3"
+        ],
+        "sd_meaning": "有效容器间样本SD，ddof=1；n=1时不可估计，记null"
+      },
+      {
+        "metric": "mass_loss",
+        "metric_label": "失重率",
+        "unit": "%",
+        "group": "SA-Ca",
+        "day": 4,
+        "batch": "B1",
+        "calendar_dates": [
+          "2026-10-09"
+        ],
+        "n_containers": 3,
+        "planned_containers": 3,
+        "n_fruits": 12,
+        "planned_fruits": 12,
+        "uncovered_fruits": 0,
+        "n_readings": 3,
+        "n_technical_readings": null,
+        "missing_readings": 0,
+        "missing_containers": 0,
+        "mean": 6.645404083175165,
+        "sd": 1.3527441125909023,
+        "min": 5.157531290461805,
+        "max": 7.801156638365928,
+        "source_locations": [
+          "07_连续称重!H39:I39",
+          "07_连续称重!H44:I44",
+          "07_连续称重!H49:I49"
+        ],
+        "unit_ids": [
+          "B1-SA-Ca-L1",
+          "B1-SA-Ca-L2",
+          "B1-SA-Ca-L3"
+        ],
+        "sd_meaning": "有效容器间样本SD，ddof=1；n=1时不可估计，记null"
+      },
+      {
+        "metric": "mass_loss",
+        "metric_label": "失重率",
+        "unit": "%",
+        "group": "SA-Ca",
+        "day": 4,
+        "batch": "B2",
+        "calendar_dates": [
+          "2026-10-17"
+        ],
+        "n_containers": 3,
+        "planned_containers": 3,
+        "n_fruits": 12,
+        "planned_fruits": 12,
+        "uncovered_fruits": 0,
+        "n_readings": 3,
+        "n_technical_readings": null,
+        "missing_readings": 0,
+        "missing_containers": 0,
+        "mean": 8.347804597019634,
+        "sd": 1.1025232314824622,
+        "min": 7.609800158067061,
+        "max": 9.615177320254395,
+        "source_locations": [
+          "07_连续称重!H84:I84",
+          "07_连续称重!H89:I89",
+          "07_连续称重!H94:I94"
+        ],
+        "unit_ids": [
+          "B2-SA-Ca-L1",
+          "B2-SA-Ca-L2",
+          "B2-SA-Ca-L3"
+        ],
+        "sd_meaning": "有效容器间样本SD，ddof=1；n=1时不可估计，记null"
+      },
+      {
+        "metric": "mass_loss",
+        "metric_label": "失重率",
+        "unit": "%",
+        "group": "SA-Ca",
+        "day": 4,
+        "batch": "B3",
+        "calendar_dates": [
+          "2026-10-25"
+        ],
+        "n_containers": 3,
+        "planned_containers": 3,
+        "n_fruits": 12,
+        "planned_fruits": 12,
+        "uncovered_fruits": 0,
+        "n_readings": 3,
+        "n_technical_readings": null,
+        "missing_readings": 0,
+        "missing_containers": 0,
+        "mean": 8.18109021212643,
+        "sd": 0.3658293755409194,
+        "min": 7.905982905982907,
+        "max": 8.596255301541328,
+        "source_locations": [
+          "07_连续称重!H129:I129",
+          "07_连续称重!H134:I134",
+          "07_连续称重!H139:I139"
+        ],
+        "unit_ids": [
+          "B3-SA-Ca-L1",
+          "B3-SA-Ca-L2",
+          "B3-SA-Ca-L3"
+        ],
+        "sd_meaning": "有效容器间样本SD，ddof=1；n=1时不可估计，记null"
+      },
+      {
+        "metric": "decay_pct",
+        "metric_label": "累计腐烂比例",
+        "unit": "%",
+        "group": "CK",
+        "day": 4,
+        "batch": "B1",
+        "calendar_dates": [
+          "2026-10-09"
+        ],
+        "n_containers": 3,
+        "planned_containers": 3,
+        "n_fruits": 12,
+        "planned_fruits": 12,
+        "uncovered_fruits": 0,
+        "n_readings": 12,
+        "n_technical_readings": null,
+        "missing_readings": 0,
+        "missing_containers": 0,
+        "mean": 33.333333333333336,
+        "sd": 14.433756729740644,
+        "min": 25.0,
+        "max": 50.0,
+        "source_locations": [
+          "08_腐烂观察!I224:J224",
+          "08_腐烂观察!I225:J225",
+          "08_腐烂观察!I226:J226",
+          "08_腐烂观察!I227:J227",
+          "08_腐烂观察!I228:J228",
+          "08_腐烂观察!I229:J229",
+          "08_腐烂观察!I230:J230",
+          "08_腐烂观察!I231:J231",
+          "08_腐烂观察!I232:J232",
+          "08_腐烂观察!I233:J233",
+          "08_腐烂观察!I234:J234",
+          "08_腐烂观察!I235:J235"
+        ],
+        "unit_ids": [
+          "B1-CK-L1",
+          "B1-CK-L2",
+          "B1-CK-L3"
+        ],
+        "sd_meaning": "有效容器间样本SD，ddof=1；n=1时不可估计，记null"
+      },
+      {
+        "metric": "decay_pct",
+        "metric_label": "累计腐烂比例",
+        "unit": "%",
+        "group": "CK",
+        "day": 4,
+        "batch": "B2",
+        "calendar_dates": [
+          "2026-10-17"
+        ],
+        "n_containers": 3,
+        "planned_containers": 3,
+        "n_fruits": 12,
+        "planned_fruits": 12,
+        "uncovered_fruits": 0,
+        "n_readings": 12,
+        "n_technical_readings": null,
+        "missing_readings": 0,
+        "missing_containers": 0,
+        "mean": 50.0,
+        "sd": 50.0,
+        "min": 0.0,
+        "max": 100.0,
+        "source_locations": [
+          "08_腐烂观察!I485:J485",
+          "08_腐烂观察!I486:J486",
+          "08_腐烂观察!I487:J487",
+          "08_腐烂观察!I488:J488",
+          "08_腐烂观察!I489:J489",
+          "08_腐烂观察!I490:J490",
+          "08_腐烂观察!I491:J491",
+          "08_腐烂观察!I492:J492",
+          "08_腐烂观察!I493:J493",
+          "08_腐烂观察!I494:J494",
+          "08_腐烂观察!I495:J495",
+          "08_腐烂观察!I496:J496"
+        ],
+        "unit_ids": [
+          "B2-CK-L1",
+          "B2-CK-L2",
+          "B2-CK-L3"
+        ],
+        "sd_meaning": "有效容器间样本SD，ddof=1；n=1时不可估计，记null"
+      },
+      {
+        "metric": "decay_pct",
+        "metric_label": "累计腐烂比例",
+        "unit": "%",
+        "group": "CK",
+        "day": 4,
+        "batch": "B3",
+        "calendar_dates": [
+          "2026-10-25"
+        ],
+        "n_containers": 3,
+        "planned_containers": 3,
+        "n_fruits": 12,
+        "planned_fruits": 12,
+        "uncovered_fruits": 0,
+        "n_readings": 12,
+        "n_technical_readings": null,
+        "missing_readings": 0,
+        "missing_containers": 0,
+        "mean": 41.666666666666664,
+        "sd": 28.867513459481287,
+        "min": 25.0,
+        "max": 75.0,
+        "source_locations": [
+          "08_腐烂观察!I746:J746",
+          "08_腐烂观察!I747:J747",
+          "08_腐烂观察!I748:J748",
+          "08_腐烂观察!I749:J749",
+          "08_腐烂观察!I750:J750",
+          "08_腐烂观察!I751:J751",
+          "08_腐烂观察!I752:J752",
+          "08_腐烂观察!I753:J753",
+          "08_腐烂观察!I754:J754",
+          "08_腐烂观察!I755:J755",
+          "08_腐烂观察!I756:J756",
+          "08_腐烂观察!I757:J757"
+        ],
+        "unit_ids": [
+          "B3-CK-L1",
+          "B3-CK-L2",
+          "B3-CK-L3"
+        ],
+        "sd_meaning": "有效容器间样本SD，ddof=1；n=1时不可估计，记null"
+      },
+      {
+        "metric": "decay_pct",
+        "metric_label": "累计腐烂比例",
+        "unit": "%",
+        "group": "Ca",
+        "day": 4,
+        "batch": "B1",
+        "calendar_dates": [
+          "2026-10-09"
+        ],
+        "n_containers": 3,
+        "planned_containers": 3,
+        "n_fruits": 12,
+        "planned_fruits": 12,
+        "uncovered_fruits": 0,
+        "n_readings": 12,
+        "n_technical_readings": null,
+        "missing_readings": 0,
+        "missing_containers": 0,
+        "mean": 41.666666666666664,
+        "sd": 14.433756729740644,
+        "min": 25.0,
+        "max": 50.0,
+        "source_locations": [
+          "08_腐烂观察!I239:J239",
+          "08_腐烂观察!I240:J240",
+          "08_腐烂观察!I241:J241",
+          "08_腐烂观察!I242:J242",
+          "08_腐烂观察!I243:J243",
+          "08_腐烂观察!I244:J244",
+          "08_腐烂观察!I245:J245",
+          "08_腐烂观察!I246:J246",
+          "08_腐烂观察!I247:J247",
+          "08_腐烂观察!I248:J248",
+          "08_腐烂观察!I249:J249",
+          "08_腐烂观察!I250:J250"
+        ],
+        "unit_ids": [
+          "B1-Ca-L1",
+          "B1-Ca-L2",
+          "B1-Ca-L3"
+        ],
+        "sd_meaning": "有效容器间样本SD，ddof=1；n=1时不可估计，记null"
+      },
+      {
+        "metric": "decay_pct",
+        "metric_label": "累计腐烂比例",
+        "unit": "%",
+        "group": "Ca",
+        "day": 4,
+        "batch": "B2",
+        "calendar_dates": [
+          "2026-10-17"
+        ],
+        "n_containers": 3,
+        "planned_containers": 3,
+        "n_fruits": 12,
+        "planned_fruits": 12,
+        "uncovered_fruits": 0,
+        "n_readings": 12,
+        "n_technical_readings": null,
+        "missing_readings": 0,
+        "missing_containers": 0,
+        "mean": 16.666666666666668,
+        "sd": 14.433756729740644,
+        "min": 0.0,
+        "max": 25.0,
+        "source_locations": [
+          "08_腐烂观察!I500:J500",
+          "08_腐烂观察!I501:J501",
+          "08_腐烂观察!I502:J502",
+          "08_腐烂观察!I503:J503",
+          "08_腐烂观察!I504:J504",
+          "08_腐烂观察!I505:J505",
+          "08_腐烂观察!I506:J506",
+          "08_腐烂观察!I507:J507",
+          "08_腐烂观察!I508:J508",
+          "08_腐烂观察!I509:J509",
+          "08_腐烂观察!I510:J510",
+          "08_腐烂观察!I511:J511"
+        ],
+        "unit_ids": [
+          "B2-Ca-L1",
+          "B2-Ca-L2",
+          "B2-Ca-L3"
+        ],
+        "sd_meaning": "有效容器间样本SD，ddof=1；n=1时不可估计，记null"
+      },
+      {
+        "metric": "decay_pct",
+        "metric_label": "累计腐烂比例",
+        "unit": "%",
+        "group": "Ca",
+        "day": 4,
+        "batch": "B3",
+        "calendar_dates": [
+          "2026-10-25"
+        ],
+        "n_containers": 3,
+        "planned_containers": 3,
+        "n_fruits": 12,
+        "planned_fruits": 12,
+        "uncovered_fruits": 0,
+        "n_readings": 12,
+        "n_technical_readings": null,
+        "missing_readings": 0,
+        "missing_containers": 0,
+        "mean": 41.666666666666664,
+        "sd": 14.433756729740644,
+        "min": 25.0,
+        "max": 50.0,
+        "source_locations": [
+          "08_腐烂观察!I761:J761",
+          "08_腐烂观察!I762:J762",
+          "08_腐烂观察!I763:J763",
+          "08_腐烂观察!I764:J764",
+          "08_腐烂观察!I765:J765",
+          "08_腐烂观察!I766:J766",
+          "08_腐烂观察!I767:J767",
+          "08_腐烂观察!I768:J768",
+          "08_腐烂观察!I769:J769",
+          "08_腐烂观察!I770:J770",
+          "08_腐烂观察!I771:J771",
+          "08_腐烂观察!I772:J772"
+        ],
+        "unit_ids": [
+          "B3-Ca-L1",
+          "B3-Ca-L2",
+          "B3-Ca-L3"
+        ],
+        "sd_meaning": "有效容器间样本SD，ddof=1；n=1时不可估计，记null"
+      },
+      {
+        "metric": "decay_pct",
+        "metric_label": "累计腐烂比例",
+        "unit": "%",
+        "group": "SA-Ca",
+        "day": 4,
+        "batch": "B1",
+        "calendar_dates": [
+          "2026-10-09"
+        ],
+        "n_containers": 3,
+        "planned_containers": 3,
+        "n_fruits": 12,
+        "planned_fruits": 12,
+        "uncovered_fruits": 0,
+        "n_readings": 12,
+        "n_technical_readings": null,
+        "missing_readings": 0,
+        "missing_containers": 0,
+        "mean": 33.333333333333336,
+        "sd": 14.433756729740644,
+        "min": 25.0,
+        "max": 50.0,
+        "source_locations": [
+          "08_腐烂观察!I254:J254",
+          "08_腐烂观察!I255:J255",
+          "08_腐烂观察!I256:J256",
+          "08_腐烂观察!I257:J257",
+          "08_腐烂观察!I258:J258",
+          "08_腐烂观察!I259:J259",
+          "08_腐烂观察!I260:J260",
+          "08_腐烂观察!I261:J261",
+          "08_腐烂观察!I262:J262",
+          "08_腐烂观察!I263:J263",
+          "08_腐烂观察!I264:J264",
+          "08_腐烂观察!I265:J265"
+        ],
+        "unit_ids": [
+          "B1-SA-Ca-L1",
+          "B1-SA-Ca-L2",
+          "B1-SA-Ca-L3"
+        ],
+        "sd_meaning": "有效容器间样本SD，ddof=1；n=1时不可估计，记null"
+      },
+      {
+        "metric": "decay_pct",
+        "metric_label": "累计腐烂比例",
+        "unit": "%",
+        "group": "SA-Ca",
+        "day": 4,
+        "batch": "B2",
+        "calendar_dates": [
+          "2026-10-17"
+        ],
+        "n_containers": 3,
+        "planned_containers": 3,
+        "n_fruits": 12,
+        "planned_fruits": 12,
+        "uncovered_fruits": 0,
+        "n_readings": 12,
+        "n_technical_readings": null,
+        "missing_readings": 0,
+        "missing_containers": 0,
+        "mean": 50.0,
+        "sd": 43.30127018922193,
+        "min": 25.0,
+        "max": 100.0,
+        "source_locations": [
+          "08_腐烂观察!I515:J515",
+          "08_腐烂观察!I516:J516",
+          "08_腐烂观察!I517:J517",
+          "08_腐烂观察!I518:J518",
+          "08_腐烂观察!I519:J519",
+          "08_腐烂观察!I520:J520",
+          "08_腐烂观察!I521:J521",
+          "08_腐烂观察!I522:J522",
+          "08_腐烂观察!I523:J523",
+          "08_腐烂观察!I524:J524",
+          "08_腐烂观察!I525:J525",
+          "08_腐烂观察!I526:J526"
+        ],
+        "unit_ids": [
+          "B2-SA-Ca-L1",
+          "B2-SA-Ca-L2",
+          "B2-SA-Ca-L3"
+        ],
+        "sd_meaning": "有效容器间样本SD，ddof=1；n=1时不可估计，记null"
+      },
+      {
+        "metric": "decay_pct",
+        "metric_label": "累计腐烂比例",
+        "unit": "%",
+        "group": "SA-Ca",
+        "day": 4,
+        "batch": "B3",
+        "calendar_dates": [
+          "2026-10-25"
+        ],
+        "n_containers": 3,
+        "planned_containers": 3,
+        "n_fruits": 12,
+        "planned_fruits": 12,
+        "uncovered_fruits": 0,
+        "n_readings": 12,
+        "n_technical_readings": null,
+        "missing_readings": 0,
+        "missing_containers": 0,
+        "mean": 25.0,
+        "sd": 25.0,
+        "min": 0.0,
+        "max": 50.0,
+        "source_locations": [
+          "08_腐烂观察!I776:J776",
+          "08_腐烂观察!I777:J777",
+          "08_腐烂观察!I778:J778",
+          "08_腐烂观察!I779:J779",
+          "08_腐烂观察!I780:J780",
+          "08_腐烂观察!I781:J781",
+          "08_腐烂观察!I782:J782",
+          "08_腐烂观察!I783:J783",
+          "08_腐烂观察!I784:J784",
+          "08_腐烂观察!I785:J785",
+          "08_腐烂观察!I786:J786",
+          "08_腐烂观察!I787:J787"
+        ],
+        "unit_ids": [
+          "B3-SA-Ca-L1",
+          "B3-SA-Ca-L2",
+          "B3-SA-Ca-L3"
+        ],
+        "sd_meaning": "有效容器间样本SD，ddof=1；n=1时不可估计，记null"
+      },
+      {
+        "metric": "firmness",
+        "metric_label": "表观硬度",
+        "unit": "N",
+        "group": "CK",
+        "day": 4,
+        "batch": "B1",
+        "calendar_dates": [
+          "2026-10-09"
+        ],
+        "n_containers": 1,
+        "planned_containers": 1,
+        "n_fruits": 3,
+        "planned_fruits": 3,
+        "uncovered_fruits": 0,
+        "n_readings": 6,
+        "n_technical_readings": 6,
+        "missing_readings": 0,
+        "missing_containers": 0,
+        "mean": 4.443333333333333,
+        "sd": null,
+        "min": 4.443333333333333,
+        "max": 4.443333333333333,
+        "source_locations": [
+          "09_品质检测!I23",
+          "09_品质检测!I24",
+          "09_品质检测!I26",
+          "09_品质检测!I27",
+          "09_品质检测!I29",
+          "09_品质检测!I30"
+        ],
+        "unit_ids": [
+          "B1-CK-D4"
+        ],
+        "sd_meaning": "有效容器间样本SD，ddof=1；n=1时不可估计，记null"
+      },
+      {
+        "metric": "firmness",
+        "metric_label": "表观硬度",
+        "unit": "N",
+        "group": "CK",
+        "day": 4,
+        "batch": "B2",
+        "calendar_dates": [
+          "2026-10-17"
+        ],
+        "n_containers": 1,
+        "planned_containers": 1,
+        "n_fruits": 2,
+        "planned_fruits": 3,
+        "uncovered_fruits": 1,
+        "n_readings": 4,
+        "n_technical_readings": 4,
+        "missing_readings": 2,
+        "missing_containers": 0,
+        "mean": 5.6000000000000005,
+        "sd": null,
+        "min": 5.6000000000000005,
+        "max": 5.6000000000000005,
+        "source_locations": [
+          "09_品质检测!I104",
+          "09_品质检测!I105",
+          "09_品质检测!I107",
+          "09_品质检测!I108",
+          "09_品质检测!I110",
+          "09_品质检测!I111"
+        ],
+        "unit_ids": [
+          "B2-CK-D4"
+        ],
+        "sd_meaning": "有效容器间样本SD，ddof=1；n=1时不可估计，记null"
+      },
+      {
+        "metric": "firmness",
+        "metric_label": "表观硬度",
+        "unit": "N",
+        "group": "CK",
+        "day": 4,
+        "batch": "B3",
+        "calendar_dates": [
+          "2026-10-25"
+        ],
+        "n_containers": 1,
+        "planned_containers": 1,
+        "n_fruits": 3,
+        "planned_fruits": 3,
+        "uncovered_fruits": 0,
+        "n_readings": 6,
+        "n_technical_readings": 6,
+        "missing_readings": 0,
+        "missing_containers": 0,
+        "mean": 5.125,
+        "sd": null,
+        "min": 5.125,
+        "max": 5.125,
+        "source_locations": [
+          "09_品质检测!I185",
+          "09_品质检测!I186",
+          "09_品质检测!I188",
+          "09_品质检测!I189",
+          "09_品质检测!I191",
+          "09_品质检测!I192"
+        ],
+        "unit_ids": [
+          "B3-CK-D4"
+        ],
+        "sd_meaning": "有效容器间样本SD，ddof=1；n=1时不可估计，记null"
+      },
+      {
+        "metric": "firmness",
+        "metric_label": "表观硬度",
+        "unit": "N",
+        "group": "Ca",
+        "day": 4,
+        "batch": "B1",
+        "calendar_dates": [
+          "2026-10-09"
+        ],
+        "n_containers": 1,
+        "planned_containers": 1,
+        "n_fruits": 3,
+        "planned_fruits": 3,
+        "uncovered_fruits": 0,
+        "n_readings": 6,
+        "n_technical_readings": 6,
+        "missing_readings": 0,
+        "missing_containers": 0,
+        "mean": 4.833333333333333,
+        "sd": null,
+        "min": 4.833333333333333,
+        "max": 4.833333333333333,
+        "source_locations": [
+          "09_品质检测!I50",
+          "09_品质检测!I51",
+          "09_品质检测!I53",
+          "09_品质检测!I54",
+          "09_品质检测!I56",
+          "09_品质检测!I57"
+        ],
+        "unit_ids": [
+          "B1-Ca-D4"
+        ],
+        "sd_meaning": "有效容器间样本SD，ddof=1；n=1时不可估计，记null"
+      },
+      {
+        "metric": "firmness",
+        "metric_label": "表观硬度",
+        "unit": "N",
+        "group": "Ca",
+        "day": 4,
+        "batch": "B2",
+        "calendar_dates": [
+          "2026-10-17"
+        ],
+        "n_containers": 1,
+        "planned_containers": 1,
+        "n_fruits": 3,
+        "planned_fruits": 3,
+        "uncovered_fruits": 0,
+        "n_readings": 6,
+        "n_technical_readings": 6,
+        "missing_readings": 0,
+        "missing_containers": 0,
+        "mean": 5.345,
+        "sd": null,
+        "min": 5.345,
+        "max": 5.345,
+        "source_locations": [
+          "09_品质检测!I131",
+          "09_品质检测!I132",
+          "09_品质检测!I134",
+          "09_品质检测!I135",
+          "09_品质检测!I137",
+          "09_品质检测!I138"
+        ],
+        "unit_ids": [
+          "B2-Ca-D4"
+        ],
+        "sd_meaning": "有效容器间样本SD，ddof=1；n=1时不可估计，记null"
+      },
+      {
+        "metric": "firmness",
+        "metric_label": "表观硬度",
+        "unit": "N",
+        "group": "Ca",
+        "day": 4,
+        "batch": "B3",
+        "calendar_dates": [
+          "2026-10-25"
+        ],
+        "n_containers": 1,
+        "planned_containers": 1,
+        "n_fruits": 3,
+        "planned_fruits": 3,
+        "uncovered_fruits": 0,
+        "n_readings": 6,
+        "n_technical_readings": 6,
+        "missing_readings": 0,
+        "missing_containers": 0,
+        "mean": 5.306666666666667,
+        "sd": null,
+        "min": 5.306666666666667,
+        "max": 5.306666666666667,
+        "source_locations": [
+          "09_品质检测!I212",
+          "09_品质检测!I213",
+          "09_品质检测!I215",
+          "09_品质检测!I216",
+          "09_品质检测!I218",
+          "09_品质检测!I219"
+        ],
+        "unit_ids": [
+          "B3-Ca-D4"
+        ],
+        "sd_meaning": "有效容器间样本SD，ddof=1；n=1时不可估计，记null"
+      },
+      {
+        "metric": "firmness",
+        "metric_label": "表观硬度",
+        "unit": "N",
+        "group": "SA-Ca",
+        "day": 4,
+        "batch": "B1",
+        "calendar_dates": [
+          "2026-10-09"
+        ],
+        "n_containers": 1,
+        "planned_containers": 1,
+        "n_fruits": 3,
+        "planned_fruits": 3,
+        "uncovered_fruits": 0,
+        "n_readings": 6,
+        "n_technical_readings": 6,
+        "missing_readings": 0,
+        "missing_containers": 0,
+        "mean": 4.663333333333333,
+        "sd": null,
+        "min": 4.663333333333333,
+        "max": 4.663333333333333,
+        "source_locations": [
+          "09_品质检测!I77",
+          "09_品质检测!I78",
+          "09_品质检测!I80",
+          "09_品质检测!I81",
+          "09_品质检测!I83",
+          "09_品质检测!I84"
+        ],
+        "unit_ids": [
+          "B1-SA-Ca-D4"
+        ],
+        "sd_meaning": "有效容器间样本SD，ddof=1；n=1时不可估计，记null"
+      },
+      {
+        "metric": "firmness",
+        "metric_label": "表观硬度",
+        "unit": "N",
+        "group": "SA-Ca",
+        "day": 4,
+        "batch": "B2",
+        "calendar_dates": [
+          "2026-10-17"
+        ],
+        "n_containers": 1,
+        "planned_containers": 1,
+        "n_fruits": 3,
+        "planned_fruits": 3,
+        "uncovered_fruits": 0,
+        "n_readings": 6,
+        "n_technical_readings": 6,
+        "missing_readings": 0,
+        "missing_containers": 0,
+        "mean": 5.996666666666667,
+        "sd": null,
+        "min": 5.996666666666667,
+        "max": 5.996666666666667,
+        "source_locations": [
+          "09_品质检测!I158",
+          "09_品质检测!I159",
+          "09_品质检测!I161",
+          "09_品质检测!I162",
+          "09_品质检测!I164",
+          "09_品质检测!I165"
+        ],
+        "unit_ids": [
+          "B2-SA-Ca-D4"
+        ],
+        "sd_meaning": "有效容器间样本SD，ddof=1；n=1时不可估计，记null"
+      },
+      {
+        "metric": "firmness",
+        "metric_label": "表观硬度",
+        "unit": "N",
+        "group": "SA-Ca",
+        "day": 4,
+        "batch": "B3",
+        "calendar_dates": [
+          "2026-10-25"
+        ],
+        "n_containers": 1,
+        "planned_containers": 1,
+        "n_fruits": 2,
+        "planned_fruits": 3,
+        "uncovered_fruits": 1,
+        "n_readings": 4,
+        "n_technical_readings": 4,
+        "missing_readings": 2,
+        "missing_containers": 0,
+        "mean": 5.6274999999999995,
+        "sd": null,
+        "min": 5.6274999999999995,
+        "max": 5.6274999999999995,
+        "source_locations": [
+          "09_品质检测!I239",
+          "09_品质检测!I240",
+          "09_品质检测!I242",
+          "09_品质检测!I243",
+          "09_品质检测!I245",
+          "09_品质检测!I246"
+        ],
+        "unit_ids": [
+          "B3-SA-Ca-D4"
+        ],
+        "sd_meaning": "有效容器间样本SD，ddof=1；n=1时不可估计，记null"
+      },
+      {
+        "metric": "TSS",
+        "metric_label": "可溶性固形物TSS",
+        "unit": "°Brix",
+        "group": "CK",
+        "day": 4,
+        "batch": "B1",
+        "calendar_dates": [
+          "2026-10-09"
+        ],
+        "n_containers": 1,
+        "planned_containers": 1,
+        "n_fruits": 3,
+        "planned_fruits": 3,
+        "uncovered_fruits": 0,
+        "n_readings": 3,
+        "n_technical_readings": null,
+        "missing_readings": 0,
+        "missing_containers": 0,
+        "mean": 8.366666666666667,
+        "sd": null,
+        "min": 8.366666666666667,
+        "max": 8.366666666666667,
+        "source_locations": [
+          "09_品质检测!I25",
+          "09_品质检测!I28",
+          "09_品质检测!I31"
+        ],
+        "unit_ids": [
+          "B1-CK-D4"
+        ],
+        "sd_meaning": "有效容器间样本SD，ddof=1；n=1时不可估计，记null"
+      },
+      {
+        "metric": "TSS",
+        "metric_label": "可溶性固形物TSS",
+        "unit": "°Brix",
+        "group": "CK",
+        "day": 4,
+        "batch": "B2",
+        "calendar_dates": [
+          "2026-10-17"
+        ],
+        "n_containers": 1,
+        "planned_containers": 1,
+        "n_fruits": 2,
+        "planned_fruits": 3,
+        "uncovered_fruits": 1,
+        "n_readings": 2,
+        "n_technical_readings": null,
+        "missing_readings": 1,
+        "missing_containers": 0,
+        "mean": 8.649999999999999,
+        "sd": null,
+        "min": 8.649999999999999,
+        "max": 8.649999999999999,
+        "source_locations": [
+          "09_品质检测!I106",
+          "09_品质检测!I109",
+          "09_品质检测!I112"
+        ],
+        "unit_ids": [
+          "B2-CK-D4"
+        ],
+        "sd_meaning": "有效容器间样本SD，ddof=1；n=1时不可估计，记null"
+      },
+      {
+        "metric": "TSS",
+        "metric_label": "可溶性固形物TSS",
+        "unit": "°Brix",
+        "group": "CK",
+        "day": 4,
+        "batch": "B3",
+        "calendar_dates": [
+          "2026-10-25"
+        ],
+        "n_containers": 1,
+        "planned_containers": 1,
+        "n_fruits": 3,
+        "planned_fruits": 3,
+        "uncovered_fruits": 0,
+        "n_readings": 3,
+        "n_technical_readings": null,
+        "missing_readings": 0,
+        "missing_containers": 0,
+        "mean": 8.666666666666666,
+        "sd": null,
+        "min": 8.666666666666666,
+        "max": 8.666666666666666,
+        "source_locations": [
+          "09_品质检测!I187",
+          "09_品质检测!I190",
+          "09_品质检测!I193"
+        ],
+        "unit_ids": [
+          "B3-CK-D4"
+        ],
+        "sd_meaning": "有效容器间样本SD，ddof=1；n=1时不可估计，记null"
+      },
+      {
+        "metric": "TSS",
+        "metric_label": "可溶性固形物TSS",
+        "unit": "°Brix",
+        "group": "Ca",
+        "day": 4,
+        "batch": "B1",
+        "calendar_dates": [
+          "2026-10-09"
+        ],
+        "n_containers": 1,
+        "planned_containers": 1,
+        "n_fruits": 3,
+        "planned_fruits": 3,
+        "uncovered_fruits": 0,
+        "n_readings": 3,
+        "n_technical_readings": null,
+        "missing_readings": 0,
+        "missing_containers": 0,
+        "mean": 8.6,
+        "sd": null,
+        "min": 8.6,
+        "max": 8.6,
+        "source_locations": [
+          "09_品质检测!I52",
+          "09_品质检测!I55",
+          "09_品质检测!I58"
+        ],
+        "unit_ids": [
+          "B1-Ca-D4"
+        ],
+        "sd_meaning": "有效容器间样本SD，ddof=1；n=1时不可估计，记null"
+      },
+      {
+        "metric": "TSS",
+        "metric_label": "可溶性固形物TSS",
+        "unit": "°Brix",
+        "group": "Ca",
+        "day": 4,
+        "batch": "B2",
+        "calendar_dates": [
+          "2026-10-17"
+        ],
+        "n_containers": 1,
+        "planned_containers": 1,
+        "n_fruits": 3,
+        "planned_fruits": 3,
+        "uncovered_fruits": 0,
+        "n_readings": 3,
+        "n_technical_readings": null,
+        "missing_readings": 0,
+        "missing_containers": 0,
+        "mean": 8.433333333333334,
+        "sd": null,
+        "min": 8.433333333333334,
+        "max": 8.433333333333334,
+        "source_locations": [
+          "09_品质检测!I133",
+          "09_品质检测!I136",
+          "09_品质检测!I139"
+        ],
+        "unit_ids": [
+          "B2-Ca-D4"
+        ],
+        "sd_meaning": "有效容器间样本SD，ddof=1；n=1时不可估计，记null"
+      },
+      {
+        "metric": "TSS",
+        "metric_label": "可溶性固形物TSS",
+        "unit": "°Brix",
+        "group": "Ca",
+        "day": 4,
+        "batch": "B3",
+        "calendar_dates": [
+          "2026-10-25"
+        ],
+        "n_containers": 1,
+        "planned_containers": 1,
+        "n_fruits": 3,
+        "planned_fruits": 3,
+        "uncovered_fruits": 0,
+        "n_readings": 3,
+        "n_technical_readings": null,
+        "missing_readings": 0,
+        "missing_containers": 0,
+        "mean": 8.333333333333334,
+        "sd": null,
+        "min": 8.333333333333334,
+        "max": 8.333333333333334,
+        "source_locations": [
+          "09_品质检测!I214",
+          "09_品质检测!I217",
+          "09_品质检测!I220"
+        ],
+        "unit_ids": [
+          "B3-Ca-D4"
+        ],
+        "sd_meaning": "有效容器间样本SD，ddof=1；n=1时不可估计，记null"
+      },
+      {
+        "metric": "TSS",
+        "metric_label": "可溶性固形物TSS",
+        "unit": "°Brix",
+        "group": "SA-Ca",
+        "day": 4,
+        "batch": "B1",
+        "calendar_dates": [
+          "2026-10-09"
+        ],
+        "n_containers": 1,
+        "planned_containers": 1,
+        "n_fruits": 3,
+        "planned_fruits": 3,
+        "uncovered_fruits": 0,
+        "n_readings": 3,
+        "n_technical_readings": null,
+        "missing_readings": 0,
+        "missing_containers": 0,
+        "mean": 8.2,
+        "sd": null,
+        "min": 8.2,
+        "max": 8.2,
+        "source_locations": [
+          "09_品质检测!I79",
+          "09_品质检测!I82",
+          "09_品质检测!I85"
+        ],
+        "unit_ids": [
+          "B1-SA-Ca-D4"
+        ],
+        "sd_meaning": "有效容器间样本SD，ddof=1；n=1时不可估计，记null"
+      },
+      {
+        "metric": "TSS",
+        "metric_label": "可溶性固形物TSS",
+        "unit": "°Brix",
+        "group": "SA-Ca",
+        "day": 4,
+        "batch": "B2",
+        "calendar_dates": [
+          "2026-10-17"
+        ],
+        "n_containers": 1,
+        "planned_containers": 1,
+        "n_fruits": 3,
+        "planned_fruits": 3,
+        "uncovered_fruits": 0,
+        "n_readings": 3,
+        "n_technical_readings": null,
+        "missing_readings": 0,
+        "missing_containers": 0,
+        "mean": 8.466666666666667,
+        "sd": null,
+        "min": 8.466666666666667,
+        "max": 8.466666666666667,
+        "source_locations": [
+          "09_品质检测!I160",
+          "09_品质检测!I163",
+          "09_品质检测!I166"
+        ],
+        "unit_ids": [
+          "B2-SA-Ca-D4"
+        ],
+        "sd_meaning": "有效容器间样本SD，ddof=1；n=1时不可估计，记null"
+      },
+      {
+        "metric": "TSS",
+        "metric_label": "可溶性固形物TSS",
+        "unit": "°Brix",
+        "group": "SA-Ca",
+        "day": 4,
+        "batch": "B3",
+        "calendar_dates": [
+          "2026-10-25"
+        ],
+        "n_containers": 1,
+        "planned_containers": 1,
+        "n_fruits": 2,
+        "planned_fruits": 3,
+        "uncovered_fruits": 1,
+        "n_readings": 2,
+        "n_technical_readings": null,
+        "missing_readings": 1,
+        "missing_containers": 0,
+        "mean": 8.1,
+        "sd": null,
+        "min": 8.1,
+        "max": 8.1,
+        "source_locations": [
+          "09_品质检测!I241",
+          "09_品质检测!I244",
+          "09_品质检测!I247"
+        ],
+        "unit_ids": [
+          "B3-SA-Ca-D4"
+        ],
+        "sd_meaning": "有效容器间样本SD，ddof=1；n=1时不可估计，记null"
+      }
+    ],
+    "errorbar": "none",
+    "batch_start_dates": [
+      "2026-10-05",
+      "2026-10-13",
+      "2026-10-21"
+    ],
+    "id": "P09B_F05_批次差异",
+    "files": [
+      "P09B_F05_批次差异.png",
+      "P09B_F05_批次差异.svg",
+      "P09B_F05_批次差异_source.csv"
+    ]
+  },
+  {
+    "metric": "environment",
+    "source_rows": [
+      {
+        "id": "EV-001",
+        "date_time": "2026-10-05 09:00",
+        "batch": "B1",
+        "temperature_C": 22.7,
+        "relative_humidity_pct": 78.4,
+        "source": "10_环境监测!D5:E5"
+      },
+      {
+        "id": "EV-002",
+        "date_time": "2026-10-05 17:00",
+        "batch": "B1",
+        "temperature_C": 24.3,
+        "relative_humidity_pct": 76.5,
+        "source": "10_环境监测!D6:E6"
+      },
+      {
+        "id": "EV-003",
+        "date_time": "2026-10-06 09:00",
+        "batch": "B1",
+        "temperature_C": 23.8,
+        "relative_humidity_pct": 71.4,
+        "source": "10_环境监测!D7:E7"
+      },
+      {
+        "id": "EV-004",
+        "date_time": "2026-10-06 17:00",
+        "batch": "B1",
+        "temperature_C": 22.9,
+        "relative_humidity_pct": 76.2,
+        "source": "10_环境监测!D8:E8"
+      },
+      {
+        "id": "EV-005",
+        "date_time": "2026-10-07 09:00",
+        "batch": "B1",
+        "temperature_C": 22.5,
+        "relative_humidity_pct": 76.9,
+        "source": "10_环境监测!D9:E9"
+      },
+      {
+        "id": "EV-006",
+        "date_time": "2026-10-07 17:00",
+        "batch": "B1",
+        "temperature_C": 23.2,
+        "relative_humidity_pct": 68.5,
+        "source": "10_环境监测!D10:E10"
+      },
+      {
+        "id": "EV-007",
+        "date_time": "2026-10-08 09:00",
+        "batch": "B1",
+        "temperature_C": 23.3,
+        "relative_humidity_pct": 71.1,
+        "source": "10_环境监测!D11:E11"
+      },
+      {
+        "id": "EV-008",
+        "date_time": "2026-10-08 17:00",
+        "batch": "B1",
+        "temperature_C": 24.5,
+        "relative_humidity_pct": 77.8,
+        "source": "10_环境监测!D12:E12"
+      },
+      {
+        "id": "EV-009",
+        "date_time": "2026-10-09 09:00",
+        "batch": "B1",
+        "temperature_C": 22.7,
+        "relative_humidity_pct": 78.1,
+        "source": "10_环境监测!D13:E13"
+      },
+      {
+        "id": "EV-010",
+        "date_time": "2026-10-09 17:00",
+        "batch": "B1",
+        "temperature_C": 23.6,
+        "relative_humidity_pct": 73.5,
+        "source": "10_环境监测!D14:E14"
+      },
+      {
+        "id": "EV-011",
+        "date_time": "2026-10-13 09:00",
+        "batch": "B2",
+        "temperature_C": 24,
+        "relative_humidity_pct": 76.7,
+        "source": "10_环境监测!D15:E15"
+      },
+      {
+        "id": "EV-012",
+        "date_time": "2026-10-13 17:00",
+        "batch": "B2",
+        "temperature_C": 23.6,
+        "relative_humidity_pct": 78.4,
+        "source": "10_环境监测!D16:E16"
+      },
+      {
+        "id": "EV-013",
+        "date_time": "2026-10-14 09:00",
+        "batch": "B2",
+        "temperature_C": 23.2,
+        "relative_humidity_pct": 65.7,
+        "source": "10_环境监测!D17:E17"
+      },
+      {
+        "id": "EV-014",
+        "date_time": "2026-10-14 17:00",
+        "batch": "B2",
+        "temperature_C": 23.2,
+        "relative_humidity_pct": 71,
+        "source": "10_环境监测!D18:E18"
+      },
+      {
+        "id": "EV-015",
+        "date_time": "2026-10-15 09:00",
+        "batch": "B2",
+        "temperature_C": 24.2,
+        "relative_humidity_pct": 65.7,
+        "source": "10_环境监测!D19:E19"
+      },
+      {
+        "id": "EV-016",
+        "date_time": "2026-10-15 17:00",
+        "batch": "B2",
+        "temperature_C": 23.2,
+        "relative_humidity_pct": 71.6,
+        "source": "10_环境监测!D20:E20"
+      },
+      {
+        "id": "EV-017",
+        "date_time": "2026-10-16 09:00",
+        "batch": "B2",
+        "temperature_C": 23.4,
+        "relative_humidity_pct": 73.1,
+        "source": "10_环境监测!D21:E21"
+      },
+      {
+        "id": "EV-018",
+        "date_time": "2026-10-16 17:00",
+        "batch": "B2",
+        "temperature_C": 23.7,
+        "relative_humidity_pct": 67.1,
+        "source": "10_环境监测!D22:E22"
+      },
+      {
+        "id": "EV-019",
+        "date_time": "2026-10-17 09:00",
+        "batch": "B2",
+        "temperature_C": 24.3,
+        "relative_humidity_pct": 68,
+        "source": "10_环境监测!D23:E23"
+      },
+      {
+        "id": "EV-020",
+        "date_time": "2026-10-17 17:00",
+        "batch": "B2",
+        "temperature_C": 24.4,
+        "relative_humidity_pct": 76.6,
+        "source": "10_环境监测!D24:E24"
+      },
+      {
+        "id": "EV-021",
+        "date_time": "2026-10-21 09:00",
+        "batch": "B3",
+        "temperature_C": 24.1,
+        "relative_humidity_pct": 67.9,
+        "source": "10_环境监测!D25:E25"
+      },
+      {
+        "id": "EV-022",
+        "date_time": "2026-10-21 17:00",
+        "batch": "B3",
+        "temperature_C": 24.1,
+        "relative_humidity_pct": 66.7,
+        "source": "10_环境监测!D26:E26"
+      },
+      {
+        "id": "EV-023",
+        "date_time": "2026-10-22 09:00",
+        "batch": "B3",
+        "temperature_C": 24.8,
+        "relative_humidity_pct": 73,
+        "source": "10_环境监测!D27:E27"
+      },
+      {
+        "id": "EV-024",
+        "date_time": "2026-10-22 17:00",
+        "batch": "B3",
+        "temperature_C": 24.5,
+        "relative_humidity_pct": 71.8,
+        "source": "10_环境监测!D28:E28"
+      },
+      {
+        "id": "EV-025",
+        "date_time": "2026-10-23 09:00",
+        "batch": "B3",
+        "temperature_C": 24.1,
+        "relative_humidity_pct": 77.3,
+        "source": "10_环境监测!D29:E29"
+      },
+      {
+        "id": "EV-026",
+        "date_time": "2026-10-23 17:00",
+        "batch": "B3",
+        "temperature_C": 23.5,
+        "relative_humidity_pct": 62.9,
+        "source": "10_环境监测!D30:E30"
+      },
+      {
+        "id": "EV-027",
+        "date_time": "2026-10-24 09:00",
+        "batch": "B3",
+        "temperature_C": 23.1,
+        "relative_humidity_pct": 75.9,
+        "source": "10_环境监测!D31:E31"
+      },
+      {
+        "id": "EV-028",
+        "date_time": "2026-10-24 17:00",
+        "batch": "B3",
+        "temperature_C": 24,
+        "relative_humidity_pct": 74,
+        "source": "10_环境监测!D32:E32"
+      },
+      {
+        "id": "EV-029",
+        "date_time": "2026-10-25 09:00",
+        "batch": "B3",
+        "temperature_C": 22.7,
+        "relative_humidity_pct": 68.8,
+        "source": "10_环境监测!D33:E33"
+      },
+      {
+        "id": "EV-030",
+        "date_time": "2026-10-25 17:00",
+        "batch": "B3",
+        "temperature_C": 24.2,
+        "relative_humidity_pct": 77.9,
+        "source": "10_环境监测!D34:E34"
+      }
+    ],
+    "errorbar": "none",
+    "n_time_records": 30,
+    "id": "P09B_F06_温湿度",
+    "files": [
+      "P09B_F06_温湿度.png",
+      "P09B_F06_温湿度.svg",
+      "P09B_F06_温湿度_source.csv"
+    ]
+  }
+]

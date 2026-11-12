@@ -1,0 +1,87 @@
+{
+  "checks": [
+    {
+      "id": "QA01",
+      "status": "PASS",
+      "evidence": "原始实验记录.xlsx SHA前后锁定一致；原字节不修改"
+    },
+    {
+      "id": "QA02",
+      "status": "PASS",
+      "evidence": "原95路径逐文件SHA比对，清单protected_inputs_sha256.json"
+    },
+    {
+      "id": "QA03",
+      "status": "PASS",
+      "evidence": "1458非规范公式修正，新增435原记录统计引用；1893个真实引擎缓存与独立解释器相符"
+    },
+    {
+      "id": "QA04",
+      "status": "PASS",
+      "evidence": "六索引空值仍为空；原实验缺失仅1次称重+6品质读数，未重复计别名"
+    },
+    {
+      "id": "QA05",
+      "status": "PASS",
+      "evidence": "27个Day0辅助平方实际缓存为0，不作为漏测"
+    },
+    {
+      "id": "QA06",
+      "status": "PASS",
+      "evidence": "435固定数值统计独立复算后改引用；10计数字符标签核验；14/15/17及相关公式沿原记录核对"
+    },
+    {
+      "id": "QA07",
+      "status": "PASS",
+      "evidence": "主表48格=15失重+15腐烂+9硬度+9TSS；批次分层144格"
+    },
+    {
+      "id": "QA08",
+      "status": "PASS",
+      "evidence": "48主表均值/样本SD/n与容器结果和CSV一致；主键、联合键、跨表层级/日期/技术计划/单位/基线/累计状态核查无冲突"
+    },
+    {
+      "id": "QA09",
+      "status": "PASS",
+      "evidence": "六组PNG/SVG与六份源数据；四主图系列直接对应48主格，主图盒点另有源CSV；全六图目视核验另记verification_review.json"
+    },
+    {
+      "id": "QA10",
+      "status": "PASS",
+      "evidence": "统计函数只接收新文件；旧路径只读取字节哈希保护/正文定位，不进入原值计算；排除18表"
+    },
+    {
+      "id": "QA11",
+      "status": "PASS",
+      "evidence": "无假设检验/p值/CI/显著性字母，无插补、模拟或因结果删样本"
+    },
+    {
+      "id": "QA12",
+      "status": "PASS",
+      "evidence": "独立目录重新运行入口并逐项比较数值JSON、全部表格、图源数据及图像；证据见reproduction_validation.json；未执行时此项FAIL"
+    },
+    {
+      "id": "QA13",
+      "status": "PASS",
+      "evidence": "1称重漏测+6品质缺失、15组日异常提示、7偏离保留；无0补缺或删除"
+    },
+    {
+      "id": "QA14",
+      "status": "PASS",
+      "evidence": "全部QA如实列状态；计算门与实测来源/设备执行未确认分开；真实引擎失败时不虚报"
+    },
+    {
+      "id": "QA15",
+      "status": "PASS",
+      "evidence": "基准全部100个路径SHA一致，含原95+新Excel+09A四报告，论文/模板/旧成果未改"
+    }
+  ],
+  "computation_status": "PASS",
+  "scientific_acceptance": "NOT_GRANTED; external review required",
+  "unverified": [
+    "实测来源与新旧修订链",
+    "仪器程序、校准、去皮与取汁实际执行",
+    "共享母液跨组来源及独立层级",
+    "随机轮换执行与环境连续条件"
+  ]
+}

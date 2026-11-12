@@ -1,0 +1,15 @@
+{
+  "status": "PASS",
+  "primary_cells": 48,
+  "fields": [
+    "mean",
+    "sd",
+    "min",
+    "max",
+    "n_containers",
+    "n_fruits",
+    "n_readings"
+  ],
+  "numpy_version": "2.3.5",
+  "failures": []
+}

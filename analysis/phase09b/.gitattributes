@@ -1,0 +1,2 @@
+# Matplotlib SVG path attributes contain intentional end-of-line spacing.
+figures/*.svg whitespace=-blank-at-eol

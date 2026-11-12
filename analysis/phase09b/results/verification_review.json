@@ -1,0 +1,36 @@
+{
+  "status": "PASS",
+  "scope": "全部6组PNG实际查看；同一Matplotlib图对象同时生成SVG，SVG数值另与figure_data.json核对；不声称使用桌面Excel目视检查",
+  "figures": [
+    {
+      "path": "figures/P09B_F01_失重率.png",
+      "sha256": "fe948a8073cf4cd11984e7650d7eb8731ea57659eb799244ed3280eb5c7ea298",
+      "review": "实际通过view_image逐张查看；标题、坐标单位、组别、SD或无误差线说明、有效n与L/D/日期限制可见，无文字裁切或图例遮挡关键结果"
+    },
+    {
+      "path": "figures/P09B_F02_累计腐烂.png",
+      "sha256": "6b5799c044c7a43d1f281e0cb47b1240d398684c83b5b6a002a1d3cc0ec3faad",
+      "review": "实际通过view_image逐张查看；标题、坐标单位、组别、SD或无误差线说明、有效n与L/D/日期限制可见，无文字裁切或图例遮挡关键结果"
+    },
+    {
+      "path": "figures/P09B_F03_表观硬度.png",
+      "sha256": "2827bf1b36b108159b2a6d45c036fcde18f2ca0d288ac2e008861f5dcb047ee9",
+      "review": "实际通过view_image逐张查看；标题、坐标单位、组别、SD或无误差线说明、有效n与L/D/日期限制可见，无文字裁切或图例遮挡关键结果"
+    },
+    {
+      "path": "figures/P09B_F04_TSS.png",
+      "sha256": "86ebb2699c543c70a4d4af6ee1fbb1e2bb48c448ce4a02f2ddeda3a77babda3b",
+      "review": "实际通过view_image逐张查看；标题、坐标单位、组别、SD或无误差线说明、有效n与L/D/日期限制可见，无文字裁切或图例遮挡关键结果"
+    },
+    {
+      "path": "figures/P09B_F05_批次差异.png",
+      "sha256": "cc843b43aa05efb78bdad998f924d9282114d12577ab01b6f1e7fb656d0a3b25",
+      "review": "实际通过view_image逐张查看；标题、坐标单位、组别、SD或无误差线说明、有效n与L/D/日期限制可见，无文字裁切或图例遮挡关键结果"
+    },
+    {
+      "path": "figures/P09B_F06_温湿度.png",
+      "sha256": "bd3baadd304088c790f8dcd3d52930032ba44ee3597c3ba53d65de43b9098cce",
+      "review": "实际通过view_image逐张查看；标题、坐标单位、组别、SD或无误差线说明、有效n与L/D/日期限制可见，无文字裁切或图例遮挡关键结果"
+    }
+  ]
+}

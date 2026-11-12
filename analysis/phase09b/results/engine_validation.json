@@ -1,0 +1,59 @@
+{
+  "status": "PASS",
+  "real_engine_recalculation": true,
+  "version": "LibreOfficeDev 26.8.0.0.alpha0 2c87e51eeaa2b413ff4ae097b2705eea1995d8e5",
+  "returncode": 0,
+  "command": [
+    "soffice",
+    "-env:UserInstallation=file://<temporary>/profile",
+    "--headless",
+    "--convert-to",
+    "xlsx",
+    "--outdir",
+    "<temporary>/recalculated",
+    "<temporary>/calculation_input.xlsx"
+  ],
+  "stdout": "convert <temporary>/calculation_input.xlsx as a Calc document -> <temporary>/recalculated/calculation_input.xlsx using filter : Calc Office Open XML\n",
+  "stderr": "",
+  "raw_engine_output_sha256": "ba49c604a574af46c108d494550e18446c21b07626146d3f936013a5807942b2",
+  "engine_input_transport": "openpyxl OOXML metadata normalization; all original non-derived literal values and excluded worksheet XML/SST preserved",
+  "engine_input_sha256": "a04ce177686f6808bfb9149a1679fb1743c110bd7217c8991dc58ee5318912d1",
+  "formula_cells_compared": 1893,
+  "mismatches": [],
+  "error_cells": [],
+  "delivered_workbook_readback": {
+    "returncode": 0,
+    "delivered_input_sha256": "5191fb7d1684a558bd5b087a4258e2ad3cbf6393226c31632dcf16c2581f5098",
+    "stdout": "convert <temporary>/delivered_copy.xlsx as a Calc document -> <temporary>/final_readback/delivered_copy.xlsx using filter : Calc Office Open XML\n",
+    "stderr": "",
+    "command": [
+      "soffice",
+      "-env:UserInstallation=file://<temporary>/readback_profile",
+      "--headless",
+      "--convert-to",
+      "xlsx",
+      "--outdir",
+      "<temporary>/final_readback",
+      "<temporary>/delivered_copy.xlsx"
+    ],
+    "status": "PASS",
+    "formula_cells_compared": 1893,
+    "mismatches": []
+  },
+  "day0_zero_cells": 27,
+  "day0_zero_pass": true,
+  "index_missing_cells": 6,
+  "index_missing_pass": true,
+  "unmodified_literal_cells_verified": 22384,
+  "excluded_sheet_xml_byte_equal": true,
+  "normalized_original_formula_count": 1458,
+  "added_summary_formula_count": 435,
+  "final_formula_count": 1893,
+  "original_cache_comparison_cells": 1893,
+  "cache_change_counts": {
+    "DAY0_AUX_EMPTY_TO_ZERO": 27,
+    "FIXED_SUMMARY_TO_FORMULA": 0,
+    "INDEX_MISSING_ZERO_TO_EMPTY": 6,
+    "ORIGINAL_FORMULA_CACHE": 0
+  }
+}

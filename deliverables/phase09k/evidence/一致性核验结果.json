@@ -1,0 +1,1000 @@
+{
+  "status": "PASS: bounded content/data/format consistency checks; not Windows Word final acceptance",
+  "protected_paths": 287,
+  "raw_sha256": "a63c8b0e1a07724e861d4b9a379ab632b3c0d41038f77310db36fb3b6b9f66f6",
+  "changed_docx_parts": [
+    "word/document.xml",
+    "docProps/core.xml"
+  ],
+  "local_text_spans": 9,
+  "reference_identities": 20,
+  "approved_summary_combinations": 48,
+  "data_rows": {
+    "table3_1": 24,
+    "table3_2": 8,
+    "appendix": 24
+  },
+  "raw_cells_compared_to_approved_copy": {
+    "03_仪器与方法": 100,
+    "07_连续称重": 270,
+    "08_腐烂观察": 1566,
+    "09_品质检测": 243,
+    "10_环境监测": 60
+  },
+  "direct_TSS_values_compared": 81,
+  "xml_numeric_roundtrip_differences": [
+    {
+      "sheet": "07_连续称重",
+      "cell": "I12",
+      "raw": "83.24",
+      "approved_copy": "83.23999999999999",
+      "absolute_difference": 0.0
+    },
+    {
+      "sheet": "07_连续称重",
+      "cell": "I13",
+      "raw": "82.26",
+      "approved_copy": "82.26000000000001",
+      "absolute_difference": 0.0
+    },
+    {
+      "sheet": "07_连续称重",
+      "cell": "I19",
+      "raw": "88.65",
+      "approved_copy": "88.65000000000001",
+      "absolute_difference": 0.0
+    },
+    {
+      "sheet": "07_连续称重",
+      "cell": "H20",
+      "raw": "82.76",
+      "approved_copy": "82.76000000000001",
+      "absolute_difference": 0.0
+    },
+    {
+      "sheet": "07_连续称重",
+      "cell": "I20",
+      "raw": "82.76",
+      "approved_copy": "82.76000000000001",
+      "absolute_difference": 0.0
+    },
+    {
+      "sheet": "07_连续称重",
+      "cell": "H21",
+      "raw": "82.76",
+      "approved_copy": "82.76000000000001",
+      "absolute_difference": 0.0
+    },
+    {
+      "sheet": "07_连续称重",
+      "cell": "H22",
+      "raw": "82.76",
+      "approved_copy": "82.76000000000001",
+      "absolute_difference": 0.0
+    },
+    {
+      "sheet": "07_连续称重",
+      "cell": "H23",
+      "raw": "82.76",
+      "approved_copy": "82.76000000000001",
+      "absolute_difference": 0.0
+    },
+    {
+      "sheet": "07_连续称重",
+      "cell": "H24",
+      "raw": "82.76",
+      "approved_copy": "82.76000000000001",
+      "absolute_difference": 0.0
+    },
+    {
+      "sheet": "07_连续称重",
+      "cell": "I24",
+      "raw": "75.46",
+      "approved_copy": "75.45999999999999",
+      "absolute_difference": 0.0
+    },
+    {
+      "sheet": "07_连续称重",
+      "cell": "H25",
+      "raw": "96.15",
+      "approved_copy": "96.15000000000001",
+      "absolute_difference": 0.0
+    },
+    {
+      "sheet": "07_连续称重",
+      "cell": "I25",
+      "raw": "96.15",
+      "approved_copy": "96.15000000000001",
+      "absolute_difference": 0.0
+    },
+    {
+      "sheet": "07_连续称重",
+      "cell": "H26",
+      "raw": "96.15",
+      "approved_copy": "96.15000000000001",
+      "absolute_difference": 0.0
+    },
+    {
+      "sheet": "07_连续称重",
+      "cell": "I26",
+      "raw": "94.79",
+      "approved_copy": "94.79000000000001",
+      "absolute_difference": 0.0
+    },
+    {
+      "sheet": "07_连续称重",
+      "cell": "H27",
+      "raw": "96.15",
+      "approved_copy": "96.15000000000001",
+      "absolute_difference": 0.0
+    },
+    {
+      "sheet": "07_连续称重",
+      "cell": "H28",
+      "raw": "96.15",
+      "approved_copy": "96.15000000000001",
+      "absolute_difference": 0.0
+    },
+    {
+      "sheet": "07_连续称重",
+      "cell": "I28",
+      "raw": "90.74",
+      "approved_copy": "90.73999999999999",
+      "absolute_difference": 0.0
+    },
+    {
+      "sheet": "07_连续称重",
+      "cell": "H29",
+      "raw": "96.15",
+      "approved_copy": "96.15000000000001",
+      "absolute_difference": 0.0
+    },
+    {
+      "sheet": "07_连续称重",
+      "cell": "I39",
+      "raw": "74.93",
+      "approved_copy": "74.93000000000001",
+      "absolute_difference": 0.0
+    },
+    {
+      "sheet": "07_连续称重",
+      "cell": "H40",
+      "raw": "89.43",
+      "approved_copy": "89.43000000000001",
+      "absolute_difference": 0.0
+    },
+    {
+      "sheet": "07_连续称重",
+      "cell": "I40",
+      "raw": "89.43",
+      "approved_copy": "89.43000000000001",
+      "absolute_difference": 0.0
+    },
+    {
+      "sheet": "07_连续称重",
+      "cell": "H41",
+      "raw": "89.43",
+      "approved_copy": "89.43000000000001",
+      "absolute_difference": 0.0
+    },
+    {
+      "sheet": "07_连续称重",
+      "cell": "H42",
+      "raw": "89.43",
+      "approved_copy": "89.43000000000001",
+      "absolute_difference": 0.0
+    },
+    {
+      "sheet": "07_连续称重",
+      "cell": "I42",
+      "raw": "87.24",
+      "approved_copy": "87.23999999999999",
+      "absolute_difference": 0.0
+    },
+    {
+      "sheet": "07_连续称重",
+      "cell": "H43",
+      "raw": "89.43",
+      "approved_copy": "89.43000000000001",
+      "absolute_difference": 0.0
+    },
+    {
+      "sheet": "07_连续称重",
+      "cell": "H44",
+      "raw": "89.43",
+      "approved_copy": "89.43000000000001",
+      "absolute_difference": 0.0
+    },
+    {
+      "sheet": "07_连续称重",
+      "cell": "H45",
+      "raw": "92.68",
+      "approved_copy": "92.68000000000001",
+      "absolute_difference": 0.0
+    },
+    {
+      "sheet": "07_连续称重",
+      "cell": "I45",
+      "raw": "92.68",
+      "approved_copy": "92.68000000000001",
+      "absolute_difference": 0.0
+    },
+    {
+      "sheet": "07_连续称重",
+      "cell": "H46",
+      "raw": "92.68",
+      "approved_copy": "92.68000000000001",
+      "absolute_difference": 0.0
+    },
+    {
+      "sheet": "07_连续称重",
+      "cell": "H47",
+      "raw": "92.68",
+      "approved_copy": "92.68000000000001",
+      "absolute_difference": 0.0
+    },
+    {
+      "sheet": "07_连续称重",
+      "cell": "H48",
+      "raw": "92.68",
+      "approved_copy": "92.68000000000001",
+      "absolute_difference": 0.0
+    },
+    {
+      "sheet": "07_连续称重",
+      "cell": "I48",
+      "raw": "89.57",
+      "approved_copy": "89.56999999999999",
+      "absolute_difference": 0.0
+    },
+    {
+      "sheet": "07_连续称重",
+      "cell": "H49",
+      "raw": "92.68",
+      "approved_copy": "92.68000000000001",
+      "absolute_difference": 0.0
+    },
+    {
+      "sheet": "07_连续称重",
+      "cell": "I49",
+      "raw": "87.9",
+      "approved_copy": "87.90000000000001",
+      "absolute_difference": 0.0
+    },
+    {
+      "sheet": "07_连续称重",
+      "cell": "H50",
+      "raw": "91.65",
+      "approved_copy": "91.65000000000001",
+      "absolute_difference": 0.0
+    },
+    {
+      "sheet": "07_连续称重",
+      "cell": "I50",
+      "raw": "91.65",
+      "approved_copy": "91.65000000000001",
+      "absolute_difference": 0.0
+    },
+    {
+      "sheet": "07_连续称重",
+      "cell": "H51",
+      "raw": "91.65",
+      "approved_copy": "91.65000000000001",
+      "absolute_difference": 0.0
+    },
+    {
+      "sheet": "07_连续称重",
+      "cell": "H52",
+      "raw": "91.65",
+      "approved_copy": "91.65000000000001",
+      "absolute_difference": 0.0
+    },
+    {
+      "sheet": "07_连续称重",
+      "cell": "H53",
+      "raw": "91.65",
+      "approved_copy": "91.65000000000001",
+      "absolute_difference": 0.0
+    },
+    {
+      "sheet": "07_连续称重",
+      "cell": "H54",
+      "raw": "91.65",
+      "approved_copy": "91.65000000000001",
+      "absolute_difference": 0.0
+    },
+    {
+      "sheet": "07_连续称重",
+      "cell": "I61",
+      "raw": "86.79",
+      "approved_copy": "86.79000000000001",
+      "absolute_difference": 0.0
+    },
+    {
+      "sheet": "07_连续称重",
+      "cell": "I62",
+      "raw": "85.21",
+      "approved_copy": "85.20999999999999",
+      "absolute_difference": 0.0
+    },
+    {
+      "sheet": "07_连续称重",
+      "cell": "I66",
+      "raw": "96.71",
+      "approved_copy": "96.70999999999999",
+      "absolute_difference": 0.0
+    },
+    {
+      "sheet": "07_连续称重",
+      "cell": "I71",
+      "raw": "86.82",
+      "approved_copy": "86.81999999999999",
+      "absolute_difference": 0.0
+    },
+    {
+      "sheet": "07_连续称重",
+      "cell": "H80",
+      "raw": "88.57",
+      "approved_copy": "88.56999999999999",
+      "absolute_difference": 0.0
+    },
+    {
+      "sheet": "07_连续称重",
+      "cell": "I80",
+      "raw": "88.57",
+      "approved_copy": "88.56999999999999",
+      "absolute_difference": 0.0
+    },
+    {
+      "sheet": "07_连续称重",
+      "cell": "H81",
+      "raw": "88.57",
+      "approved_copy": "88.56999999999999",
+      "absolute_difference": 0.0
+    },
+    {
+      "sheet": "07_连续称重",
+      "cell": "H82",
+      "raw": "88.57",
+      "approved_copy": "88.56999999999999",
+      "absolute_difference": 0.0
+    },
+    {
+      "sheet": "07_连续称重",
+      "cell": "I82",
+      "raw": "85.99",
+      "approved_copy": "85.98999999999999",
+      "absolute_difference": 0.0
+    },
+    {
+      "sheet": "07_连续称重",
+      "cell": "H83",
+      "raw": "88.57",
+      "approved_copy": "88.56999999999999",
+      "absolute_difference": 0.0
+    },
+    {
+      "sheet": "07_连续称重",
+      "cell": "H84",
+      "raw": "88.57",
+      "approved_copy": "88.56999999999999",
+      "absolute_difference": 0.0
+    },
+    {
+      "sheet": "07_连续称重",
+      "cell": "I86",
+      "raw": "90.99",
+      "approved_copy": "90.98999999999999",
+      "absolute_difference": 0.0
+    },
+    {
+      "sheet": "07_连续称重",
+      "cell": "I87",
+      "raw": "89.18",
+      "approved_copy": "89.18000000000001",
+      "absolute_difference": 0.0
+    },
+    {
+      "sheet": "07_连续称重",
+      "cell": "I89",
+      "raw": "83.85",
+      "approved_copy": "83.84999999999999",
+      "absolute_difference": 0.0
+    },
+    {
+      "sheet": "07_连续称重",
+      "cell": "I93",
+      "raw": "94.82",
+      "approved_copy": "94.81999999999999",
+      "absolute_difference": 0.0
+    },
+    {
+      "sheet": "07_连续称重",
+      "cell": "I98",
+      "raw": "82.43",
+      "approved_copy": "82.43000000000001",
+      "absolute_difference": 0.0
+    },
+    {
+      "sheet": "07_连续称重",
+      "cell": "I99",
+      "raw": "80.99",
+      "approved_copy": "80.98999999999999",
+      "absolute_difference": 0.0
+    },
+    {
+      "sheet": "07_连续称重",
+      "cell": "H100",
+      "raw": "90.93",
+      "approved_copy": "90.93000000000001",
+      "absolute_difference": 0.0
+    },
+    {
+      "sheet": "07_连续称重",
+      "cell": "I100",
+      "raw": "90.93",
+      "approved_copy": "90.93000000000001",
+      "absolute_difference": 0.0
+    },
+    {
+      "sheet": "07_连续称重",
+      "cell": "H101",
+      "raw": "90.93",
+      "approved_copy": "90.93000000000001",
+      "absolute_difference": 0.0
+    },
+    {
+      "sheet": "07_连续称重",
+      "cell": "I101",
+      "raw": "89.46",
+      "approved_copy": "89.45999999999999",
+      "absolute_difference": 0.0
+    },
+    {
+      "sheet": "07_连续称重",
+      "cell": "H102",
+      "raw": "90.93",
+      "approved_copy": "90.93000000000001",
+      "absolute_difference": 0.0
+    },
+    {
+      "sheet": "07_连续称重",
+      "cell": "H103",
+      "raw": "90.93",
+      "approved_copy": "90.93000000000001",
+      "absolute_difference": 0.0
+    },
+    {
+      "sheet": "07_连续称重",
+      "cell": "H104",
+      "raw": "90.93",
+      "approved_copy": "90.93000000000001",
+      "absolute_difference": 0.0
+    },
+    {
+      "sheet": "07_连续称重",
+      "cell": "I109",
+      "raw": "75.4",
+      "approved_copy": "75.40000000000001",
+      "absolute_difference": 0.0
+    },
+    {
+      "sheet": "07_连续称重",
+      "cell": "I113",
+      "raw": "90.24",
+      "approved_copy": "90.23999999999999",
+      "absolute_difference": 0.0
+    },
+    {
+      "sheet": "07_连续称重",
+      "cell": "H115",
+      "raw": "97.51",
+      "approved_copy": "97.51000000000001",
+      "absolute_difference": 0.0
+    },
+    {
+      "sheet": "07_连续称重",
+      "cell": "I115",
+      "raw": "97.51",
+      "approved_copy": "97.51000000000001",
+      "absolute_difference": 0.0
+    },
+    {
+      "sheet": "07_连续称重",
+      "cell": "H116",
+      "raw": "97.51",
+      "approved_copy": "97.51000000000001",
+      "absolute_difference": 0.0
+    },
+    {
+      "sheet": "07_连续称重",
+      "cell": "H117",
+      "raw": "97.51",
+      "approved_copy": "97.51000000000001",
+      "absolute_difference": 0.0
+    },
+    {
+      "sheet": "07_连续称重",
+      "cell": "H118",
+      "raw": "97.51",
+      "approved_copy": "97.51000000000001",
+      "absolute_difference": 0.0
+    },
+    {
+      "sheet": "07_连续称重",
+      "cell": "H119",
+      "raw": "97.51",
+      "approved_copy": "97.51000000000001",
+      "absolute_difference": 0.0
+    },
+    {
+      "sheet": "07_连续称重",
+      "cell": "H120",
+      "raw": "97.74",
+      "approved_copy": "97.73999999999999",
+      "absolute_difference": 0.0
+    },
+    {
+      "sheet": "07_连续称重",
+      "cell": "I120",
+      "raw": "97.74",
+      "approved_copy": "97.73999999999999",
+      "absolute_difference": 0.0
+    },
+    {
+      "sheet": "07_连续称重",
+      "cell": "H121",
+      "raw": "97.74",
+      "approved_copy": "97.73999999999999",
+      "absolute_difference": 0.0
+    },
+    {
+      "sheet": "07_连续称重",
+      "cell": "I121",
+      "raw": "95.85",
+      "approved_copy": "95.84999999999999",
+      "absolute_difference": 0.0
+    },
+    {
+      "sheet": "07_连续称重",
+      "cell": "H122",
+      "raw": "97.74",
+      "approved_copy": "97.73999999999999",
+      "absolute_difference": 0.0
+    },
+    {
+      "sheet": "07_连续称重",
+      "cell": "I122",
+      "raw": "94.07",
+      "approved_copy": "94.06999999999999",
+      "absolute_difference": 0.0
+    },
+    {
+      "sheet": "07_连续称重",
+      "cell": "H123",
+      "raw": "97.74",
+      "approved_copy": "97.73999999999999",
+      "absolute_difference": 0.0
+    },
+    {
+      "sheet": "07_连续称重",
+      "cell": "H124",
+      "raw": "97.74",
+      "approved_copy": "97.73999999999999",
+      "absolute_difference": 0.0
+    },
+    {
+      "sheet": "07_连续称重",
+      "cell": "I127",
+      "raw": "85.82",
+      "approved_copy": "85.81999999999999",
+      "absolute_difference": 0.0
+    },
+    {
+      "sheet": "07_连续称重",
+      "cell": "I136",
+      "raw": "94.54",
+      "approved_copy": "94.54000000000001",
+      "absolute_difference": 0.0
+    },
+    {
+      "sheet": "07_连续称重",
+      "cell": "I138",
+      "raw": "90.49",
+      "approved_copy": "90.48999999999999",
+      "absolute_difference": 0.0
+    },
+    {
+      "sheet": "09_品质检测",
+      "cell": "I5",
+      "raw": "9.45",
+      "approved_copy": "9.449999999999999",
+      "absolute_difference": 0.0
+    },
+    {
+      "sheet": "09_品质检测",
+      "cell": "I12",
+      "raw": "9.28",
+      "approved_copy": "9.279999999999999",
+      "absolute_difference": 0.0
+    },
+    {
+      "sheet": "09_品质检测",
+      "cell": "I16",
+      "raw": "8.3",
+      "approved_copy": "8.300000000000001",
+      "absolute_difference": 0.0
+    },
+    {
+      "sheet": "09_品质检测",
+      "cell": "I28",
+      "raw": "8.2",
+      "approved_copy": "8.199999999999999",
+      "absolute_difference": 0.0
+    },
+    {
+      "sheet": "09_品质检测",
+      "cell": "I33",
+      "raw": "9.21",
+      "approved_copy": "9.210000000000001",
+      "absolute_difference": 0.0
+    },
+    {
+      "sheet": "09_品质检测",
+      "cell": "I36",
+      "raw": "9.36",
+      "approved_copy": "9.359999999999999",
+      "absolute_difference": 0.0
+    },
+    {
+      "sheet": "09_品质检测",
+      "cell": "I58",
+      "raw": "8.8",
+      "approved_copy": "8.800000000000001",
+      "absolute_difference": 0.0
+    },
+    {
+      "sheet": "09_品质检测",
+      "cell": "I59",
+      "raw": "9.79",
+      "approved_copy": "9.789999999999999",
+      "absolute_difference": 0.0
+    },
+    {
+      "sheet": "09_品质检测",
+      "cell": "I60",
+      "raw": "9.53",
+      "approved_copy": "9.529999999999999",
+      "absolute_difference": 0.0
+    },
+    {
+      "sheet": "09_品质检测",
+      "cell": "I65",
+      "raw": "9.46",
+      "approved_copy": "9.460000000000001",
+      "absolute_difference": 0.0
+    },
+    {
+      "sheet": "09_品质检测",
+      "cell": "I86",
+      "raw": "9.28",
+      "approved_copy": "9.279999999999999",
+      "absolute_difference": 0.0
+    },
+    {
+      "sheet": "09_品质检测",
+      "cell": "I87",
+      "raw": "9.8",
+      "approved_copy": "9.800000000000001",
+      "absolute_difference": 0.0
+    },
+    {
+      "sheet": "09_品质检测",
+      "cell": "I90",
+      "raw": "9.53",
+      "approved_copy": "9.529999999999999",
+      "absolute_difference": 0.0
+    },
+    {
+      "sheet": "09_品质检测",
+      "cell": "I100",
+      "raw": "9.2",
+      "approved_copy": "9.199999999999999",
+      "absolute_difference": 0.0
+    },
+    {
+      "sheet": "09_品质检测",
+      "cell": "I102",
+      "raw": "8.11",
+      "approved_copy": "8.109999999999999",
+      "absolute_difference": 0.0
+    },
+    {
+      "sheet": "09_品质检测",
+      "cell": "I106",
+      "raw": "9.2",
+      "approved_copy": "9.199999999999999",
+      "absolute_difference": 0.0
+    },
+    {
+      "sheet": "09_品质检测",
+      "cell": "I113",
+      "raw": "8.78",
+      "approved_copy": "8.779999999999999",
+      "absolute_difference": 0.0
+    },
+    {
+      "sheet": "09_品质检测",
+      "cell": "I121",
+      "raw": "8.2",
+      "approved_copy": "8.199999999999999",
+      "absolute_difference": 0.0
+    },
+    {
+      "sheet": "09_品质检测",
+      "cell": "I127",
+      "raw": "8.7",
+      "approved_copy": "8.699999999999999",
+      "absolute_difference": 0.0
+    },
+    {
+      "sheet": "09_品质检测",
+      "cell": "I139",
+      "raw": "8.3",
+      "approved_copy": "8.300000000000001",
+      "absolute_difference": 0.0
+    },
+    {
+      "sheet": "09_品质检测",
+      "cell": "I141",
+      "raw": "9.95",
+      "approved_copy": "9.949999999999999",
+      "absolute_difference": 0.0
+    },
+    {
+      "sheet": "09_品质检测",
+      "cell": "I147",
+      "raw": "9.63",
+      "approved_copy": "9.630000000000001",
+      "absolute_difference": 0.0
+    },
+    {
+      "sheet": "09_品质检测",
+      "cell": "I154",
+      "raw": "8.3",
+      "approved_copy": "8.300000000000001",
+      "absolute_difference": 0.0
+    },
+    {
+      "sheet": "09_品质检测",
+      "cell": "I168",
+      "raw": "9.29",
+      "approved_copy": "9.289999999999999",
+      "absolute_difference": 0.0
+    },
+    {
+      "sheet": "09_品质检测",
+      "cell": "I170",
+      "raw": "8.28",
+      "approved_copy": "8.279999999999999",
+      "absolute_difference": 0.0
+    },
+    {
+      "sheet": "09_品质检测",
+      "cell": "I173",
+      "raw": "9.7",
+      "approved_copy": "9.699999999999999",
+      "absolute_difference": 0.0
+    },
+    {
+      "sheet": "09_品质检测",
+      "cell": "I178",
+      "raw": "8.3",
+      "approved_copy": "8.300000000000001",
+      "absolute_difference": 0.0
+    },
+    {
+      "sheet": "09_品质检测",
+      "cell": "I181",
+      "raw": "8.2",
+      "approved_copy": "8.199999999999999",
+      "absolute_difference": 0.0
+    },
+    {
+      "sheet": "09_品质检测",
+      "cell": "I184",
+      "raw": "8.8",
+      "approved_copy": "8.800000000000001",
+      "absolute_difference": 0.0
+    },
+    {
+      "sheet": "09_品质检测",
+      "cell": "I187",
+      "raw": "8.7",
+      "approved_copy": "8.699999999999999",
+      "absolute_difference": 0.0
+    },
+    {
+      "sheet": "09_品质检测",
+      "cell": "I197",
+      "raw": "9.71",
+      "approved_copy": "9.710000000000001",
+      "absolute_difference": 0.0
+    },
+    {
+      "sheet": "09_品质检测",
+      "cell": "I198",
+      "raw": "9.97",
+      "approved_copy": "9.970000000000001",
+      "absolute_difference": 0.0
+    },
+    {
+      "sheet": "09_品质检测",
+      "cell": "I203",
+      "raw": "8.21",
+      "approved_copy": "8.210000000000001",
+      "absolute_difference": 0.0
+    },
+    {
+      "sheet": "09_品质检测",
+      "cell": "I205",
+      "raw": "9.7",
+      "approved_copy": "9.699999999999999",
+      "absolute_difference": 0.0
+    },
+    {
+      "sheet": "09_品质检测",
+      "cell": "I208",
+      "raw": "8.2",
+      "approved_copy": "8.199999999999999",
+      "absolute_difference": 0.0
+    },
+    {
+      "sheet": "09_品质检测",
+      "cell": "I214",
+      "raw": "8.7",
+      "approved_copy": "8.699999999999999",
+      "absolute_difference": 0.0
+    },
+    {
+      "sheet": "09_品质检测",
+      "cell": "I220",
+      "raw": "8.3",
+      "approved_copy": "8.300000000000001",
+      "absolute_difference": 0.0
+    },
+    {
+      "sheet": "09_品质检测",
+      "cell": "I225",
+      "raw": "8.3",
+      "approved_copy": "8.300000000000001",
+      "absolute_difference": 0.0
+    },
+    {
+      "sheet": "09_品质检测",
+      "cell": "I232",
+      "raw": "8.7",
+      "approved_copy": "8.699999999999999",
+      "absolute_difference": 0.0
+    },
+    {
+      "sheet": "09_品质检测",
+      "cell": "I238",
+      "raw": "8.7",
+      "approved_copy": "8.699999999999999",
+      "absolute_difference": 0.0
+    },
+    {
+      "sheet": "10_环境监测",
+      "cell": "E5",
+      "raw": "78.4",
+      "approved_copy": "78.40000000000001",
+      "absolute_difference": 0.0
+    },
+    {
+      "sheet": "10_环境监测",
+      "cell": "E7",
+      "raw": "71.4",
+      "approved_copy": "71.40000000000001",
+      "absolute_difference": 0.0
+    },
+    {
+      "sheet": "10_环境监测",
+      "cell": "E9",
+      "raw": "76.9",
+      "approved_copy": "76.90000000000001",
+      "absolute_difference": 0.0
+    },
+    {
+      "sheet": "10_环境监测",
+      "cell": "E11",
+      "raw": "71.1",
+      "approved_copy": "71.09999999999999",
+      "absolute_difference": 0.0
+    },
+    {
+      "sheet": "10_环境监测",
+      "cell": "E13",
+      "raw": "78.1",
+      "approved_copy": "78.09999999999999",
+      "absolute_difference": 0.0
+    },
+    {
+      "sheet": "10_环境监测",
+      "cell": "E16",
+      "raw": "78.4",
+      "approved_copy": "78.40000000000001",
+      "absolute_difference": 0.0
+    },
+    {
+      "sheet": "10_环境监测",
+      "cell": "E20",
+      "raw": "71.6",
+      "approved_copy": "71.59999999999999",
+      "absolute_difference": 0.0
+    },
+    {
+      "sheet": "10_环境监测",
+      "cell": "E21",
+      "raw": "73.1",
+      "approved_copy": "73.09999999999999",
+      "absolute_difference": 0.0
+    },
+    {
+      "sheet": "10_环境监测",
+      "cell": "E22",
+      "raw": "67.1",
+      "approved_copy": "67.09999999999999",
+      "absolute_difference": 0.0
+    },
+    {
+      "sheet": "10_环境监测",
+      "cell": "E24",
+      "raw": "76.6",
+      "approved_copy": "76.59999999999999",
+      "absolute_difference": 0.0
+    },
+    {
+      "sheet": "10_环境监测",
+      "cell": "E25",
+      "raw": "67.9",
+      "approved_copy": "67.90000000000001",
+      "absolute_difference": 0.0
+    },
+    {
+      "sheet": "10_环境监测",
+      "cell": "E31",
+      "raw": "75.9",
+      "approved_copy": "75.90000000000001",
+      "absolute_difference": 0.0
+    },
+    {
+      "sheet": "10_环境监测",
+      "cell": "E34",
+      "raw": "77.9",
+      "approved_copy": "77.90000000000001",
+      "absolute_difference": 0.0
+    }
+  ],
+  "environment_values_compared": 60,
+  "auxiliary_sheet_18_opened": false,
+  "embedded_image_hashes": [
+    "fe948a8073cf4cd11984e7650d7eb8731ea57659eb799244ed3280eb5c7ea298",
+    "6b5799c044c7a43d1f281e0cb47b1240d398684c83b5b6a002a1d3cc0ec3faad",
+    "2827bf1b36b108159b2a6d45c036fcde18f2ca0d288ac2e008861f5dcb047ee9",
+    "86ebb2699c543c70a4d4af6ee1fbb1e2bb48c448ce4a02f2ddeda3a77babda3b",
+    "cc843b43aa05efb78bdad998f924d9282114d12577ab01b6f1e7fb656d0a3b25",
+    "bd3baadd304088c790f8dcd3d52930032ba44ee3597c3ba53d65de43b9098cce"
+  ],
+  "unchanged_math_objects": 16,
+  "pdf_pages": 44,
+  "blank_pages": [
+    2,
+    4
+  ],
+  "table3_1_physical_page": 24,
+  "toc_entries": 41,
+  "acknowledgements_han": 186,
+  "docx_sha256": "5a6d9f42a3a27b2c8349584070dfce8dc1334877814e8578f9c78f24f7ded66c",
+  "pdf_sha256": "8d9b471671915aa6eb3c63d05bbbda364529d61c1d83c31265b21921268d91ae"
+}

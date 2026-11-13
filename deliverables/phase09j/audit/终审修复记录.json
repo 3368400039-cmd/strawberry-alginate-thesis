@@ -1,0 +1,36 @@
+{
+  "第2章_材料与方法_最终修订稿.md": {
+    "frozen_sha256": "c3a6ff432cda0636858f87d5159d1bed711e0cea5d854310589e8e52e9e33b97",
+    "final_sha256": "c3a6ff432cda0636858f87d5159d1bed711e0cea5d854310589e8e52e9e33b97",
+    "changed_after_review": false
+  },
+  "结论_最终修订稿.md": {
+    "frozen_sha256": "d8b5dcf2b60b6dc1184a822573b0f5c8832fac6eeb08b4cfb07c2fce0e029513",
+    "final_sha256": "cab1d1de884a8e1ff145ac5d2d6c1140c622753cbce30946691f5eaa2cba9eff",
+    "changed_after_review": true,
+    "review_repair_diff": "--- 首轮冻结/结论_最终修订稿.md\n+++ 修复后/结论_最终修订稿.md\n@@ -2,3 +2,3 @@\n \n-在本研究的四天常温观察窗口内，三种双步处理呈现不同的品质表现。三组失重率均随贮藏日升高，SA-Ca的终点失重率低于Ca而高于CK；Ca累计腐烂比例最低，SA-Ca可测果的表观硬度均值最高，CK的TSS均值最高。各项结果没有形成某组全面占优的排序。\n+在本研究的四天常温观察窗口内，三种双步处理呈现不同的品质表现。三组失重率均随贮藏日升高，SA-Ca的终点失重率低于Ca而高于CK；同期Ca累计腐烂比例最低，SA-Ca可测果的表观硬度均值最高，CK的TSS均值最高。各项结果没有形成某组全面占优的排序。\n \n"
+  },
+  "第1章_绪论_最终修订稿.md": {
+    "frozen_sha256": "cd3b08c2cc402a1780de4938334d79fd27210c52e57d0e7874c91eaa7e5e3696",
+    "final_sha256": "29a0c53d684d7347b574dd22532ce61c364a3aecdd4e411517048446adc8e9c6",
+    "changed_after_review": true,
+    "review_repair_diff": "--- 首轮冻结/第1章_绪论_最终修订稿.md\n+++ 修复后/第1章_绪论_最终修订稿.md\n@@ -14,3 +14,3 @@\n \n-可食性涂膜为调节果实表面与外界接触条件提供了一种研究途径。海藻酸钠具有成膜和凝胶化应用基础，但完整草莓试验也有处理后失水增加的报告[3]。本研究关注的具体问题是：给定海藻酸钠与钙液处理流程，在完整草莓短期常温贮藏中如何影响不同品质指标的表现？通过同一设计下的并列观察，可以识别各指标的比较方向，为评价具体流程提供依据。\n+可食性涂膜为调节果实表面与外界接触条件提供了一种研究途径。海藻酸钠具有成膜和凝胶化应用基础，但完整草莓试验也有处理后失水增加的报告[3]。本研究关注的具体问题是：给定海藻酸钠与钙液处理流程，在完整草莓短期常温贮藏中呈现哪些品质变化，各指标的比较方向是否一致？通过同一设计下的并列观察，可以识别各指标的比较方向，为评价具体流程提供依据。\n \n"
+  },
+  "第3章_结果与分析_最终修订稿.md": {
+    "frozen_sha256": "dde7c839f0782d696cab64d7cd387cfa0c6661e8c104bb82a82255d0635df021",
+    "final_sha256": "dde7c839f0782d696cab64d7cd387cfa0c6661e8c104bb82a82255d0635df021",
+    "changed_after_review": false
+  },
+  "第4章_讨论_最终修订稿.md": {
+    "frozen_sha256": "ed7fef2cc46ee6eb4964ab8935fc0c5f31dcf7e82b9198a98e831d0a72a1c2d5",
+    "final_sha256": "73e10c06bd16decde8d51f305c6431190fbc89b65b672d292a230e488a9dc193",
+    "changed_after_review": true,
+    "review_repair_diff": "--- 首轮冻结/第4章_讨论_最终修订稿.md\n+++ 修复后/第4章_讨论_最终修订稿.md\n@@ -20,3 +20,5 @@\n \n-材料性能同样需要与应用终点分层评价。魔芋葡甘聚糖/海藻酸钠/脂肪酸独立膜的水蒸气透过率和水溶性随添加量变化并非持续改善[7]。果面涂层还涉及均匀性和局部接触状态。果实品质与独立膜性能是两类评价结果。Niam等将硬度、TSS、失重、pH及色差纳入预设质量函数，再结合机器学习进行配方优化；其表5所列最优配方表现属于模型优化输出[10]。这类综合评价依赖目标、权重和预测模型。本研究四指标量纲及含义不同，未预设综合权重、评分函数和品质接受阈值，因此采用多指标描述比较，不进行总体最优排名。\n+材料性能同样需要与应用终点分层评价。魔芋葡甘聚糖/海藻酸钠/脂肪酸独立膜的水蒸气透过率和水溶性随添加量变化并非持续改善[7]。果面涂层还涉及均匀性和局部接触状态。果实品质与独立膜性能是两类评价结果。\n+\n+综合评价还依赖明确的目标函数。Niam等将硬度、TSS、失重、pH及色差纳入预设质量函数，再结合机器学习进行配方优化；其表5所列最优配方表现属于模型优化输出[10]。这类综合评价依赖目标、权重和预测模型。本研究四指标量纲及含义不同，未预设综合权重、评分函数和品质接受阈值，因此采用多指标描述比较，不进行总体最优排名。\n \n@@ -36,3 +38,3 @@\n \n-复合材料的硬度及腐烂结果还带有附加组分背景。王清等用海藻酸钠、壳聚糖和纳米硒独立膜覆盖草莓，海藻酸钠与壳聚糖质量比1∶2的配方呈现较缓硬度下降及较低腐烂比例[19]。其温湿度未明确，硬度以kg/cm²形式报告，失重公式亦有疑点，本文仅比较已核实的硬度和腐烂方向。陈顺心等的葡萄封瓶研究中，海藻酸钠—壳聚糖—茶末膜的失重高于保鲜膜和封口膜，后期腐烂比例却较低[20]。该文的初始腐烂状态和重复结构仍有限制，适合作为指标表现不一致的补充例证。这些跨配方或跨物种结果均不用于判定本研究的最优处理。\n+复合材料的硬度及腐烂结果还带有附加组分背景。王清等用海藻酸钠、壳聚糖和纳米硒独立膜覆盖草莓，海藻酸钠与壳聚糖质量比1∶2的配方呈现较缓硬度下降及较低腐烂比例[19]。其温湿度未明确，硬度以kg/cm²形式报告，失重公式亦有疑点，本文的对照限于硬度与腐烂的变化方向。陈顺心等的葡萄封瓶研究中，海藻酸钠—壳聚糖—茶末膜的失重高于保鲜膜和封口膜，后期腐烂比例却较低[20]。该文的初始腐烂状态和重复结构仍有限制，适合作为指标表现不一致的补充例证。这些跨配方或跨物种结果均不用于判定本研究的最优处理。\n \n"
+  },
+  "摘要_中英文.md": {
+    "frozen_sha256": "2e22c22ada718dd9087a34d46fe5ab54bc941483f56a0f6f31dac685f338e375",
+    "final_sha256": "a9989550207600e7ecb1679eba2a7e0bc10afa90de21bd46aa4a71cf1a3f8710",
+    "changed_after_review": true,
+    "review_repair_diff": "--- 首轮冻结/摘要_中英文.md\n+++ 修复后/摘要_中英文.md\n@@ -2,5 +2,5 @@\n \n-为比较不同双步浸渍流程在完整草莓短期常温贮藏中的品质表现，本研究设置水处理CK、钙处理Ca和海藻酸钠—钙处理SA-Ca，开展三个日期批次的四天观察。连续观察队列记录失重及累计腐烂，破坏性取样队列测定表观硬度和可溶性固形物（TSS），以容器为主要层级进行描述统计。\n+为比较不同双步浸渍流程在完整草莓短期常温贮藏中的品质表现，本研究设置水处理CK、氯化钙处理Ca和海藻酸钠—氯化钙处理SA-Ca，开展三个日期批次的四天观察。连续观察队列记录失重及累计腐烂，破坏性取样队列测定表观硬度和可溶性固形物（TSS），以容器为主要层级进行描述统计。\n \n-三组失重率均随贮藏日升高。终点SA-Ca失重率为7.725%，高于CK的7.315%，但低于Ca；Ca累计腐烂比例最低，SA-Ca可测果的表观硬度均值最高，CK的TSS均值最高。TSS由起点至第2天均升高，此后近于平台。部分组间差在不同日期批次中的方向不一致。\n+三组失重率均随贮藏日升高。终点SA-Ca失重率为7.725%，高于CK的7.315%，但低于Ca；同期Ca累计腐烂比例最低，SA-Ca可测果的表观硬度均值最高，CK的TSS均值最高。TSS由起点至第2天均升高，此后Ca均值不变，CK和SA-Ca略升。部分组间差在不同日期批次中的方向不一致。\n \n@@ -12,5 +12,5 @@\n \n-This study compared three two-step dipping procedures for whole strawberries during short-term ambient storage: water treatment (CK), calcium treatment (Ca), and sodium alginate followed by calcium treatment (SA-Ca). Three date batches were observed for four days. A continuous-observation cohort was used for mass loss and cumulative decay, while different fruits were sampled destructively for apparent firmness and total soluble solids (TSS). Descriptive statistics were calculated primarily at the container level.\n+This study compared three two-step dipping procedures for whole strawberries during short-term ambient storage: water treatment (CK), calcium chloride treatment (Ca), and sodium alginate followed by calcium chloride treatment (SA-Ca). Three date batches were observed for four days. A continuous-observation cohort was used for mass loss and cumulative decay, while different fruits were sampled destructively for apparent firmness and total soluble solids (TSS). Descriptive statistics were calculated primarily at the container level.\n \n-Mean mass loss increased in all groups. Final mean mass loss in SA-Ca was 7.725%, higher than the 7.315% recorded for CK but lower than that in Ca. Ca had the lowest final cumulative decay proportion, SA-Ca had the highest final mean apparent firmness among measurable fruits, and CK had the highest final mean TSS. TSS increased from the initial sampling to day 2 and then approached a plateau. Some between-group contrasts changed direction across date batches.\n+Mean mass loss increased in all groups. Final mean mass loss in SA-Ca was 7.725%, higher than the 7.315% recorded for CK but lower than that in Ca. Ca had the lowest final cumulative decay proportion, SA-Ca had the highest final mean apparent firmness among measurable fruits, and CK had the highest final mean TSS. TSS increased from the initial sampling to day 2; thereafter, the Ca group mean remained unchanged, while CK and SA-Ca increased slightly. Some between-group contrasts changed direction across date batches.\n \n"
+  }
+}

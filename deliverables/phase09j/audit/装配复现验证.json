@@ -1,0 +1,6 @@
+{
+  "check": "PASS",
+  "method": "Ran build_docx.py in a temporary copy with only output path and repository root fixed; compared every DOCX package part byte for byte. ZIP timestamps not compared.",
+  "all_package_parts_equal": true,
+  "docx_sha256": "c4dbfa4864514b52bba2e7db83e36d422b15b15e2a532d4fed1cd99ed7a3ca2a"
+}

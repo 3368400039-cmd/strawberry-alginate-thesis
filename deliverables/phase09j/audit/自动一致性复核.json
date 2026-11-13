@@ -1,0 +1,29 @@
+{
+  "checks": "PASS: artifact consistency only; not external scientific or Microsoft Word acceptance",
+  "protected_inputs": 232,
+  "summary_combinations": 48,
+  "main_table_rows": 24,
+  "batch_table_rows": 8,
+  "appendix_rows": 24,
+  "embedded_approved_figures": [
+    "analysis/phase09b/figures/P09B_F01_失重率.png",
+    "analysis/phase09b/figures/P09B_F02_累计腐烂.png",
+    "analysis/phase09b/figures/P09B_F03_表观硬度.png",
+    "analysis/phase09b/figures/P09B_F04_TSS.png",
+    "analysis/phase09b/figures/P09B_F05_批次差异.png",
+    "analysis/phase09b/figures/P09B_F06_温湿度.png"
+  ],
+  "pdf_pages": 45,
+  "toc_entries": 41,
+  "different_cited_identities": 20,
+  "narrative_han_by_chapter": [
+    3715,
+    2549,
+    1493,
+    3667,
+    374
+  ],
+  "docx_sha256": "c4dbfa4864514b52bba2e7db83e36d422b15b15e2a532d4fed1cd99ed7a3ca2a",
+  "pdf_sha256": "6b222e1a6d7bd102f4f6f072f9938419ab5c298a8f1d0258dc9ae8b8aa5a9e08",
+  "no_worksheet_content_read": true
+}

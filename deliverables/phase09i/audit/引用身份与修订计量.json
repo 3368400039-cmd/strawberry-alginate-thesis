@@ -1,0 +1,569 @@
+{
+  "mapping": {
+    "1": 1,
+    "2": 2,
+    "4": 3,
+    "3": 4,
+    "6": 5,
+    "LE24": 6,
+    "5": 7,
+    "LE37": 8,
+    "7": 9,
+    "LE31": 10,
+    "LE34": 11,
+    "9": 12,
+    "8": 13,
+    "LE30": 14,
+    "LE36": 15,
+    "LE38": 16,
+    "LE12": 17,
+    "LE29": 18,
+    "10": 19,
+    "LE35": 20
+  },
+  "bibliography": {
+    "1": "陈妮娜, 曾稍俏. 柚皮果胶-海藻酸钠可食复合膜对草莓的保鲜[J]. 食品科技, 2017, 42(3): 60-64. DOI: 10.13684/j.cnki.spkj.2017.03.015.",
+    "2": "ALHARATY G, RAMASWAMY H S. The Effect of Sodium Alginate-Calcium Chloride Coating on the Quality Parameters and Shelf Life of Strawberry Cut Fruits[J]. Journal of Composites Science, 2020, 4: 123. DOI: 10.3390/jcs4030123.",
+    "3": "SENTURK PARREIDT T, LINDNER M, ROTHKOPF I, SCHMID M, MÜLLER K. The Development of a Uniform Alginate-Based Coating for Cantaloupe and Strawberries and the Characterization of Water Barrier Properties[J]. Foods, 2019, 8: 203. DOI: 10.3390/foods8060203.",
+    "4": "PERETTO G. Post-harvest as a tool to improve berry fruit quality[D]. 博士论文. Università degli Studi di Padova, 2014.",
+    "5": "GAO C, DING Y, LI J, WANG Z, HAN D, XIA Y. Composite Solution of Tea Polyphenols and Sodium Alginate for Coating Preservation of Strawberries[J]. Advance Journal of Food Science and Technology, 2015, 9(8): 651-657. DOI: 10.19026/ajfst.9.1981.",
+    "6": "范鹏, 李宇裕, 黄泽雄, 胡华宇. 空气负离子环境中草莓采后品质的变化[J]. 广西大学学报（自然科学版）, 2026, 51(4): 984-994. DOI: 10.13624/j.cnki.issn.1001-7445.2026.0984.",
+    "7": "汪秀妹, 谢倩芸, 李璐璐, 赵晓旭, 庞杰. 脂肪酸对魔芋葡甘聚糖/海藻酸钠复合膜结构和性质的影响[J]. 中国食品学报, 2026, 26(7): 173-186. DOI: 10.16429/j.1009-7848.2026.07.015.",
+    "8": "王维. 海藻酸钠复合涂膜制备及芒果保鲜效果评价[D]. 硕士论文. 天津科技大学, 2025.",
+    "9": "李勇锋. 茶多糖-海藻酸钠复合涂膜对草莓的保鲜效果研究[J]. 绿色包装, 2024(1): 20-26. DOI: 10.19362/j.cnki.cn10-1400/tb.2024.01.002.",
+    "10": "杨昕妍. 大豆分离蛋白/海藻酸钠复合膜的制备及其果蔬保鲜应用研究[D]. 硕士论文. 南京农业大学, 2024.",
+    "11": "于晴晴, 丁永刚, 宫博, 柳鑫. 桃胶可食性涂膜对草莓保鲜效果的影响[J]. 湖北农业科学, 2024, 63(1): 142-147. DOI: 10.14088/j.cnki.issn0439-8114.2024.01.026.",
+    "12": "朱金花. 海藻酸钠/纳米CaCO₃复合材料涂膜对冷藏草莓风味的影响[D]. 硕士论文. 扬州大学, 2019.",
+    "13": "YAN X, YU Z, CHEN Y, HAN C, WEI Y, YANG F, QIAN Y, WANG Y. Sodium Alginate–Montmorillonite Composite Film Coatings for Strawberry Preservation[J]. Coatings, 2024, 14: 1331. DOI: 10.3390/coatings14101331.",
+    "14": "郝乾坤, 王智民, 童开林. 外源海藻糖对草莓保鲜效果的影响[J]. 陕西农业科学, 2022, 68(8): 84-87.",
+    "15": "鲍若晗, 刘一帆, 孟岳成. 海藻酸钠/ε-聚赖氨酸层层自组装可食膜对蓝莓保鲜效果的研究[J]. 中国食品添加剂, 2023(6): 271-280. DOI: 10.19804/j.issn1006-2513.2023.06.032.",
+    "16": "谢玉花, 农广律, 宋慕波, 张芬, 段振华, 商飞飞. 海藻酸钠复合涂膜对贡柑保鲜效果的影响[J]. 食品工业, 2021, 42(2): 43-47.",
+    "17": "侯秋月. 基于相转变溶菌酶的抑菌薄膜构建及其在草莓保鲜中的应用研究[D]. 硕士论文. 湖北工业大学, 2026.",
+    "18": "任艺彬, 任邦来, 何珍. 不同浓度海藻酸钠处理对杏果实保鲜效果的影响[J]. 陇东学院学报, 2020, 31(2): 103-106.",
+    "19": "王清, 陈秋怡, 雷磊, 孙鹤, 赵艺飞, 朱静, 刘涛. 海藻酸钠/壳聚糖/纳米硒复合膜的制备及其在草莓保鲜中的应用[J]. 食品与发酵工业, 2025, 51(17): 317-325. DOI: 10.13995/j.cnki.11-1802/ts.041356.",
+    "20": "陈顺心, 刘海波, 朱静, 徐楷博, 徐亚强, 陈龙, 陈亚蓝. 海藻酸钠-壳聚糖-茶末复合膜的制备及其对葡萄的保鲜效果[J]. 食品研究与开发, 2024, 45(2): 145-153. DOI: 10.12161/j.issn.1005-6521.2024.02.021."
+  },
+  "names": [
+    "第1章_绪论_精修稿.md",
+    "第2章_材料与方法_精修稿.md",
+    "第3章_结果与分析_精修稿.md",
+    "第4章_讨论_精修稿.md",
+    "结论_精修稿.md"
+  ],
+  "records": [
+    {
+      "number": 1,
+      "source_id": "LE15",
+      "legacy_mark": "1",
+      "bibliography": "陈妮娜, 曾稍俏. 柚皮果胶-海藻酸钠可食复合膜对草莓的保鲜[J]. 食品科技, 2017, 42(3): 60-64. DOI: 10.13684/j.cnki.spkj.2017.03.015.",
+      "pdf_path": "柚皮果胶-海藻酸钠可食复合膜对草莓的保鲜_陈妮娜.pdf",
+      "sha256": "65f17f5af496699859c550b947a7014e8dbe316d88b2ba34336b215f82786271",
+      "physical_pages_checked": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "claim_and_limits": "草莓品质/折光与化学糖方法；包装与膜液对照，5—10℃60%RH，非本实验流程",
+      "body_positions": [
+        "1章 1.1¶1 / chapters/第1章_绪论_精修稿.md:L5",
+        "1章 1.1¶4 / chapters/第1章_绪论_精修稿.md:L11",
+        "1章 1.2.1¶3 / chapters/第1章_绪论_精修稿.md:L25",
+        "1章 1.2.2¶4 / chapters/第1章_绪论_精修稿.md:L41",
+        "1章 1.2.2¶5 / chapters/第1章_绪论_精修稿.md:L43",
+        "2章 2.4.4¶2 / chapters/第2章_材料与方法_精修稿.md:L108",
+        "4章 4.1¶6 / chapters/第4章_讨论_精修稿.md:L15",
+        "4章 4.1¶6 / chapters/第4章_讨论_精修稿.md:L15",
+        "4章 4.2¶4 / chapters/第4章_讨论_精修稿.md:L31"
+      ]
+    },
+    {
+      "number": 2,
+      "source_id": "LE09",
+      "legacy_mark": "2",
+      "bibliography": "ALHARATY G, RAMASWAMY H S. The Effect of Sodium Alginate-Calcium Chloride Coating on the Quality Parameters and Shelf Life of Strawberry Cut Fruits[J]. Journal of Composites Science, 2020, 4: 123. DOI: 10.3390/jcs4030123.",
+      "pdf_path": "jcs-04-00123.pdf",
+      "sha256": "424d6ba731c6e2997fba900c8e77c7cc077de75fe7562a0580901122f541c534",
+      "physical_pages_checked": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        8
+      ],
+      "claim_and_limits": "鲜切1cm、2%SA/2%Ca、4℃15d及其失重/质构；一般交联背景为原文引言介绍，不冒充基础分子一手验证",
+      "body_positions": [
+        "1章 1.1¶1 / chapters/第1章_绪论_精修稿.md:L5",
+        "1章 1.1¶2 / chapters/第1章_绪论_精修稿.md:L7",
+        "1章 1.1¶3 / chapters/第1章_绪论_精修稿.md:L9",
+        "1章 1.1¶4 / chapters/第1章_绪论_精修稿.md:L11",
+        "1章 1.2.1¶1 / chapters/第1章_绪论_精修稿.md:L21",
+        "1章 1.2.1¶2 / chapters/第1章_绪论_精修稿.md:L23",
+        "1章 1.2.2¶1 / chapters/第1章_绪论_精修稿.md:L35",
+        "1章 1.2.3¶1 / chapters/第1章_绪论_精修稿.md:L51",
+        "1章 1.2.3¶3 / chapters/第1章_绪论_精修稿.md:L55",
+        "1章 1.2.3¶4 / chapters/第1章_绪论_精修稿.md:L57",
+        "1章 1.2.3¶5 / chapters/第1章_绪论_精修稿.md:L59",
+        "2章 2.3.1¶1 / chapters/第2章_材料与方法_精修稿.md:L58",
+        "2章 2.4.1¶1 / chapters/第2章_材料与方法_精修稿.md:L74",
+        "2章 2.4.4¶1 / chapters/第2章_材料与方法_精修稿.md:L106",
+        "4章 4.1¶6 / chapters/第4章_讨论_精修稿.md:L15",
+        "4章 4.2¶2 / chapters/第4章_讨论_精修稿.md:L27"
+      ]
+    },
+    {
+      "number": 3,
+      "source_id": "LE08",
+      "legacy_mark": "4",
+      "bibliography": "SENTURK PARREIDT T, LINDNER M, ROTHKOPF I, SCHMID M, MÜLLER K. The Development of a Uniform Alginate-Based Coating for Cantaloupe and Strawberries and the Characterization of Water Barrier Properties[J]. Foods, 2019, 8: 203. DOI: 10.3390/foods8060203.",
+      "pdf_path": "foods-08-00203-v2 2.pdf",
+      "sha256": "ca6776176de675559ba75c9b8fa207704ce4a835ea710d6fff973b99ecd18f0f",
+      "physical_pages_checked": [
+        1,
+        2,
+        4,
+        5,
+        7,
+        8,
+        9,
+        17
+      ],
+      "claim_and_limits": "完整草莓10℃90%RH失水增加；材料测试和果面测量分开，不能移作本研究实测膜性能",
+      "body_positions": [
+        "1章 1.1¶2 / chapters/第1章_绪论_精修稿.md:L7",
+        "1章 1.1¶6 / chapters/第1章_绪论_精修稿.md:L15",
+        "1章 1.2.1¶1 / chapters/第1章_绪论_精修稿.md:L21",
+        "1章 1.2.1¶2 / chapters/第1章_绪论_精修稿.md:L23",
+        "1章 1.2.1¶3 / chapters/第1章_绪论_精修稿.md:L25",
+        "1章 1.2.1¶5 / chapters/第1章_绪论_精修稿.md:L29",
+        "1章 1.2.2¶1 / chapters/第1章_绪论_精修稿.md:L35",
+        "1章 1.2.2¶3 / chapters/第1章_绪论_精修稿.md:L39",
+        "1章 1.2.3¶1 / chapters/第1章_绪论_精修稿.md:L51",
+        "1章 1.2.3¶5 / chapters/第1章_绪论_精修稿.md:L59",
+        "2章 2.3.1¶1 / chapters/第2章_材料与方法_精修稿.md:L58",
+        "2章 2.4.1¶1 / chapters/第2章_材料与方法_精修稿.md:L74",
+        "4章 4.2¶2 / chapters/第4章_讨论_精修稿.md:L27"
+      ]
+    },
+    {
+      "number": 4,
+      "source_id": "LE03",
+      "legacy_mark": "3",
+      "bibliography": "PERETTO G. Post-harvest as a tool to improve berry fruit quality[D]. 博士论文. Università degli Studi di Padova, 2014.",
+      "pdf_path": "Greta_Peretto_PhD_dissertation.pdf",
+      "sha256": "a056765038865fdb6c5bfaa2f69cc83e8ca7f4f0cbee996bf198e67c163ef151",
+      "physical_pages_checked": [
+        1,
+        3,
+        177,
+        178,
+        179,
+        180,
+        181,
+        185,
+        195,
+        196,
+        197
+      ],
+      "claim_and_limits": "喷涂覆盖与品质，7.5±0.5℃90%RH13d；沉积改善与未检出失重差并列",
+      "body_positions": [
+        "1章 1.1¶2 / chapters/第1章_绪论_精修稿.md:L7",
+        "1章 1.1¶3 / chapters/第1章_绪论_精修稿.md:L9",
+        "1章 1.2.2¶3 / chapters/第1章_绪论_精修稿.md:L39",
+        "1章 1.2.3¶6 / chapters/第1章_绪论_精修稿.md:L61",
+        "4章 4.2¶3 / chapters/第4章_讨论_精修稿.md:L29"
+      ]
+    },
+    {
+      "number": 5,
+      "source_id": "LE07",
+      "legacy_mark": "6",
+      "bibliography": "GAO C, DING Y, LI J, WANG Z, HAN D, XIA Y. Composite Solution of Tea Polyphenols and Sodium Alginate for Coating Preservation of Strawberries[J]. Advance Journal of Food Science and Technology, 2015, 9(8): 651-657. DOI: 10.19026/ajfst.9.1981.",
+      "pdf_path": "eb0e68fb8f6c2a811368a62e444e782162e8.pdf",
+      "sha256": "d4f9e735c0b02f01bf568dd9ce8b06485d00fadfe9a9047a1d8664dc78606634",
+      "physical_pages_checked": [
+        1,
+        2
+      ],
+      "claim_and_limits": "对照设置与分级加权腐烂指数；室温具体数值、间隔不清，不采用精确效果",
+      "body_positions": [
+        "1章 1.1¶2 / chapters/第1章_绪论_精修稿.md:L7",
+        "1章 1.2.2¶2 / chapters/第1章_绪论_精修稿.md:L37",
+        "1章 1.2.3¶4 / chapters/第1章_绪论_精修稿.md:L57",
+        "2章 2.4.2¶3 / chapters/第2章_材料与方法_精修稿.md:L94"
+      ]
+    },
+    {
+      "number": 6,
+      "source_id": "LE24",
+      "legacy_mark": "LE24",
+      "bibliography": "范鹏, 李宇裕, 黄泽雄, 胡华宇. 空气负离子环境中草莓采后品质的变化[J]. 广西大学学报（自然科学版）, 2026, 51(4): 984-994. DOI: 10.13624/j.cnki.issn.1001-7445.2026.0984.",
+      "pdf_path": "空气负离子环境中草莓采后品质的变化_范鹏.pdf",
+      "sha256": "c735e005609562535f83bce4a1ab3cf638caffbeabb35c8f77e5daf288f6dce1",
+      "physical_pages_checked": [
+        1,
+        3,
+        5,
+        6
+      ],
+      "claim_and_limits": "15℃90%RH四天的多指标时间响应；非SA处理，硬度单位与本研究不同",
+      "body_positions": [
+        "1章 1.1¶5 / chapters/第1章_绪论_精修稿.md:L13",
+        "1章 1.2.3¶4 / chapters/第1章_绪论_精修稿.md:L57"
+      ]
+    },
+    {
+      "number": 7,
+      "source_id": "LE25",
+      "legacy_mark": "5",
+      "bibliography": "汪秀妹, 谢倩芸, 李璐璐, 赵晓旭, 庞杰. 脂肪酸对魔芋葡甘聚糖/海藻酸钠复合膜结构和性质的影响[J]. 中国食品学报, 2026, 26(7): 173-186. DOI: 10.16429/j.1009-7848.2026.07.015.",
+      "pdf_path": "脂肪酸对魔芋葡甘聚糖_海藻酸钠复合膜结构和性质的影响_汪秀妹.pdf",
+      "sha256": "e62021d88ed63646a67802aa433678f55ce9bbcab99ac71968498ca1ebde40d3",
+      "physical_pages_checked": [
+        1,
+        3,
+        10
+      ],
+      "claim_and_limits": "水蒸气透过性与水溶性定义，脂肪酸添加量非单调改善；SA在该文指硬脂酸、NaAlg指海藻酸钠；CaCl2用于材料测试",
+      "body_positions": [
+        "1章 1.2.1¶4 / chapters/第1章_绪论_精修稿.md:L27",
+        "1章 1.2.1¶4 / chapters/第1章_绪论_精修稿.md:L27",
+        "4章 4.1¶9 / chapters/第4章_讨论_精修稿.md:L21"
+      ]
+    },
+    {
+      "number": 8,
+      "source_id": "LE37",
+      "legacy_mark": "LE37",
+      "bibliography": "王维. 海藻酸钠复合涂膜制备及芒果保鲜效果评价[D]. 硕士论文. 天津科技大学, 2025.",
+      "pdf_path": "海藻酸钠复合涂膜制备及芒果保鲜效果评价_王维.pdf",
+      "sha256": "31a204dd515eeaafd71fdb3c1a19c22d4e0f4e5f142b05285cf31df2e027049b",
+      "physical_pages_checked": [
+        1,
+        2,
+        34,
+        40,
+        42,
+        43
+      ],
+      "claim_and_limits": "材料优化到25℃芒果应用的分层验证；非草莓/非Ca，不移最优配方",
+      "body_positions": [
+        "1章 1.2.1¶5 / chapters/第1章_绪论_精修稿.md:L29"
+      ]
+    },
+    {
+      "number": 9,
+      "source_id": "LE26",
+      "legacy_mark": "7",
+      "bibliography": "李勇锋. 茶多糖-海藻酸钠复合涂膜对草莓的保鲜效果研究[J]. 绿色包装, 2024(1): 20-26. DOI: 10.19362/j.cnki.cn10-1400/tb.2024.01.002.",
+      "pdf_path": "茶多糖-海藻酸钠复合涂膜对草莓的保鲜效果研究_李勇锋.pdf",
+      "sha256": "0aba23c944ac72f509bcd19ef4d506c2d7f1c46c4ec4b132fff6da7d626901a8",
+      "physical_pages_checked": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "claim_and_limits": "4℃茶多糖固定背景浓度梯度及硬度方向；不采用不完整失重公式",
+      "body_positions": [
+        "1章 1.2.2¶2 / chapters/第1章_绪论_精修稿.md:L37",
+        "1章 1.2.3¶4 / chapters/第1章_绪论_精修稿.md:L57",
+        "4章 4.2¶6 / chapters/第4章_讨论_精修稿.md:L35"
+      ]
+    },
+    {
+      "number": 10,
+      "source_id": "LE31",
+      "legacy_mark": "LE31",
+      "bibliography": "杨昕妍. 大豆分离蛋白/海藻酸钠复合膜的制备及其果蔬保鲜应用研究[D]. 硕士论文. 南京农业大学, 2024.",
+      "pdf_path": "大豆分离蛋白_海藻酸钠复合膜的制备及其果蔬保鲜应用研究_杨昕妍.pdf",
+      "sha256": "c1dd8d2735dc331075a16ced32bdb008488d440642bd99b8578ca3952c79a258",
+      "physical_pages_checked": [
+        1,
+        2,
+        42,
+        43,
+        46,
+        47
+      ],
+      "claim_and_limits": "25℃草莓独立膜封装，PE低失重与后期可食率不同方向；可食率不是本研究累计腐烂补数",
+      "body_positions": [
+        "1章 1.2.2¶4 / chapters/第1章_绪论_精修稿.md:L41",
+        "1章 1.2.3¶4 / chapters/第1章_绪论_精修稿.md:L57",
+        "4章 4.1¶8 / chapters/第4章_讨论_精修稿.md:L19"
+      ]
+    },
+    {
+      "number": 11,
+      "source_id": "LE34",
+      "legacy_mark": "LE34",
+      "bibliography": "于晴晴, 丁永刚, 宫博, 柳鑫. 桃胶可食性涂膜对草莓保鲜效果的影响[J]. 湖北农业科学, 2024, 63(1): 142-147. DOI: 10.14088/j.cnki.issn0439-8114.2024.01.026.",
+      "pdf_path": "桃胶可食性涂膜对草莓保鲜效果的影响_于晴晴.pdf",
+      "sha256": "abe822c723e5f28c2c74ba3a0e8dc913fa2866a7232174ae046c4c1287fefca0",
+      "physical_pages_checked": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "claim_and_limits": "20℃5d桃胶草莓硬度/TSS及阶段失重；失重回落与累计定义不清，只作受限方向比较",
+      "body_positions": [
+        "1章 1.2.2¶5 / chapters/第1章_绪论_精修稿.md:L43",
+        "4章 4.2¶5 / chapters/第4章_讨论_精修稿.md:L33",
+        "4章 4.2¶8 / chapters/第4章_讨论_精修稿.md:L39"
+      ]
+    },
+    {
+      "number": 12,
+      "source_id": "LE20",
+      "legacy_mark": "9",
+      "bibliography": "朱金花. 海藻酸钠/纳米CaCO₃复合材料涂膜对冷藏草莓风味的影响[D]. 硕士论文. 扬州大学, 2019.",
+      "pdf_path": "海藻酸钠_纳米CaCO_3复含材料涂膜对冷藏草莓风味的影响_朱金花.pdf",
+      "sha256": "e64bdcfff7b2dba4c3f18db5954dfb4f37ab0674eda66ede3db684fa3aa11065",
+      "physical_pages_checked": [
+        1,
+        2,
+        19,
+        21,
+        33
+      ],
+      "claim_and_limits": "冷藏后模拟货架期及SSC阶段变化；扫描件目视页19/21/33；终点日数对应有疑点，不取精确效应",
+      "body_positions": [
+        "1章 1.2.2¶5 / chapters/第1章_绪论_精修稿.md:L43",
+        "1章 1.2.2¶6 / chapters/第1章_绪论_精修稿.md:L45",
+        "1章 1.2.3¶3 / chapters/第1章_绪论_精修稿.md:L55",
+        "4章 4.2¶8 / chapters/第4章_讨论_精修稿.md:L39"
+      ]
+    },
+    {
+      "number": 13,
+      "source_id": "LE06",
+      "legacy_mark": "8",
+      "bibliography": "YAN X, YU Z, CHEN Y, HAN C, WEI Y, YANG F, QIAN Y, WANG Y. Sodium Alginate–Montmorillonite Composite Film Coatings for Strawberry Preservation[J]. Coatings, 2024, 14: 1331. DOI: 10.3390/coatings14101331.",
+      "pdf_path": "coatings-14-01331 2.pdf",
+      "sha256": "0daef1792527746bb83ddc35429acb73fe612ddf47de9e8cbe05f879b92a81a4",
+      "physical_pages_checked": [
+        1,
+        2,
+        12
+      ],
+      "claim_and_limits": "4℃复配体系SSC图的先升后降；不采基线/单位存在疑点的其他精确指标",
+      "body_positions": [
+        "1章 1.2.2¶6 / chapters/第1章_绪论_精修稿.md:L45",
+        "4章 4.2¶8 / chapters/第4章_讨论_精修稿.md:L39"
+      ]
+    },
+    {
+      "number": 14,
+      "source_id": "LE30",
+      "legacy_mark": "LE30",
+      "bibliography": "郝乾坤, 王智民, 童开林. 外源海藻糖对草莓保鲜效果的影响[J]. 陕西农业科学, 2022, 68(8): 84-87.",
+      "pdf_path": "外源海藻糖对草莓保鲜效果的影响_郝乾坤.pdf",
+      "sha256": "e91697be28d8db92ea2c9bf48b0ab300e329ef17e1c5930fad9906529142df9c",
+      "physical_pages_checked": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "claim_and_limits": "同一约23℃、RH约40%环境下海藻糖草莓的TSS阶段方向不一；仅定性曲线，不移失重公式、硬度日别或作者细胞膜机制",
+      "body_positions": [
+        "1章 1.2.2¶6 / chapters/第1章_绪论_精修稿.md:L45",
+        "4章 4.2¶9 / chapters/第4章_讨论_精修稿.md:L41"
+      ]
+    },
+    {
+      "number": 15,
+      "source_id": "LE36",
+      "legacy_mark": "LE36",
+      "bibliography": "鲍若晗, 刘一帆, 孟岳成. 海藻酸钠/ε-聚赖氨酸层层自组装可食膜对蓝莓保鲜效果的研究[J]. 中国食品添加剂, 2023(6): 271-280. DOI: 10.19804/j.issn1006-2513.2023.06.032.",
+      "pdf_path": "海藻酸钠_ε-聚赖氨酸层层自组装可食膜对蓝莓保鲜效果的研究_鲍若晗.pdf",
+      "sha256": "b86e6f0a3ddbc18fa53f78e3cf92392a0026d997c056d4bd1e8f19f31f137ed6",
+      "physical_pages_checked": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "claim_and_limits": "蓝莓四步层层施液/次序及混样制备；25℃50%RH，非草莓钙处理；卷号未确认不填",
+      "body_positions": [
+        "1章 1.2.3¶2 / chapters/第1章_绪论_精修稿.md:L53",
+        "1章 1.2.3¶5 / chapters/第1章_绪论_精修稿.md:L59"
+      ]
+    },
+    {
+      "number": 16,
+      "source_id": "LE38",
+      "legacy_mark": "LE38",
+      "bibliography": "谢玉花, 农广律, 宋慕波, 张芬, 段振华, 商飞飞. 海藻酸钠复合涂膜对贡柑保鲜效果的影响[J]. 食品工业, 2021, 42(2): 43-47.",
+      "pdf_path": "海藻酸钠复合涂膜对贡柑保鲜效果的影响_谢玉花.pdf",
+      "sha256": "0d007d70b7fcd023acf472a8bad2b4874e2f1830f4771cc456f0c82f10d24d8e",
+      "physical_pages_checked": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "claim_and_limits": "折光与蒽酮糖定量输入不同；式4标准曲线、体积、稀释和质量关系；不移贡柑效果",
+      "body_positions": [
+        "2章 2.4.4¶2 / chapters/第2章_材料与方法_精修稿.md:L108"
+      ]
+    },
+    {
+      "number": 17,
+      "source_id": "LE12",
+      "legacy_mark": "LE12",
+      "bibliography": "侯秋月. 基于相转变溶菌酶的抑菌薄膜构建及其在草莓保鲜中的应用研究[D]. 硕士论文. 湖北工业大学, 2026.",
+      "pdf_path": "基于相转变溶菌酶的抑菌薄膜构建及其在草莓保鲜中的应用研究_侯秋月.pdf",
+      "sha256": "71b6a326ae412bdd5721d35ca7e295081adea4111350da7f3750f950bb0f6f90",
+      "physical_pages_checked": [
+        1,
+        2,
+        50,
+        51,
+        59
+      ],
+      "claim_and_limits": "相转变溶菌酶活性层PE与PE载膜对照；30℃为制膜干燥而非果实储藏，具体室温/RH未报",
+      "body_positions": [
+        "4章 4.2¶4 / chapters/第4章_讨论_精修稿.md:L31"
+      ]
+    },
+    {
+      "number": 18,
+      "source_id": "LE29",
+      "legacy_mark": "LE29",
+      "bibliography": "任艺彬, 任邦来, 何珍. 不同浓度海藻酸钠处理对杏果实保鲜效果的影响[J]. 陇东学院学报, 2020, 31(2): 103-106.",
+      "pdf_path": "不同浓度海藻酸钠处理对杏果实保鲜效果的影响_任艺彬.pdf",
+      "sha256": "57f2931f9e81f9d718e2ddf201e032e2f77de8cc612440c462adf57b241ac7f7",
+      "physical_pages_checked": [
+        1,
+        2,
+        3
+      ],
+      "claim_and_limits": "杏果实海藻酸钠浓度梯度，22℃袋装；不据1.5%同名浓度确定本研究最优",
+      "body_positions": [
+        "4章 4.2¶6 / chapters/第4章_讨论_精修稿.md:L35"
+      ]
+    },
+    {
+      "number": 19,
+      "source_id": "LE19",
+      "legacy_mark": "10",
+      "bibliography": "王清, 陈秋怡, 雷磊, 孙鹤, 赵艺飞, 朱静, 刘涛. 海藻酸钠/壳聚糖/纳米硒复合膜的制备及其在草莓保鲜中的应用[J]. 食品与发酵工业, 2025, 51(17): 317-325. DOI: 10.13995/j.cnki.11-1802/ts.041356.",
+      "pdf_path": "海藻酸钠_壳聚糖_纳米硒复合膜的制备及其在草莓保鲜中的应用_王清.pdf",
+      "sha256": "2300c122477f3061be9697641340e9322827147c51369c003e4f3840d04cd02b",
+      "physical_pages_checked": [
+        1,
+        3,
+        6,
+        7
+      ],
+      "claim_and_limits": "复合独立膜硬度/腐烂方向；温湿度未报，kg/cm²不与N排名，失重公式不用",
+      "body_positions": [
+        "4章 4.2¶7 / chapters/第4章_讨论_精修稿.md:L37"
+      ]
+    },
+    {
+      "number": 20,
+      "source_id": "LE35",
+      "legacy_mark": "LE35",
+      "bibliography": "陈顺心, 刘海波, 朱静, 徐楷博, 徐亚强, 陈龙, 陈亚蓝. 海藻酸钠-壳聚糖-茶末复合膜的制备及其对葡萄的保鲜效果[J]. 食品研究与开发, 2024, 45(2): 145-153. DOI: 10.12161/j.issn.1005-6521.2024.02.021.",
+      "pdf_path": "海藻酸钠-壳聚糖-茶末复合膜的制备及其对葡萄的保鲜效果_陈顺心.pdf",
+      "sha256": "9f9ea417fe63ab1eb22717d50ce473ebc35ac839f845cdf4427a9b28c7fd5429",
+      "physical_pages_checked": [
+        1,
+        3,
+        7
+      ],
+      "claim_and_limits": "葡萄封瓶的失重与腐烂排序不一；初始状态/重复结构有限，不迁移抑菌机制",
+      "body_positions": [
+        "4章 4.2¶7 / chapters/第4章_讨论_精修稿.md:L37"
+      ]
+    }
+  ],
+  "counts": [
+    {
+      "chapter": "第1章_绪论_精修稿.md",
+      "old_han": 5057,
+      "new_han": 3602,
+      "old_paragraphs": 32,
+      "new_paragraphs": 30
+    },
+    {
+      "chapter": "第2章_材料与方法_精修稿.md",
+      "old_han": 3619,
+      "new_han": 2512,
+      "old_paragraphs": 33,
+      "new_paragraphs": 32
+    },
+    {
+      "chapter": "第3章_结果与分析_精修稿.md",
+      "old_han": 2540,
+      "new_han": 1493,
+      "old_paragraphs": 27,
+      "new_paragraphs": 27
+    },
+    {
+      "chapter": "第4章_讨论_精修稿.md",
+      "old_han": 6060,
+      "new_han": 3720,
+      "old_paragraphs": 34,
+      "new_paragraphs": 26
+    },
+    {
+      "chapter": "结论_精修稿.md",
+      "old_han": 657,
+      "new_han": 475,
+      "old_paragraphs": 5,
+      "new_paragraphs": 5
+    }
+  ],
+  "page_map": {
+    "摘 要": "I",
+    "Abstract": "II",
+    "第1章 绪论": 1,
+    "1.1 研究背景与问题": 1,
+    "1.2 海藻酸钠涂膜及草莓保鲜研究进展": 2,
+    "1.2.1 海藻酸钠成膜与钙离子交联的理论依据": 2,
+    "1.2.2 已发表草莓涂膜研究的条件与结果差异": 3,
+    "1.2.3 完整草莓常温研究的可比性问题": 5,
+    "1.3 本研究目的、范围与研究思路": 6,
+    "第2章 材料与方法": 8,
+    "2.1 实验材料与仪器": 8,
+    "2.1.1 草莓原料与处理试剂": 8,
+    "2.1.2 主要仪器与设备信息": 8,
+    "2.2 实验设计与分组": 9,
+    "2.2.1 日期批次与双步浸渍分组": 9,
+    "2.2.2 母液、容器与果实的层级关系": 9,
+    "2.2.3 L与D队列的样本分配及取样计划": 10,
+    "2.3 处理流程与贮藏安排": 10,
+    "2.3.1 原料准备、浸渍与沥水风干": 10,
+    "2.3.2 贮藏设置与温湿度监测安排": 11,
+    "2.4 品质指标测定与计算": 11,
+    "2.4.1 失重率测量与计算": 11,
+    "2.4.2 累计腐烂状态判定与比例计算": 12,
+    "2.4.3 表观硬度测定": 12,
+    "2.4.4 可溶性固形物测定": 13,
+    "2.5 数据汇总与结果呈现方法": 13,
+    "第3章 结果与分析": 15,
+    "3.1 观测环境与有效样本概况": 15,
+    "3.2 不同处理下失重率的变化": 16,
+    "3.3 不同处理下累计腐烂情况": 18,
+    "3.4 不同处理下表观硬度的变化": 19,
+    "3.5 不同处理下可溶性固形物的变化": 20,
+    "3.6 批次差异与汇总口径敏感性": 21,
+    "第4章 讨论": 25,
+    "4.1 四项指标表现不一致的解释边界": 25,
+    "4.2 与已发表草莓涂膜研究的比较": 27,
+    "4.3 批次差异与研究局限": 29,
+    "结论": 32,
+    "参考文献": 33,
+    "附录1 中间时点描述统计补充": 35,
+    "致 谢": 36
+  },
+  "table_cut": 3
+}
